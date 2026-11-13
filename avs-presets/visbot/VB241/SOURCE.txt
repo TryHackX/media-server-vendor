@@ -1,0 +1,10 @@
+Pack: VB241
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB241.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB241.exe.zip, 506474 bytes, sha256 e470ccbba00b3b59ce97d372117003a5b600cefaa40461af355b985b6b281834
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB241.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 27; kept here: 27; byte-identical to a preset already in vendor/avs-presets (left out): 0
+Images kept (named by a preset of this pack): 18
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

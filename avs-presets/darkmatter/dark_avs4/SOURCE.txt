@@ -1,0 +1,13 @@
+Pack: dark_avs4
+Author / group folder in the archive: darkmatter
+Source: https://files.visbot.net/archive/darkmatter/dark_avs4.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: dark_avs4.7z, 80012 bytes, sha256 faaff0e882a0eb457dc886b31cf2371aec2c19ee1d0da85a43a13f1fa8a65a87
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 15 (15 different)
+Added here: 15
+Images kept (named by a preset): 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

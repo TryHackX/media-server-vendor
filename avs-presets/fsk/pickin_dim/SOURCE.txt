@@ -1,0 +1,12 @@
+Pack: pickin_dim
+Author / group folder in the archive: fsk
+Source: https://files.visbot.net/archive/fsk/pickin_dim.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: pickin_dim.7z, 14244 bytes, sha256 6e01e77fa8647c8b515da7d3c5c916127f31900515963d6e5ce9900f319d4510
+Retrieved: 2026-11-09
+Installer: pickin_dim_colection.exe: PiMP (install_folder )
+Presets in the pack: 6 (6 different)
+Added here: 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

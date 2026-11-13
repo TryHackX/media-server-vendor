@@ -1,0 +1,13 @@
+Pack: Functions
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/Functions.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Functions.7z, 141387 bytes, sha256 d61dbf4ae8d0314ead01dd6b712baef15c58f6b66819dbadfa1bbf55a70617a1
+Retrieved: 2026-11-09
+Installer: Tuggummi_-_Functions.exe: NSIS 2.x / non-solid zlib
+Presets in the pack: 25 (25 different)
+Added here: 25
+Images kept (named by a preset): 29
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

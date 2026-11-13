@@ -1,0 +1,12 @@
+Pack: minipack3-black_and_white
+Author / group folder in the archive: undefined
+Source: https://files.visbot.net/archive/undefined/minipack3-black_and_white.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: minipack3-black_and_white.7z, 53178 bytes, sha256 99f4c09f219f251db620ee8dc0bbfbb09bb525a2b16a422953e86efdfc29234d
+Retrieved: 2026-11-09
+Installer: MiniPak_3___Black_And_White.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 22 (11 different)
+Added here: 11
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

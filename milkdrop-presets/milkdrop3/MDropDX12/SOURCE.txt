@@ -1,0 +1,13 @@
+Presets MDropDX12 ships in its bundle, mostly MilkDrop2077's remixes of community presets.
+
+Source:   https://github.com/shanevbg/MDropDX12 — bundle/presets/ (branch main, tree 564407e127c4),
+          fetched 09.11.2026 from raw.githubusercontent.com; each file's size checked against the
+          tree. 93 .milk there; resources/presets/TEST (two get_fft test presets) left out.
+Files:    22 .milk — the ones no pack here has (compared by content, line endings ignored).
+          Of the other 71: 57 are in BeatDrop's pack, 12 in this pack's Presets/ (MilkDrop 3's
+          installer), 2 in MilkDrop original.
+Licence:  the repository's LICENSE: its own content is CC BY-NC 4.0 (non-commercial, with
+          attribution) and "third-party components retain their original licenses";
+          THIRD-PARTY-LICENSES.txt calls MilkDrop presets text that is freely shared and remixed,
+          credited to their authors. The presets keep their authors' names. Kept in the
+          git-ignored vendor/ only; do not commit or redistribute.

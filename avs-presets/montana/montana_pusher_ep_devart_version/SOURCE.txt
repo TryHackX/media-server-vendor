@@ -1,0 +1,12 @@
+Pack: montana_pusher_ep_devart_version
+Author / group folder in the archive: montana
+Source: https://files.visbot.net/archive/montana/montana_pusher_ep_devart_version.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: montana_pusher_ep_devart_version.7z, 3410 bytes, sha256 68f5084a836a4e6f3f099a73ee88e754a823ea3851f6f6ef9e77a06dd7f89c76
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 6 (6 different)
+Added here: 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

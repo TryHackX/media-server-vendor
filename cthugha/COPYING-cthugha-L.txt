@@ -1,0 +1,82 @@
+Copyright Information: 
+---------------------- 
+  
+ Some parts of the source are from the public domain and are not 
+ copyrighted. 
+  
+ Some parts of the source bear explicit copyright notices from the 
+ author and are subject to the conditions listed there by the author. 
+  
+ The remainder of the source (not already public domain, no explicit 
+ author's copyright notice) is Copyright 1995-97 by Harald Deischinger.
+ 
+ The source code may be copied freely and may be used in other programs 
+ under the following conditions: 
+  It may not be used in a commercial program without prior permission. 
+  Please credit the author (in general, credit Cthugha, Torps 
+  Productions and Harald Deischinger) as the source of the code. 
+  
+ This copyright notice is grafted from the Fractint copyright notice. 
+
+
+ 
+Shareware 
+---------
+
+* Free for non-commercial use  -  Send a Postcard to show your appreciation 
+  If you have more money than you know what to do with, then send me a CD 
+  of something you like listening to with Cthugha on the screen... 
+ 
+  Really, there's no point sending me a cheque for $20-$30, because its going 
+  to cost to get it cashed anyway, and I'd probably go out and buy a CD with 
+  the money, so - if you want to send more than a postcard,  why not just send 
+  a CD instead ?? 
+ 
+* Commercial users register for US$50 (you can also use another
+  currency) or send 2 CDs.
+ 
+* If you can't afford to register send a video tape (PAL preferably) of 
+  public performance or send a postcard :-) 
+ 
+* If you forward this program on to friends, make it available on a 
+  BBS, etc please include all the document (un-adulterated). 
+ 
+* If you run a shareware house/store, the disk you sell this program on 
+  is not allowed to be sold for more than US$20. 
+ 
+
+DISCLAIMER
+----------
+
+This software is provided 'as is' without warranty of any kind implied or
+expressed. 
+
+
+
+Modifying the code: 
+------------------- 
+ 
+ Feel free to modify this source code, HOWEVER, please send any working 
+ changes/fixes to me (deischi@geocities.com) for inclusion in 
+ future versions of the code. 
+ 
+
+Distributing the code: 
+---------------------- 
+ 
+ Feel free to distribute this code, as long as it is complete and contains 
+ all copyright information that was included in the original. 
+ 
+ Please do *NOT* distribute your own version of Cthugha. Instead, send 
+ me the changes, and I will make it an official release. 
+
+ 
+Legal Issues: 
+------------- 
+ 
+ What legal issues ??? 
+ 
+ Come on guys, this is for *fun*, get on with it, make it great, make us 
+ all famous!!! 
+ 
+ 

@@ -1,0 +1,12 @@
+Pack: tentaclism_edit
+Author / group folder in the archive: dynamicduo
+Source: https://files.visbot.net/archive/dynamicduo/tentaclism_edit.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: tentaclism_edit.zip, 1525 bytes, sha256 40b18d91c47d9696d8f5a2877d7f205ac8601af3517cdb3825cc43ff4138edc7
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 1 (1 different)
+Added here: 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

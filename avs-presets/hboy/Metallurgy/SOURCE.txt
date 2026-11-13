@@ -1,0 +1,12 @@
+Pack: Metallurgy
+Author / group folder in the archive: hboy
+Source: https://files.visbot.net/archive/hboy/Metallurgy.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Metallurgy.7z, 42506 bytes, sha256 7805b1b661eec17e48f450c77102e8f69907f3cebbb8035509ca38550d582e39
+Retrieved: 2026-11-09
+Installer: Hboy___Metallurgy.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 3 (3 different)
+Added here: 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

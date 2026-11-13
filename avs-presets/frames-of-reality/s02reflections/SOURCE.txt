@@ -1,0 +1,13 @@
+Pack: s02reflections
+Author / group folder in the archive: frames-of-reality
+Source: https://files.visbot.net/archive/frames-of-reality/s02reflections.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: s02reflections.7z, 184500 bytes, sha256 70f4b9096b91363d4e2fee9cf2c68717412aa2cdbd061639a11761bd3d2734a8
+Retrieved: 2026-11-09
+Installer: s02_reflections.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 32 (32 different)
+Added here: 32
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

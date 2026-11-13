@@ -1,0 +1,13 @@
+Pack: ParaNoya_Breaking_Boundaries
+Author / group folder in the archive: paranoya
+Source: https://files.visbot.net/archive/paranoya/ParaNoya_Breaking_Boundaries.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: ParaNoya_Breaking_Boundaries.7z, 40241 bytes, sha256 8a1d5765e9daa7ba4a6264b1164c5420cbf0827908d743926d5185bab7a63130
+Retrieved: 2026-11-09
+Installer: ParaNoya_-_Breaking_Boundaries.exe: NSIS 1.9x (entry_size 24, extract_opcode 5, setoutpath (0, 5))
+Presets in the pack: 15 (15 different)
+Added here: 14
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

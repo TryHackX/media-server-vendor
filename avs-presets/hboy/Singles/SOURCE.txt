@@ -1,0 +1,12 @@
+Pack: Singles
+Author / group folder in the archive: hboy
+Source: https://files.visbot.net/archive/hboy/Singles.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Singles.7z, 35741 bytes, sha256 7e91f48c4bcbdea3cf2ddda313c4bb8d2b7aad88c08743cd1b6eec50f1c780ef
+Retrieved: 2026-11-09
+Installer: Hboy___Singles.exe: NSIS 2.0b4 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 1 (1 different)
+Added here: 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

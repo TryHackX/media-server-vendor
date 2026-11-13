@@ -1,0 +1,13 @@
+Pack: yi-hybrids720
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-hybrids720.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-hybrids720.7z, 45100 bytes, sha256 09fe8f80b2282e7e78be6b4ff89855e6bb42faeece8156217bf3e3ee34910299
+Retrieved: 2026-11-09
+Installer: hybrids7201-0.exe: NSIS 2.0b0 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 45 (45 different)
+Added here: 12
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 33 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

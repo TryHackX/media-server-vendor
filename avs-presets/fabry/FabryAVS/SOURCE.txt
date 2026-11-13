@@ -1,0 +1,13 @@
+Pack: FabryAVS
+Author / group folder in the archive: fabry
+Source: https://files.visbot.net/archive/fabry/FabryAVS.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: FabryAVS.7z, 1191032 bytes, sha256 ec5690f4b15179169dd51f1be2f8dec78ab85dea2d52f9bdc5b8a3a6624221bc
+Retrieved: 2026-11-09
+Installer: Fabry_AVS_V42.exe: PiMP (install_folder $$PROGRAMFILES\winamp)
+Presets in the pack: 25 (25 different)
+Added here: 25
+Images kept (named by a preset): 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

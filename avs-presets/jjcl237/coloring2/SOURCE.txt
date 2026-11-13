@@ -1,0 +1,13 @@
+Pack: coloring2
+Author / group folder in the archive: jjcl237
+Source: https://files.visbot.net/archive/jjcl237/coloring2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: coloring2.7z, 261551 bytes, sha256 c551a49e8ed8abb5493c9e0f83da7cdb6e58b4b90430185f241feec0504dbbad
+Retrieved: 2026-11-09
+Installer: JjcL237___Coloring2.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 25 (25 different)
+Added here: 25
+Images kept (named by a preset): 7
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

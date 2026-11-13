@@ -1,0 +1,13 @@
+Pack: Breaking_Myself
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/Breaking_Myself.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Breaking_Myself.7z, 261357 bytes, sha256 b7bb6cce3eac8e0cf68e58047d4eb6768b3defa1758dcae8e6839fb295eace32
+Retrieved: 2026-11-09
+Installer: tuggummi_breaking_myself.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib
+Presets in the pack: 96 (48 different)
+Added here: 48
+Images kept (named by a preset): 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

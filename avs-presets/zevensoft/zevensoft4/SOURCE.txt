@@ -1,0 +1,13 @@
+Pack: zevensoft4
+Author / group folder in the archive: zevensoft
+Source: https://files.visbot.net/archive/zevensoft/zevensoft4.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: zevensoft4.7z, 142730 bytes, sha256 29161f777208b8d1debb668d422a1dd8f17716670139b84102d34d176f02e624
+Retrieved: 2026-11-09
+Installer: Zevensoft_AVS_Pack_4.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 20 (20 different)
+Added here: 20
+Images kept (named by a preset): 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

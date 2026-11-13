@@ -1,0 +1,12 @@
+Pack: lighthology3
+Author / group folder in the archive: nemo
+Source: https://files.visbot.net/archive/nemo/lighthology3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: lighthology3.7z, 61153 bytes, sha256 f4a8e5156dddd527d4ca4ff5970c6f082055b3c72a9d46c6f04f3735a1cb6baf
+Retrieved: 2026-11-09
+Installer: Lighthology_vol_III.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 12 (12 different)
+Added here: 12
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

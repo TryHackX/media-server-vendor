@@ -1,0 +1,12 @@
+Pack: ten_million_pennies
+Author / group folder in the archive: drew
+Source: https://files.visbot.net/archive/drew/ten_million_pennies.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: ten_million_pennies.7z, 76107 bytes, sha256 f29ab6e8bab4f5638e91b01c172983620ca2325cc4882b095fb78108d1f37dcb
+Retrieved: 2026-11-09
+Installer: ten_million_pennys_re_funk.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 1 (1 different)
+Added here: 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

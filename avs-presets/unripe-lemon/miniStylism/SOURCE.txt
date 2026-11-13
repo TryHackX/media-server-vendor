@@ -1,0 +1,12 @@
+Pack: miniStylism
+Author / group folder in the archive: unripe-lemon
+Source: https://files.visbot.net/archive/unripe-lemon/miniStylism.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: miniStylism.7z, 68719 bytes, sha256 4ac39b99d098e5162199d9e65fa7862799453a87cbb4fa211730ede278d82dd6
+Retrieved: 2026-11-09
+Installer: ULminiStylism.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 6 (6 different)
+Added here: 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

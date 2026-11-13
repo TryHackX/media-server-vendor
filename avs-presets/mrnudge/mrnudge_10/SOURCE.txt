@@ -1,0 +1,13 @@
+Pack: mrnudge_10
+Author / group folder in the archive: mrnudge
+Source: https://files.visbot.net/archive/mrnudge/mrnudge_10.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mrnudge_10.7z, 124011 bytes, sha256 438f736d4ca9abd6cd7349c23c6628977ba2dddc0d2ba827c65feb8a5b47eab8
+Retrieved: 2026-11-09
+Installer: MrNudge_Volume_10_by_MrNudge.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 16 (16 different)
+Added here: 16
+Images kept (named by a preset): 9
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

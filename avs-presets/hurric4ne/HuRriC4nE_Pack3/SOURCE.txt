@@ -1,0 +1,12 @@
+Pack: HuRriC4nE_Pack3
+Author / group folder in the archive: hurric4ne
+Source: https://files.visbot.net/archive/hurric4ne/HuRriC4nE_Pack3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: HuRriC4nE_Pack3.7z, 94604 bytes, sha256 7d149bbbdf57ccb81a3bdaacd2ceea1b27c1107a4bf9b28744ea87cb1f4e243b
+Retrieved: 2026-11-09
+Installer: hur03rmxpck01_dancemusic.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 10 (10 different)
+Added here: 10
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

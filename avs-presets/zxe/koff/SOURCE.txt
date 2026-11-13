@@ -1,0 +1,12 @@
+Pack: koff
+Author / group folder in the archive: zxe
+Source: https://files.visbot.net/archive/zxe/koff.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: koff.7z, 32385 bytes, sha256 61234ee8410c7b01ace00690d728e1dc2a5544567a3dbcb87632097bffb49688
+Retrieved: 2026-11-09
+Installer: Zxe-Koff.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 17 (17 different)
+Added here: 17
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

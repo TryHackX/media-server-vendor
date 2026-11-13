@@ -1,0 +1,12 @@
+Pack: Slumberland
+Author / group folder in the archive: nemo
+Source: https://files.visbot.net/archive/nemo/Slumberland.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Slumberland.7z, 27726 bytes, sha256 ac5ddacb8986a2959d4c368195cda9995fbae598e97b7bb1c186c662d011999d
+Retrieved: 2026-11-09
+Installer: Slumberland.exe: PiMP (install_folder $$PROGRAMFILES\Winamp\Plugins\avs\Slumberland)
+Presets in the pack: 18 (18 different)
+Added here: 18
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

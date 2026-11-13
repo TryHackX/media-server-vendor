@@ -1,0 +1,12 @@
+Pack: SuperscopeMP
+Author / group folder in the archive: hboy
+Source: https://files.visbot.net/archive/hboy/SuperscopeMP.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: SuperscopeMP.7z, 36456 bytes, sha256 21bea5b0a88ba762380b3f22a4bfb16501e5a1379ea54fd9f3bfd71d6f54a2ad
+Retrieved: 2026-11-09
+Installer: Hboy___Superscope_minipack.exe: NSIS 2.0b4 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 5 (5 different)
+Added here: 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

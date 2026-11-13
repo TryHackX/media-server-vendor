@@ -1,0 +1,12 @@
+Pack: mono2
+Author / group folder in the archive: montana
+Source: https://files.visbot.net/archive/montana/mono2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mono2.7z, 25667 bytes, sha256 18f9102cdb6c7d2698ccda4c11618721b271c9d33aa7aae3f8d2ddc339bcc49b
+Retrieved: 2026-11-09
+Installer: mono2.exe: PiMP (install_folder )
+Presets in the pack: 19 (19 different)
+Added here: 19
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

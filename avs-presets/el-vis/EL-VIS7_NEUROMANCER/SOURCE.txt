@@ -1,0 +1,12 @@
+Pack: EL-VIS7_NEUROMANCER
+Author / group folder in the archive: el-vis
+Source: https://files.visbot.net/archive/el-vis/EL-VIS7_NEUROMANCER.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: EL-VIS7_NEUROMANCER.7z, 32277 bytes, sha256 98d207dcc788af5cd55f77417318349c0fa8dac43cf0aac91f8eb4b1e09b20bf
+Retrieved: 2026-11-09
+Installer: ELVIS7_NEUROMANCER.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 13 (13 different)
+Added here: 13
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

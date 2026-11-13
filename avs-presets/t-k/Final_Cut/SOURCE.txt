@@ -1,0 +1,12 @@
+Pack: Final_Cut
+Author / group folder in the archive: t-k
+Source: https://files.visbot.net/archive/t-k/Final_Cut.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Final_Cut.7z, 28479 bytes, sha256 cd8bffa0ebbb6f22d7412d8c7f21591b86e992b6fbc93d3396fbbab66d547114
+Retrieved: 2026-11-09
+Installer: T-K_Pack_VI_-_Final_Cut.exe: PiMP (install_folder )
+Presets in the pack: 21 (21 different)
+Added here: 21
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

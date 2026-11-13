@@ -1,0 +1,13 @@
+Pack: Hellhammer_5
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Hellhammer_5.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hellhammer_5.7z, 21596 bytes, sha256 47e82b48d31b52ba621092db36bbc3fdaded3e0cfd2e1a40797b4ecfc3e67b6c
+Retrieved: 2026-11-09
+Installer: Hell_hammer5.exe: PiMP (install_folder )
+Presets in the pack: 23 (23 different)
+Added here: 21
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

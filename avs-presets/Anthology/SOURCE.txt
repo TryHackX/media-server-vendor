@@ -1,0 +1,12 @@
+Pack: Anthology (AVSociety)
+Author / group folder in the archive: avsociety
+Source: https://files.visbot.net/archive/avsociety/Anthology.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Anthology.7z, 298981 bytes, sha256 1f0f4ffcd1a278e00d3dc4540709de82466a0e652a52d87037e0ff3114aa356b
+Retrieved: 2026-11-09
+Installer: The_AVSociety_Anthology.exe: NSIS 2.0b4 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 295 (295 different)
+This folder held 295 of them before the VISBOT import; they are byte-identical to the archive's.
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

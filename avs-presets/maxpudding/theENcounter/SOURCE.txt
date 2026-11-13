@@ -1,0 +1,13 @@
+Pack: theENcounter
+Author / group folder in the archive: maxpudding
+Source: https://files.visbot.net/archive/maxpudding/theENcounter.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: theENcounter.7z, 159795 bytes, sha256 931315c70cd28c90d486f6e241e496f2600d19bcfec83939ba923e463b5aa498
+Retrieved: 2026-11-09
+Installer: theENcounter.exe: NSIS 2.0b0 / non-solid zlib
+Presets in the pack: 62 (31 different)
+Added here: 30
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

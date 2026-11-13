@@ -1,0 +1,10 @@
+Pack: VB190
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB190.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB190.exe.zip, 273438 bytes, sha256 94ff593a6e09d19892873969bc7fdc4a1bfd7bfa6ecf7bd8d9358f3d0235c0ce
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB190.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 13; kept here: 6; byte-identical to a preset already in vendor/avs-presets (left out): 7
+Images kept (named by a preset of this pack): 2
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

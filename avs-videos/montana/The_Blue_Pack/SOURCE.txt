@@ -1,0 +1,7 @@
+AVI clips that presets of this pack play with AVS's Render / AVI effect, from the pack's own
+installer in the VISBOT archive (https://visbot.net/archive), retrieved 2026-11-09, read as
+data. Decoded with this project's FFmpeg (runtime/) into WebP frame atlases: <name>.json
+maps each frame of the stream's index (AVIStreamGetFrame) to a tile. The clips belong to
+their authors; no licence allows redistribution, so this folder stays out of git.
+
+THPS1.avi: from montana/The_Blue_Pack (sha256 aa548e40d0107a31cbb628962078ecc64de61e8404f475f7a06b4845e33dc5db), indeo5 156x140, 356 frames (356 distinct), 1 WebP page (quality 92)

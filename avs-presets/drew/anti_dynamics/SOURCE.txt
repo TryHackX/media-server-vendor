@@ -1,0 +1,13 @@
+Pack: anti_dynamics
+Author / group folder in the archive: drew
+Source: https://files.visbot.net/archive/drew/anti_dynamics.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: anti_dynamics.7z, 71608 bytes, sha256 6416e2ad3e98b5bcc7d068dac076b914c54fa7aa3779a8bab314d7ca142dc6b0
+Retrieved: 2026-11-09
+Installer: anti_dynamics.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 10 (10 different)
+Added here: 8
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

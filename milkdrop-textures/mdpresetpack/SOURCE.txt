@@ -1,0 +1,27 @@
+Four textures presets of the packs name that no repository on GitHub has.
+
+portal1.jpg, portal2.jpg, AbalonyStosich.jpg, noise64.png
+  used by: Flexi's "dawn has broken - pallet by live portal" and "clock head meshuggahn
+  portalian…" (portal1, portal2), the digital-art.org AbalonyStosich preset, and "no rules, no
+  judgement, only hate" (noise64, beside chloemall and chloemallCornerMask).
+
+Source:   SourceForge project "mdpresetpack" (maintainer ravermeister85), archive mdpresets.zip
+          dated 2019-10-22, 182 673 276 bytes, entries 52kpresets/textures/<name>.
+          https://sourceforge.net/projects/mdpresetpack/files/mdpresets.zip/download
+          Only these four entries were fetched, with byte-range requests (the archive also holds
+          an uninstall.exe, a .bat and a .jar, none of which was downloaded); each entry passed
+          its CRC check. noise64 is also at
+          https://archive.org/download/most-odd-named-presets/Canonical_MilkDrop_Presets.zip/presets%2Fnoise64.dds
+          (byte-identical).
+SHA-256:  portal1.jpg        a9275a966901030070bb8303004da9f65dffadfec7e4ac37f6952737a769eaa6
+          portal2.jpg        a293f8ad29ed9b7ec471729869430bacc699ddc38dd123416ffc747fb813088b
+          AbalonyStosich.jpg 47ad80aaeb98ab8647271605069e205fa4df71202d5d5849e81702e0b1123b23
+          noise64.dds        52613c9869133a5851155ff1e557f802516322f063e7a9863e3de16e8e290912
+          noise64.png is that DXT5 .dds (64 × 64) decoded to RGBA PNG with Pillow: the build
+          skips .dds.
+Licence:  none stated, neither on the project page nor in the pack. The images are third-party
+          (concert stills of the band Portal, a fractal artwork). Kept in the git-ignored vendor/
+          only; do not commit or redistribute.
+
+random-pool: prefixed
+  (milkdrop-textures.mjs) Asked for by name; drawn only by a random slot naming their prefix.

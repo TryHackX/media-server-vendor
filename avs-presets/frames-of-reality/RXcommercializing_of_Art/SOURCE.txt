@@ -1,0 +1,12 @@
+Pack: RXcommercializing_of_Art
+Author / group folder in the archive: frames-of-reality
+Source: https://files.visbot.net/archive/frames-of-reality/RXcommercializing_of_Art.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: RXcommercializing_of_Art.7z, 138403 bytes, sha256 46add625cc7d4cfd925870d739a71c6b1835773d761276a45bc95357ff640ecb
+Retrieved: 2026-11-09
+Installer: sRX___commercializing_of_art.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 7 (7 different)
+Added here: 7
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

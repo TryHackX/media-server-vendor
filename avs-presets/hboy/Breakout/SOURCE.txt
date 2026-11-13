@@ -1,0 +1,13 @@
+Pack: Breakout
+Author / group folder in the archive: hboy
+Source: https://files.visbot.net/archive/hboy/Breakout.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Breakout.7z, 121412 bytes, sha256 a2bdead95cdb2bca20cca738548690b44ece425ba1ac47609a6a0881ed30fbc4
+Retrieved: 2026-11-09
+Installer: Hboy___Breakout.exe: NSIS 2.0b4 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 13 (13 different)
+Added here: 13
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

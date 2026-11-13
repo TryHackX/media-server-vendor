@@ -1,0 +1,167 @@
+
+PORTED VISUALIZERS
+----------------------------------------------------------------------------------------------
+https://www.shadertoy.com/view/DttcWl                   acrylic
+https://www.shadertoy.com/view/Wl3fzM                   apollonian_twist
+https://www.shadertoy.com/view/4tcXRr                   auditory_nerve
+https://www.shadertoy.com/view/cddSRM                   audiostream
+https://www.shadertoy.com/view/lfjSWc                   aurora
+https://www.shadertoy.com/view/33VSD1					axis_mundi
+https://www.shadertoy.com/view/mtBSWc                   binary_black_holes
+https://www.shadertoy.com/view/dtyfzD                   blue_sphere
+https://www.shadertoy.com/view/mlyyWz                   brainstorm
+https://www.shadertoy.com/view/3tcBz7                   butterfly_effect
+https://www.shadertoy.com/view/4ttXDX                   candy_jar
+https://www.shadertoy.com/view/ctyfRh                   cathedral
+https://www.shadertoy.com/view/4stBzr                   chaos_columns
+https://www.shadertoy.com/view/XlX3Rj                   circuit_planet
+https://www.shadertoy.com/view/wcfyRM					cleanflight
+https://www.shadertoy.com/view/3l23Rh					cloud_tunnel
+https://www.vertexshaderart.com/art/ke5bF6hENE8zphaSp   clown_wig
+https://www.shadertoy.com/view/MdtSD8					colorbeat
+https://www.shadertoy.com/view/w3G3WV					color_skein
+https://www.shadertoy.com/view/ll2SRy					cube_field
+https://www.shadertoy.com/view/ldf3RH                   dalek
+https://www.shadertoy.com/view/Dtj3zW                   dancefloor
+https://www.shadertoy.com/view/XfBSDm                   dark_disco
+https://www.shadertoy.com/view/DtBSWw                   darkstar
+https://www.vertexshaderart.com/art/ntCWzzdvXfp33a6oz   dartboard
+https://www.shadertoy.com/view/lcV3Rz                   devilglass
+https://www.shadertoy.com/view/mlfBDX                   discotheque
+https://www.shadertoy.com/view/tdjfDR                   disco_tunnel
+https://www.shadertoy.com/view/432XWD                   dragon_ring
+https://www.shadertoy.com/view/dtK3Rh					first_ones
+https://www.shadertoy.com/view/MlfSWX                   first_ones_corridor
+https://www.shadertoy.com/view/33tSDS					fmri
+(multiple sources, see foggy.conf)                      foggy
+https://www.shadertoy.com/view/4cV3zy                   fortune_cookie
+https://www.shadertoy.com/view/4tBXRh                   fractal_anxiety
+https://www.shadertoy.com/view/3dXSDB                   fractal_dragon
+https://www.shadertoy.com/view/dlVyWD                   fractaloscopic
+https://www.shadertoy.com/view/mt3SWs                   fractured
+https://www.shadertoy.com/view/4ddSDS                   fur_space
+https://www.shadertoy.com/view/MdXSzS					galaxy
+https://www.shadertoy.com/view/WXKGRd					gold_dust
+https://www.vertexshaderart.com/art/NP3rRKeHPZeXBhymB   hairy_eyeball
+https://www.shadertoy.com/view/McKGR3                   helldiver
+https://www.shadertoy.com/view/3d2fzK                   hex_sound
+https://www.shadertoy.com/view/wsl3WB					hexagone
+https://www.shadertoy.com/view/DlB3WG					hypercolor
+https://www.shadertoy.com/view/4lB3WV                   hyperlepsy
+https://www.shadertoy.com/view/mlKyRV                   hypno_flower
+https://www.shadertoy.com/view/mltBDl                   interstellar
+https://www.shadertoy.com/view/ssjfDG                   jello_cubes
+https://www.shadertoy.com/view/msXXzs                   jester
+https://www.shadertoy.com/view/XtdfW2					jitterbugs
+https://www.shadertoy.com/view/llB3W1					julia_set
+https://www.shadertoy.com/view/l3fSDr                   lava_lamp
+https://www.vertexshaderart.com/art/CJqnsPPKxz3KGqWSZ	lisa_simpson
+https://www.shadertoy.com/view/4XVXDt					lightbox4d
+https://www.shadertoy.com/view/33tGzN					liquid_glass
+https://www.shadertoy.com/view/DdSGzG                   lysergic_inception
+https://www.shadertoy.com/view/mlKyRK                   maze
+https://www.shadertoy.com/view/mslfR2                   miami_vice
+https://www.shadertoy.com/view/43SSzz                   milkdrop_disco
+https://www.shadertoy.com/view/7dVyDh                   mobius_maze
+https://www.shadertoy.com/view/mlKyRG                   moire_scope
+https://www.shadertoy.com/view/4ttGDH                   molten_glass
+https://www.shadertoy.com/view/NdG3zw                   nebula
+https://www.shadertoy.com/view/XXBGzw                   neon_lights
+https://www.shadertoy.com/view/ds2yWh					neon_rings
+(multiple sources, see oil_slick.conf)                  oil_slick
+https://www.shadertoy.com/view/mtGSWG                   ozora_festival
+https://www.shadertoy.com/view/wssyDX                   paint_bomb
+https://www.shadertoy.com/view/mlKSWh                   parametric
+https://www.shadertoy.com/view/ttGGDc                   party_tree
+https://www.shadertoy.com/view/csfyzS                   party_tunnel
+https://www.shadertoy.com/view/dlycDW                   peacock_feathers
+https://www.vertexshaderart.com/art/eMAJ5HydzdzbnzduF	plasma_grid
+https://www.shadertoy.com/view/MXlXzl                   plasma_wave
+https://www.vertexshaderart.com/art/bSWJchGnG97o3HQfE	pointy_eyeball
+https://www.shadertoy.com/view/w3G3RD					protostar
+https://www.shadertoy.com/view/dtBBRc                   psych_spin
+https://www.shadertoy.com/view/t33Xzl					pulse
+https://www.shadertoy.com/view/7lySW1					red_vs_blue
+https://www.youtube.com/watch?v=9fgGnWdObN4             ripple_grid
+https://www.shadertoy.com/view/Dtd3z2                   rollerbox
+https://www.shadertoy.com/view/MfG3Ry                   rubik_sound
+https://www.shadertoy.com/view/XXX3W8                   scales
+https://www.shadertoy.com/view/ftK3zc                   seizure_kitty
+https://www.shadertoy.com/view/Xsd3Rn					shadow_vessels
+https://www.shadertoy.com/view/Xdf3zM					shard
+https://www.shadertoy.com/view/7tsSRB                   shattergrid
+https://www.shadertoy.com/view/Mdj3RV                   snap
+https://www.shadertoy.com/view/XcV3zm                   soundwire
+https://www.shadertoy.com/view/XsVSzW                   simple_plasma
+https://www.shadertoy.com/view/XtVGDz                   spectrasound
+https://www.shadertoy.com/view/mlcfW2                   spin_cycle
+https://www.shadertoy.com/view/mtyyW1                   spirograph
+https://www.shadertoy.com/view/DslyWS                   sportsball
+https://www.shadertoy.com/view/wlGGDc                   stained_glass
+https://www.shadertoy.com/view/mlfSWn                   stained_glass_orchid
+https://www.shadertoy.com/view/fdsfRH					star_sticks
+https://www.shadertoy.com/view/dlK3RW					synthwave_rings
+https://www.shadertoy.com/view/t3cGzf					terror_tunnel
+https://www.shadertoy.com/view/mds3WN                   the_machine
+https://www.shadertoy.com/view/cst3zl                   the_ring
+https://www.shadertoy.com/view/WtV3W3                   tiedye
+https://www.shadertoy.com/view/MffcRs					timetravel
+https://www.shadertoy.com/view/sd3yW8					toni_disk
+https://www.shadertoy.com/view/ldGyWW					tron_bowling
+https://www.shadertoy.com/view/4djXzz					tron_topology
+https://www.shadertoy.com/view/7tGfRD                   unstable_plasma
+https://www.shadertoy.com/view/3XySWh					vertigo
+https://www.shadertoy.com/view/Msl3WH                   warp_speed
+https://www.shadertoy.com/view/XtdGR7                   warp_tunnel
+https://www.shadertoy.com/view/MtdXRS                   weave
+https://www.shadertoy.com/view/wddGWM                   what_dreams
+https://www.shadertoy.com/view/wXV3zt					whirlpool
+
+
+PORTED FX
+----------------------------------------------------------------------------------------------
+https://www.shadertoy.com/view/MscGWX                   blaze
+https://www.shadertoy.com/view/Dls3WS                   boxed
+https://www.shadertoy.com/view/DtGfzV                   color_puddle
+https://www.shadertoy.com/view/4t3Szj                   double_vision
+https://www.shadertoy.com/view/ct3yz8                   duplizoom
+https://www.shadertoy.com/view/tsdXDB                   extrusion
+https://www.shadertoy.com/view/McKGzR                   flashmaze
+https://www.shadertoy.com/view/Ds2Sz1                   glass_blocks
+https://www.shadertoy.com/view/dsSGWm                   hall_of_mirrors
+https://www.shadertoy.com/view/4Xl3Rj                   lumiglass
+https://www.shadertoy.com/view/lltSRB                   mandelbrot
+https://www.shadertoy.com/view/DddBRj                   meltdown (has uniform parameters)
+https://www.shadertoy.com/view/XlV3zR                   nautilus
+https://www.shadertoy.com/view/4lKGDz                   neon_motion (has uniform parameters)
+https://www.shadertoy.com/view/MtGXzG                   palette_knife
+https://www.shadertoy.com/view/lXjXzy                   pixel_mist
+https://www.shadertoy.com/view/Wdfyz2                   rainbow_borders
+https://www.shadertoy.com/view/XdlfWj                   reaction
+https://www.shadertoy.com/view/3lKXRG                   rolling_feedback
+https://www.shadertoy.com/view/4l2XWK                   sinusoid_warp
+https://www.shadertoy.com/view/XtVGD1                   sketchy
+https://www.shadertoy.com/view/Wt2yWz                   skinimax
+https://www.shadertoy.com/view/cd2BD1                   slimed
+https://www.shadertoy.com/view/4cBSRz                   sparkle
+https://www.shadertoy.com/view/ltdGDn                   splash
+https://www.shadertoy.com/view/X3XXRM                   splitter
+https://www.shadertoy.com/view/ltySRt                   staircase
+https://www.shadertoy.com/view/tdcczN                   swirly
+https://www.shadertoy.com/view/XlGXzw                   time_blur
+https://www.shadertoy.com/view/ltyGWD                   time_diffusion
+https://www.shadertoy.com/view/WtjBD3                   trails
+https://www.shadertoy.com/view/MdGSDG                   van_gogh
+https://www.shadertoy.com/view/lsf3DS                   voronoi
+https://www.shadertoy.com/view/XdycRK                   whorls
+https://www.shadertoy.com/view/ltyGR3                   wiggle_scope
+https://www.shadertoy.com/view/llScz1                   zoom_blur
+
+
+PORTED CROSSFADE TRANSITIONS (crossfade_*.frag filenames in "libraries" directory)
+----------------------------------------------------------------------------------------------
+https://www.shadertoy.com/view/lfXXWM                   burning
+https://www.shadertoy.com/view/lfXSWM                   diagonal_strips
+https://www.shadertoy.com/view/ftVBDd                   gritty_fade
+https://www.shadertoy.com/view/MffXWM					tiles (multiple)
+https://www.shadertoy.com/view/lcfXzj					plane (multiple)

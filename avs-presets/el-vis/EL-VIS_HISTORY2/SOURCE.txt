@@ -1,0 +1,13 @@
+Pack: EL-VIS_HISTORY2
+Author / group folder in the archive: el-vis
+Source: https://files.visbot.net/archive/el-vis/EL-VIS_HISTORY2-UNOFFICIAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: EL-VIS_HISTORY2-UNOFFICIAL.7z, 218180 bytes, sha256 010e9b462f4abbfa6afcb2b003e99a35a9405cf5ffc3128b3b5639a91717c7f9
+Retrieved: 2026-11-09
+Installer: EL-VIS HISTORY II.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib
+Presets in the pack: 21 (21 different)
+Added here: 21
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

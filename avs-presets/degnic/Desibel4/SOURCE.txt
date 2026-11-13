@@ -1,0 +1,12 @@
+Pack: Desibel4
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Desibel4.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Desibel4.7z, 54939 bytes, sha256 96d8cebfbf529892b184153421dda8f95b28ccd93d1f0ab7400af05fbb587417
+Retrieved: 2026-11-09
+Installer: Desibel_IV.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 30 (30 different)
+Added here: 30
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

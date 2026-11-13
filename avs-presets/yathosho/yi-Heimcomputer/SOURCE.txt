@@ -1,0 +1,14 @@
+Pack: yi-Heimcomputer
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-Heimcomputer.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-Heimcomputer.7z, 241523 bytes, sha256 e723587b5322d01bfd45d9ac0fb99984aa7f21a757b4275bfe34fbb2af1daec3
+Retrieved: 2026-11-09
+Installer: Heimcomputer1-2.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / solid NSIS-bzip2 (2 blocks, with the 2.0 beta randomised bit)
+Presets in the pack: 25 (25 different)
+Added here: 21
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 4 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

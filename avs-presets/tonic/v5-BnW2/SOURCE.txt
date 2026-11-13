@@ -1,0 +1,12 @@
+Pack: v5-BnW2
+Author / group folder in the archive: tonic
+Source: https://files.visbot.net/archive/tonic/v5-BnW2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: v5-BnW2.7z, 449572 bytes, sha256 419b0aa01280ad3742120f07ed443fd2753f9be63e9cd0447237851c101f698c
+Retrieved: 2026-11-09
+Installer: Tonic_v5_-_BnW_II.exe: NSIS 1.9x (entry_size 24, extract_opcode 5, setoutpath (3, 1)); Tonic_v5_-_BnW_II.exe -> AVSociety/Tonic AVS Albums/v.05 - B&W II (Circles&Squares).exe: NSIS 1.9x (entry_size 24, extract_opcode 5, setoutpath (3, 1))
+Presets in the pack: 80 (40 different)
+Added here: 40
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

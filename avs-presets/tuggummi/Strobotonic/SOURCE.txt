@@ -1,0 +1,13 @@
+Pack: Strobotonic
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/Strobotonic.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Strobotonic.7z, 55872 bytes, sha256 51c175d05492871c0afaecb385f1a74a5ad39d6fe2e9e3d965e3403eff7d3dff
+Retrieved: 2026-11-09
+Installer: Tuggummi_strobotonic.exe: NSIS 1.2-1.4 (entry_size 28, extract_opcode 3, setoutpath (1, 1))
+Presets in the pack: 19 (19 different)
+Added here: 19
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

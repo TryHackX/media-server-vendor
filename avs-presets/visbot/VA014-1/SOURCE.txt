@@ -1,0 +1,10 @@
+Pack: VA014-1
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VA014-1.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VA014-1.exe.zip, 384192 bytes, sha256 4a7cce353ccc98fe7c05f00f7a046eb2fb8d6e300d0ce000b15218adf49259b8
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VA014-1.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 202; kept here: 6; byte-identical to a preset already in vendor/avs-presets (left out): 196
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

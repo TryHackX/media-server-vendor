@@ -1,0 +1,13 @@
+Pack: Hellhammer_9
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Hellhammer_9.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hellhammer_9.7z, 331985 bytes, sha256 671ae5115518f7a0ec73890ce0d1d5b6595efed988c261d38b84ae39cb6c5ebc
+Retrieved: 2026-11-09
+Installer: Hellhammer_9.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib; Hellhammer_9.exe -> Skins/stormer.wsz: self-extracting zip
+Presets in the pack: 39 (39 different)
+Added here: 39
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

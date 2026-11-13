@@ -1,0 +1,12 @@
+Pack: orego
+Author / group folder in the archive: zxe
+Source: https://files.visbot.net/archive/zxe/orego.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: orego.7z, 36990 bytes, sha256 81649b8af9a9ce1ad8c6c0aedd88e8a050e6fcd25e098611691758508be15e1d
+Retrieved: 2026-11-09
+Installer: Zxe-Orego.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 18 (18 different)
+Added here: 18
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,10 @@
+Pack: VB204
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB204.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB204.exe.zip, 148111 bytes, sha256 48e3a0891e591d9f56531376351c91b5a54abc3e27d90002eed283be100830fb
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB204.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 12; kept here: 8; byte-identical to a preset already in vendor/avs-presets (left out): 4
+Images kept (named by a preset of this pack): 3
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

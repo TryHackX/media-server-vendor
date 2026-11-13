@@ -1,0 +1,12 @@
+Pack: mono5
+Author / group folder in the archive: montana
+Source: https://files.visbot.net/archive/montana/mono5.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mono5.7z, 263458 bytes, sha256 1e93df4f49d790b0e48d04cf5e18692cc83cfec894faa370dc69fd905d97d101
+Retrieved: 2026-11-09
+Installer: MonoAVS5.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib
+Presets in the pack: 41 (41 different)
+Added here: 41
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

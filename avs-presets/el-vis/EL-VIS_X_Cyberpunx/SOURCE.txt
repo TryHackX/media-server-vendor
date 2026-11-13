@@ -1,0 +1,12 @@
+Pack: EL-VIS_X_Cyberpunx
+Author / group folder in the archive: el-vis
+Source: https://files.visbot.net/archive/el-vis/EL-VIS_X_Cyberpunx.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: EL-VIS_X_Cyberpunx.7z, 99389 bytes, sha256 c10a9618391b0d05b4d14ba810f24d4573bd7ada3061c91309e472dfd0201cb7
+Retrieved: 2026-11-09
+Installer: EL-vis_X_Cyberpunx_update.exe: NSIS 2.0b4 / non-solid zlib
+Presets in the pack: 32 (32 different)
+Added here: 32
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

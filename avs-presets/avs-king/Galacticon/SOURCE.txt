@@ -1,0 +1,12 @@
+Pack: Galacticon
+Author / group folder in the archive: avs-king
+Source: https://files.visbot.net/archive/avs-king/Galacticon.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Galacticon.7z, 16443 bytes, sha256 79d30d0649ecf963d5a0e3005b00f61498bcbe5b6d54ad720e799f344d9a350e
+Retrieved: 2026-11-09
+Installer: Galacticon_AVS.exe: PiMP (install_folder $$PROGRAMFILES\Winamp\Plugins\AVS\Galacticon\)
+Presets in the pack: 12 (12 different)
+Added here: 12
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

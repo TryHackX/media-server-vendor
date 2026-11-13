@@ -1,0 +1,12 @@
+Pack: Focus
+Author / group folder in the archive: avs-king
+Source: https://files.visbot.net/archive/avs-king/Focus.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Focus.7z, 23948 bytes, sha256 7ec70c464b57ac893e563c9da666627192fd35470f653743293a457912df3196
+Retrieved: 2026-11-09
+Installer: Focus_AVS_Pack.exe: PiMP (install_folder $$PROGRAMFILES\Winamp\Plugins\AVS\Focus\)
+Presets in the pack: 18 (18 different)
+Added here: 18
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

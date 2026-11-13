@@ -1,0 +1,13 @@
+Pack: pervoavs
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/pervoavs.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: pervoavs.7z, 3363 bytes, sha256 272ee7a25d9491025993d024ef1c6d28cb083f5346c52bfd8df559602d753a88
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 2 (2 different)
+Added here: 2
+Images kept (named by a preset): 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

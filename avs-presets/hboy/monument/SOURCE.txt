@@ -1,0 +1,13 @@
+Pack: monument
+Author / group folder in the archive: hboy
+Source: https://files.visbot.net/archive/hboy/monument.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: monument.7z, 54422 bytes, sha256 c5a6ad34b248f90a04bee780568ec11240cc569acbd2b90baaea0ac2897ac7da
+Retrieved: 2026-11-09
+Installer: monument.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 13 (13 different)
+Added here: 13
+Images kept (named by a preset): 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

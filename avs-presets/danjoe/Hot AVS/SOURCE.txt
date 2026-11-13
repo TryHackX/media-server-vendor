@@ -1,0 +1,12 @@
+Pack: Hot AVS
+Author / group folder in the archive: danjoe
+Source: https://files.visbot.net/archive/danjoe/Hot AVS.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hot AVS.7z, 29180 bytes, sha256 bbc4800745682bc438c19a0f1a7bb36fc947e6cc3711f006910f0a7d77cf67a8
+Retrieved: 2026-11-09
+Installer: HOT_AVS.exe: self-extracting zip
+Presets in the pack: 5 (5 different)
+Added here: 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,12 @@
+Pack: Desibel3
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Desibel3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Desibel3.7z, 38773 bytes, sha256 99ae83b5dc2076b23dd450354bf46384dc8e976f84444633662351e61c6ea9da
+Retrieved: 2026-11-09
+Installer: Desibel_v3.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 21 (21 different)
+Added here: 21
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

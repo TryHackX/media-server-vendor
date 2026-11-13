@@ -1,0 +1,14 @@
+Pack: Hopeless_Worlds
+Author / group folder in the archive: troubleshooter
+Source: https://files.visbot.net/archive/troubleshooter/Hopeless_Worlds.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hopeless_Worlds.7z, 408403 bytes, sha256 7afcb6f16b547d45adde9787f6933a5d2f4853166c9c714179cc55e9c406f2a1
+Retrieved: 2026-11-09
+Installer: Hopeless_Worlds_136_Festival_Edition.exe: PiMP (install_folder )
+Presets in the pack: 272 (136 different)
+Added here: 134
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

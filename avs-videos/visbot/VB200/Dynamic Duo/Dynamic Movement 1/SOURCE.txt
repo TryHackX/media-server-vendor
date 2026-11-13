@@ -1,0 +1,9 @@
+AVI clip that a preset of this pack plays with AVS's Render / AVI effect ("16 danjoe -stargazer"),
+from the installer of VISBOT's release VD001 (the same pack as a release of its own), taken from a
+Wayback Machine capture of https://visbot.net/files/packs/VD001.exe.zip (2023), retrieved
+2026-11-10 with the owner's consent, read as data. Decoded with this project's FFmpeg (runtime/)
+into a WebP frame atlas: <name>.json maps each frame of the stream's index (AVIStreamGetFrame) to
+a tile. The clip belongs to its author; no licence allows redistribution, so this folder stays
+out of git.
+
+flowers.avi: from VD001.exe (sha256 80eb213c71dd90a18b31dc41089d6e8f886ade94aecb442a76b3b3642c43e30b), indeo5 160x120, 8 frames (8 distinct), 1 WebP page (quality 92)

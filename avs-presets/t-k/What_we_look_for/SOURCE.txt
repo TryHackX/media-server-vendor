@@ -1,0 +1,12 @@
+Pack: What_we_look_for
+Author / group folder in the archive: t-k
+Source: https://files.visbot.net/archive/t-k/What_we_look_for-UNOFFICIAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: What_we_look_for-UNOFFICIAL.7z, 23287 bytes, sha256 3f133a539596f9091033ed53d232092f929d20456e8b25e4b2af11b9593ff7cf
+Retrieved: 2026-11-09
+Installer: What_we_look_for.exe: self-extracting zip
+Presets in the pack: 16 (16 different)
+Added here: 16
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,27 @@
+MilkDrop 3's presets: its double presets (.milk2) and the .milk presets no other pack here has.
+
+Source:   the official MilkDrop 3 installer, MilkDrop3.exe (MilkDrop 3.37), release asset of
+          https://github.com/milkdrop2077/MilkDrop3/releases (tag MilkDrop3), 92 005 440 bytes,
+          SHA-256 e155ca7e600acbb59e91c6ca55a3bcf2c8c7358cead808429ecb8d158bd888d5 (as GitHub
+          lists it). Downloaded 09.11.2026 with the owner's approval and never run: its payload
+          is two ZIP archives inside the program's resources, read with Python's zipfile
+          (python -I) — Milkdrop3/presets/ of the main one and of the optional one (the
+          installer's set of demanding presets). The installer was deleted afterwards.
+          Before that (08.11.2026) the three double presets and "martin - the early universe -
+          Milkdrop2077 ring5.milk" came from https://github.com/IkeC/Milkwave
+          (Visualizer/resources/presets/Milkdrop2077/); the three are the same files as in the
+          installer.
+Files:    Double presets/  147 .milk2: all of the installer's (146, and 1 of the optional set);
+                           Milkwave's 3 are the same files (line endings aside).
+          Presets/         291 .milk: the 290 of the installer's 391 that no pack here has
+                           (compared by content, line endings ignored; of the other 101, 95 are
+                           in BeatDrop's pack and 6 in the projectM packs), and ring5.
+          Left out: the installer's cache/Blank.milk and cache/Webcam.milk (not presets of its
+          list), its playlists, docs, shapes, waves, sprites and the program itself.
+Licence:  the installer's LICENSE.txt: "MilkDrop 3 is free for personal use, commercial and
+          professional usage is NOT allowed." Kept in the git-ignored vendor/ only; do not commit
+          or redistribute.
+
+Not played as in MilkDrop 3: sprite blocks ([SPRITEn_BEGIN] … [SPRITEn_END], MilkDrop 3.25+, an
+image overlay from its sprites folder with EEL code) — 99 of the 438 presets have them (24 double,
+75 single); the preset plays, the overlay is not drawn. See docs/FRONTEND.md, "Presety MilkDrop 3".

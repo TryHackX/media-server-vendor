@@ -1,0 +1,14 @@
+Pack: The_Best_of_The_Presets
+Author / group folder in the archive: tuomas
+Source: https://files.visbot.net/archive/tuomas/The_Best_of_The_Presets.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: The_Best_of_The_Presets.7z, 37703 bytes, sha256 3864f364bb3769d1e89846cd84bf2a0679609edd41fa1094df270ec140b5799c
+Retrieved: 2026-11-09
+Installer: The_Best_Of_The_Presets.exe: PiMP (install_folder )
+Presets in the pack: 26 (26 different)
+Added here: 17
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 9 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

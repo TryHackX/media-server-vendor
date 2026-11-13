@@ -1,0 +1,10 @@
+Pack: VB203
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB203.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB203.exe.zip, 88838 bytes, sha256 17c446184f522ac4053dd47ea36018697563d67201b9ccd007f5888b95eed049
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB203.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 4; kept here: 4; byte-identical to a preset already in vendor/avs-presets (left out): 0
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

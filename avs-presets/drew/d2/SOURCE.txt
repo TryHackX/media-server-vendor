@@ -1,0 +1,13 @@
+Pack: d2
+Author / group folder in the archive: drew
+Source: https://files.visbot.net/archive/drew/d2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: d2.7z, 228624 bytes, sha256 fde01407550f2b338a748855c60fb5063671f0ac77271211d7194d1b8ba6ca86
+Retrieved: 2026-11-09
+Installer: d2.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 25 (25 different)
+Added here: 19
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 6 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

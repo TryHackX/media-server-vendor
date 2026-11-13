@@ -1,0 +1,12 @@
+Pack: cyber-voodoo
+Author / group folder in the archive: runar
+Source: https://files.visbot.net/archive/runar/cyber-voodoo.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: cyber-voodoo.7z, 34800 bytes, sha256 c082405f87e54a487ada8230cdb18b4f9ec3fe68c6039a1241660e25c84a25fa
+Retrieved: 2026-11-09
+Installer: Runar_-_Cyber-Voodoo.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 20 (20 different)
+Added here: 20
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

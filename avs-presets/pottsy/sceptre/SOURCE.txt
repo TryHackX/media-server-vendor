@@ -1,0 +1,13 @@
+Pack: sceptre
+Author / group folder in the archive: pottsy
+Source: https://files.visbot.net/archive/pottsy/sceptre.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: sceptre.7z, 100024 bytes, sha256 39fad3cd3f06c7d87d289527e03e14cbb3595123e1f2f06615e128d1a1a231f3
+Retrieved: 2026-11-09
+Installer: pottsySceptre.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 14 (14 different)
+Added here: 14
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

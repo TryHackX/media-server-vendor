@@ -1,0 +1,13 @@
+Pack: Bitmapped2
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/Bitmapped2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Bitmapped2.7z, 943554 bytes, sha256 8c7500ab426eeabbe170b430077da30b6b4e771bb050123058123bb4a007993b
+Retrieved: 2026-11-09
+Installer: Tuggummi_-_Bitmapped_II.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib
+Presets in the pack: 40 (20 different)
+Added here: 20
+Images kept (named by a preset): 37
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

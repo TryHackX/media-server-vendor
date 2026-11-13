@@ -1,0 +1,13 @@
+Pack: KVS15mp
+Author / group folder in the archive: kar-ma
+Source: https://files.visbot.net/archive/kar-ma/KVS15mp.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: KVS15mp.7z, 86315 bytes, sha256 fdb239f63b6e6db70f9611c47b8ab039e346d2356247311fe42b896bba31de46
+Retrieved: 2026-11-09
+Installer: KVS1_5_Minipack_by_Kar_ma.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 4 (4 different)
+Added here: 4
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

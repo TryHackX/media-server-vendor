@@ -1,0 +1,12 @@
+Pack: WHITE_PACK
+Author / group folder in the archive: meaningless-existance
+Source: https://files.visbot.net/archive/meaningless-existance/WHITE_PACK.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: WHITE_PACK.7z, 2153 bytes, sha256 ee745c34d5175dca2b5c331910e93badc272cfc2234a9814801eb237ff1e9a84
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 4 (4 different)
+Added here: 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

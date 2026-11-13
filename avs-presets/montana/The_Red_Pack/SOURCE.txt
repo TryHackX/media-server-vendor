@@ -1,0 +1,12 @@
+Pack: The_Red_Pack
+Author / group folder in the archive: montana
+Source: https://files.visbot.net/archive/montana/The_Red_Pack.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: The_Red_Pack.7z, 18677 bytes, sha256 a89ca271bdf01cbd8dd6509cee8684be479662b0e10e67cd9ee72f4c5ea2adeb
+Retrieved: 2026-11-09
+Installer: The_Red_Pack.exe: PiMP (install_folder )
+Presets in the pack: 14 (14 different)
+Added here: 14
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,12 @@
+Pack: BlackNoobiens
+Author / group folder in the archive: lesnoobiens
+Source: https://files.visbot.net/archive/lesnoobiens/BlackNoobiens.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: BlackNoobiens.7z, 57202 bytes, sha256 cd0057aa0b1cea3b2de59f865a1553d0f57faacec8f4b58f139bb5f5d5815183
+Retrieved: 2026-11-09
+Installer: VE001.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 10 (10 different)
+Added here: 10
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: Resurgence
+Author / group folder in the archive: ishan
+Source: https://files.visbot.net/archive/ishan/Resurgence.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Resurgence.7z, 190009 bytes, sha256 7e04ace96256a72c63acd965568e268c3fa3cc97c20bf83f753343e014f765c7
+Retrieved: 2026-11-09
+Installer: Resurgence_-_AVS.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 15 (15 different)
+Added here: 15
+Images kept (named by a preset): 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

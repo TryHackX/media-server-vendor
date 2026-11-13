@@ -1,0 +1,13 @@
+Pack: Conspiracy
+Author / group folder in the archive: montana
+Source: https://files.visbot.net/archive/montana/Conspiracy.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Conspiracy.7z, 154541 bytes, sha256 e1401b7e24f0d659b0cfc60d8b1e7509d7cece96c486d0696bf4dceed4683b4c
+Retrieved: 2026-11-09
+Installer: Conspiracy.exe: PiMP (install_folder )
+Presets in the pack: 16 (16 different)
+Added here: 16
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

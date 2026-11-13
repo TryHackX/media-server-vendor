@@ -1,0 +1,12 @@
+Pack: dg2ksr1
+Author / group folder in the archive: disguy2k
+Source: https://files.visbot.net/archive/disguy2k/dg2ksr1.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: dg2ksr1.7z, 15331 bytes, sha256 0e4c9e073e5218a263192be10f80592fc66a52bdc75c13b6957f6b9b523bbdaa
+Retrieved: 2026-11-09
+Installer: dg2ksr.exe: PiMP (install_folder )
+Presets in the pack: 15 (15 different)
+Added here: 15
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

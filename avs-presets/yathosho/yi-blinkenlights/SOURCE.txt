@@ -1,0 +1,13 @@
+Pack: yi-blinkenlights
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-blinkenlights.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-blinkenlights.7z, 156141 bytes, sha256 b22d349f87ea92e560f5758a7f3a058127bd490a38227b24e82a78791280a689
+Retrieved: 2026-11-09
+Installer: Blinkenlights.exe: NSIS 2.0b0 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 10 (10 different)
+Added here: 10
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

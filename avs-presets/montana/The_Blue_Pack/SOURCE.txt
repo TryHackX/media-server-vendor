@@ -1,0 +1,12 @@
+Pack: The_Blue_Pack
+Author / group folder in the archive: montana
+Source: https://files.visbot.net/archive/montana/The_Blue_Pack.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: The_Blue_Pack.7z, 777084 bytes, sha256 ea2cab4a619e744c7b5686e021c41aa10eec9ebe7db94d3d4131458d82963f19
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 14 (14 different)
+Added here: 14
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

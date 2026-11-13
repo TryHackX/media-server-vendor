@@ -1,0 +1,10 @@
+Pack: VB230
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB230.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB230.exe.zip, 193115 bytes, sha256 34afd6f69bc166c44bf634ecb93725f7283e925246850b502d1400b0be7bd6ae
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB230.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 6; kept here: 6; byte-identical to a preset already in vendor/avs-presets (left out): 0
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

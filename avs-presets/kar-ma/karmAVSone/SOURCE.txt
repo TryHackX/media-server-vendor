@@ -1,0 +1,13 @@
+Pack: karmAVSone
+Author / group folder in the archive: kar-ma
+Source: https://files.visbot.net/archive/kar-ma/karmAVSone.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: karmAVSone.7z, 336540 bytes, sha256 0ed8ea8938fbf017d3740fae57c18323151fda66869595892debc4c02b5788f0
+Retrieved: 2026-11-09
+Installer: Kar_mAVS_One.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 22 (22 different)
+Added here: 22
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

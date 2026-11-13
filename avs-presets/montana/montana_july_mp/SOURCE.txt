@@ -1,0 +1,12 @@
+Pack: montana_july_mp
+Author / group folder in the archive: montana
+Source: https://files.visbot.net/archive/montana/montana_july_mp.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: montana_july_mp.7z, 3686 bytes, sha256 94e80dc0ac38c9b0c026039d2ccd9c4d6b59a3609c0ef4f90322155cdaf43405
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 5 (5 different)
+Added here: 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,12 @@
+Pack: minipack2-renderless
+Author / group folder in the archive: undefined
+Source: https://files.visbot.net/archive/undefined/minipack2-renderless.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: minipack2-renderless.7z, 94377 bytes, sha256 a102cde5a76ee28895a212e3f6f206e9cf89469c413810cc8c3070e6252bc998
+Retrieved: 2026-11-09
+Installer: MiniPak_2___Renderless.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 22 (11 different)
+Added here: 11
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: ParaNoya_The_Next_Endeavour1
+Author / group folder in the archive: paranoya
+Source: https://files.visbot.net/archive/paranoya/ParaNoya_The_Next_Endeavour1.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: ParaNoya_The_Next_Endeavour1.7z, 40218 bytes, sha256 48f49a25d9254f6e9adef0ba7ada550c802dda4f67f8aa00ea4bdd4f25842400
+Retrieved: 2026-11-09
+Installer: ParaNoya_The_Next_Endeavour1.exe: NSIS 1.0x (entry_size 24, extract_opcode 1, setoutpath (0, 1))
+Presets in the pack: 20 (20 different)
+Added here: 10
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 10 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

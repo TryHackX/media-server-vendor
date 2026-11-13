@@ -1,0 +1,12 @@
+Pack: dark_avs3mp
+Author / group folder in the archive: darkmatter
+Source: https://files.visbot.net/archive/darkmatter/dark_avs3mp.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: dark_avs3mp.7z, 8612 bytes, sha256 a1eba7e9560b40ef6a11d689c857bbf12aea0bac9bfe4a3d60818f55e6564f5a
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 9 (9 different)
+Added here: 9
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

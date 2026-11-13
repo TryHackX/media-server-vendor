@@ -1,0 +1,7 @@
+AVI clips that presets of this pack play with AVS's Render / AVI effect, from the pack's own
+installer in the VISBOT archive (https://visbot.net/archive), retrieved 2026-11-09, read as
+data. Decoded with this project's FFmpeg (runtime/) into WebP frame atlases: <name>.json
+maps each frame of the stream's index (AVIStreamGetFrame) to a tile. The clips belong to
+their authors; no licence allows redistribution, so this folder stays out of git.
+
+ndd2-01.avi: from undefined/undefined2 (sha256 101d7babcf35b9396a3972711fa7fc3380a5b8d9a714dee2dbeaedf98a33fc1b), rawvideo 385x328, 4 frames (4 distinct), 1 WebP page (quality 92)

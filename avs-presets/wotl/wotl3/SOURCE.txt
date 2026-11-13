@@ -1,0 +1,12 @@
+Pack: wotl3
+Author / group folder in the archive: wotl
+Source: https://files.visbot.net/archive/wotl/wotl3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: wotl3.7z, 184599 bytes, sha256 aaff7dd3151aeddd39bd579f2b6ff84560006d1aad0eb26e11549180f72cff0c
+Retrieved: 2026-11-09
+Installer: Warrior of the Light - Preset Pack 3.exe: NSIS 2.x / non-solid LZMA
+Presets in the pack: 17 (17 different)
+Added here: 17
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

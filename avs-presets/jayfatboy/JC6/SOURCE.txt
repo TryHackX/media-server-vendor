@@ -1,0 +1,12 @@
+Pack: JC6
+Author / group folder in the archive: jayfatboy
+Source: https://files.visbot.net/archive/jayfatboy/JC6.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: JC6.7z, 67542 bytes, sha256 46e373101f4f7a9d3425b24a7df1bf00d6949575791a7314ddabb4588a844871
+Retrieved: 2026-11-09
+Installer: JC6_Fat_Side_of_The_Moon.exe: self-extracting zip
+Presets in the pack: 49 (48 different)
+Added here: 48
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

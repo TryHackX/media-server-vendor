@@ -1,0 +1,12 @@
+Pack: No_more_teasing
+Author / group folder in the archive: tonic
+Source: https://files.visbot.net/archive/tonic/No_more_teasing.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: No_more_teasing.7z, 45096 bytes, sha256 f9caf67a1aab1423d8cf8be6d5193c5f5738deb6e294ca103760fba0fd7d3002
+Retrieved: 2026-11-09
+Installer: VPROMO.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 4 (4 different)
+Added here: 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

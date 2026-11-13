@@ -1,0 +1,13 @@
+Pack: Fattest_AVS_Pack
+Author / group folder in the archive: tonic
+Source: https://files.visbot.net/archive/tonic/Fattest_AVS_Pack.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Fattest_AVS_Pack.zip, 431456 bytes, sha256 8b93485ff37b29147483eee427702759042c7d90324bad8ae3d9073e5dbd29ef
+Retrieved: 2026-11-09
+Installer: ToNiC_FaTTeST_aVS_PaCK.exe: PiMP (install_folder )
+Presets in the pack: 130 (129 different)
+Added here: 129
+Images kept (named by a preset): 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

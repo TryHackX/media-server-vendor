@@ -1,0 +1,17 @@
+Pack: HuRriC4nE_Pack1
+Author / group folder in the archive: hurric4ne
+Source: https://files.visbot.net/archive/hurric4ne/HuRriC4nE_Pack1.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: HuRriC4nE_Pack1.7z, 270000 bytes, sha256 7fdef9ae22c8b1fb693b2b745f4d257f0665e8dee3c622e5ea287510f41f7406
+Retrieved: 2026-11-10 (the import of 2026-11-09 could not open it)
+Installer: hur01learningtofly installer: NSIS 2.x / solid LZMA, inside a 7z cut short on the server
+The archive on the server stops at 270000 of its 345268 bytes (its 7z header is gone). Read anyway:
+the installer's stream (7-Zip's BCJ x86 + LZMA, found at its offset in the packed data) decodes to
+270552 of the installer's 344630 bytes, whose solid stream holds the script and 17 of its 20 files;
+the three missing are the installer's own (splash sound and plug-in), not presets.
+Presets in the pack: 10 (10 different)
+Added here: 10
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

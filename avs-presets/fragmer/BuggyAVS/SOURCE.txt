@@ -1,0 +1,13 @@
+Pack: BuggyAVS
+Author / group folder in the archive: fragmer
+Source: https://files.visbot.net/archive/fragmer/BuggyAVS.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: BuggyAVS.7z, 210408 bytes, sha256 da53687353f92a18a1f351a50984e3d71feb89915eb3ad0887b6dc0fef00c706
+Retrieved: 2026-11-09
+Installer: BuggyAVS.exe: NSIS 2.0b4 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 12 (12 different)
+Added here: 12
+Images kept (named by a preset): 8
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

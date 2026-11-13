@@ -1,0 +1,13 @@
+Pack: S_KuPeRS-LP5-Logical
+Author / group folder in the archive: skupers
+Source: https://files.visbot.net/archive/skupers/S_KuPeRS-LP5-Logical.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: S_KuPeRS-LP5-Logical.7z, 269064 bytes, sha256 a70b92eb5be85fc57d63bc94c516d9cd1af844deeeb000458d042dc09a1e4780
+Retrieved: 2026-11-09
+Installer: LP5-Logical1-0.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 41 (41 different)
+Added here: 40
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,12 @@
+Pack: mp-6point5
+Author / group folder in the archive: jheriko
+Source: https://files.visbot.net/archive/jheriko/mp-6point5.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mp-6point5.7z, 79660 bytes, sha256 51e0e1e3e46739be85294cfbe9e6ea595a12a71ef101ab48848685fe23500e2d
+Retrieved: 2026-11-09
+Installer: 6point5.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 12 (6 different)
+Added here: 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,95 @@
+Cthugha 5.3 (DOS), Kevin "Zaph" Burfitt, Digital Aasvogel Group, Torps Productions 1993-1995.
+The terms below are copied unchanged from the README of the 5.3 distribution (CTHUG53.ZIP);
+CTHUGHA.C and CTHUGHA.H of the source (cthug53s.zip) carry the same notice.
+
+===========================================================================
+
+SOURCE CODE:
+-----------------------------------------------------------------------
+
+ Cthugha - Audio Seeded Image Processing
+
+ Zaph, Digital Aasvogel Group, Torps Productions 1993-1995
+
+ Copyright Information:
+ ======================
+ 
+ Some parts of the source are from the public domain and are not
+ copyrighted.
+ 
+ Some parts of the source bear explicit copyright notices from the
+ author and are subject to the conditions listed there by the author.
+ 
+ The remainder of the source (not already public domain, no explicit
+ author's copyright notice) is Copyright 1995 by Torps Productions
+ (a loosely associated and ever-growing group of fanatic programmers).
+
+ The source code may be copied freely and may be used in other programs
+ under the following conditions:
+  It may not be used in a commercial program without prior permission.
+  Please credit the author (in general, credit Cthugha and Torps
+  Productions) as the source of the code.
+ 
+ This copyright notice is grafted from the Fractint copyright notice.
+
+
+ Modifying the code:
+ ===================
+
+ Feel free to modify this source code, HOWEVER, please send any working
+ changes/fixes to me (zaph@torps.apana.org.au) for inclusion in future
+ versions of the code.
+
+ Distributing the code:
+ ======================
+
+ Feel free to distribute this code, as long as it is complete and contains
+ all copyright information that was included in the original.
+
+ Please do *NOT* distribute your own version of Cthugha. Instead, send
+ me the changes, and I will make it an official release.
+
+ Legal Issues:
+ =============
+
+ What legal issues ???
+
+ Come on guys, this is for *fun*, get on with it, make it great, make us
+ all famous!!!
+
+
+                                           zaph, 30Oct94
+
+===========================================================================
+
+The pictures cryogenc, cryoheat, hunter and spheres and nine of the palettes come from
+"Images and Colors for Cthugha" vol. 1 (CTH51DWK.ZIP, in CTHUG53X.ZIP). Its README.1ST:
+
+(4) Legal stuff: Bitmaps are (C) 1989, 1993-1994 by Dmitry Altukhov.
+Palettes are not copyrighted, probably. Some of them come from FractInt,
+some from Improcess. Some are brand new. :-)
+
+(5) Files:   
+       cryogenc.pcx - an image called: "Cryogenic Device."   (C) 1993-94 DA
+       cryoheat.pcx - an image called: "Cryogenic Heat." :-) (C) 1994 DA
+        spheres.pcx - an image called: "Spherical Travel."   (C) 1994 DA
+         hunter.pcx - a rather old, half-scanned bitmap.
+                      Originally it is a paper drawing,
+                      later scanned, reprocessed, and scaled
+                      down to plain VGA. It is
+                      copyright (C) 1989 by Dmitry Altuhkov.
+                      It's called "The Hunter."
+	???????.map - palettes, from FractInt, Improcess,
+                      and designed by me. Also, bitmaps add several
+                      palettes.
+
+===========================================================================
+
+Credits named in the distribution (WHATSNEW.530, CTHUGHA.DOC, MAPS.C, TAB.ZIP):
+  Kevin Burfitt (Zaph) - original idea and code, flames, waves, rotations, SB, FFT
+  Daniel Sachs - SB-Pro stereo, GUS, CD player; Jochen Quante - GUS support
+  Ofer Faigon - extra translation tables and their generators (HURR, SMOKE, SPACE,
+    SPIR-OUT, VORTEX)
+  Volker Muehle - PCX and Kaleidescope ideas and code
+  Todd Hedenstrom - the 'chromatic' colour map of MAPS.C
+  Dmitry Altukhov (Dreamwalker) - Images and Colors for Cthugha vol. 1

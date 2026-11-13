@@ -1,0 +1,13 @@
+Pack: SkiesFallIn
+Author / group folder in the archive: nemo
+Source: https://files.visbot.net/archive/nemo/SkiesFallIn.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: SkiesFallIn.7z, 23608 bytes, sha256 b3d58b9a8de3c0de570b8c35003123eb22f411def83be63f39816c5a9b1a4bed
+Retrieved: 2026-11-09
+Installer: Skies_Fall_In.exe: PiMP (install_folder $$PROGRAMFILES\Winamp\)
+Presets in the pack: 18 (18 different)
+Added here: 16
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

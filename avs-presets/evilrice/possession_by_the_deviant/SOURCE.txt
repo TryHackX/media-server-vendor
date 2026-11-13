@@ -1,0 +1,12 @@
+Pack: possession_by_the_deviant
+Author / group folder in the archive: evilrice
+Source: https://files.visbot.net/archive/evilrice/possession_by_the_deviant.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: possession_by_the_deviant.7z, 247928 bytes, sha256 87e2add7bc6176666aa6e34623ee48fef194cd859f1ca7ed1923223421ffb276
+Retrieved: 2026-11-09
+Installer: PossessionByTheDeviant.exe: NSIS 2.0b0 / non-solid zlib
+Presets in the pack: 82 (40 different)
+Added here: 40
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

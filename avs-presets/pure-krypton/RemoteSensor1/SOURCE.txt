@@ -1,0 +1,13 @@
+Pack: RemoteSensor1
+Author / group folder in the archive: pure-krypton
+Source: https://files.visbot.net/archive/pure-krypton/RemoteSensor1.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: RemoteSensor1.7z, 206822 bytes, sha256 b1381937d0bc878e718aa83560959e27f9c2f0598ea2ad124b9e18cbe3267e2a
+Retrieved: 2026-11-09
+Installer: Pure Krypton - Remote Sensor v1.2.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib
+Presets in the pack: 54 (27 different)
+Added here: 27
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

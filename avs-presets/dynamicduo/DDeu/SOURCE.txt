@@ -1,0 +1,13 @@
+Pack: DDeu
+Author / group folder in the archive: dynamicduo
+Source: https://files.visbot.net/archive/dynamicduo/DDeu.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: DDeu.7z, 39727 bytes, sha256 301e5cdb53c2eceac7a89d39bad044cd1636ff9c564336f06d97d2d8088be12b
+Retrieved: 2026-11-09
+Installer: DDeu.exe: NSIS 2.0b0 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 2 (2 different)
+Added here: 2
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

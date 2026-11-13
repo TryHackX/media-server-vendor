@@ -1,0 +1,12 @@
+Pack: helsinki01
+Author / group folder in the archive: daftcunt
+Source: https://files.visbot.net/archive/daftcunt/helsinki01-UNOFFICIAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: helsinki01-UNOFFICIAL.7z, 1319 bytes, sha256 fb95200dab1f00375092d5b366d54290590b0d7437fcf11f114d65a1fce95fcb
+Retrieved: 2026-11-09
+Installer: none (a plain archive, marked UNOFFICIAL in the archive: the original installer is lost)
+Presets in the pack: 5 (5 different)
+Added here: 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

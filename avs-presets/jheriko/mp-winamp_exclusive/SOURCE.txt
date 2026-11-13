@@ -1,0 +1,13 @@
+Pack: mp-winamp_exclusive
+Author / group folder in the archive: jheriko
+Source: https://files.visbot.net/archive/jheriko/mp-winamp_exclusive.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mp-winamp_exclusive.7z, 105791 bytes, sha256 cd2f277b13410574c8d611c35cc610a60f63368b7f7de60781397ccb09c70bf7
+Retrieved: 2026-11-09
+Installer: Jheriko_-_Winamp_Exclusive_Minipack.exe: NSIS 2.0b0 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 10 (5 different)
+Added here: 5
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

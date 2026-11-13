@@ -1,0 +1,10 @@
+Pack: VC019
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VC019.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VC019.exe.zip, 311366 bytes, sha256 84008c05896d84ea2c6eabde64f3b690d6a56d58114d6c24c99a1dd66dcf38d2
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VC019.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 11; kept here: 10; byte-identical to a preset already in vendor/avs-presets (left out): 1
+Images kept (named by a preset of this pack): 1
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

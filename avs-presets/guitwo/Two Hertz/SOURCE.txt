@@ -1,0 +1,13 @@
+Pack: Two Hertz
+Author / group folder in the archive: guitwo
+Source: https://files.visbot.net/archive/guitwo/Two Hertz.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Two Hertz.zip, 262481 bytes, sha256 10228f6835d440c273311d7727d629c7e64c3defb814230ff9c2f6a2439112cf
+Retrieved: 2026-11-09
+Installer: 2Hz.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 13 (13 different)
+Added here: 13
+Images kept (named by a preset): 7
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,7 @@
+AVI clips that presets of this pack play with AVS's Render / AVI effect, from the pack's own
+installer in the VISBOT archive (https://visbot.net/archive), retrieved 2026-11-09, read as
+data. Decoded with this project's FFmpeg (runtime/) into WebP frame atlases: <name>.json
+maps each frame of the stream's index (AVIStreamGetFrame) to a tile. The clips belong to
+their authors; no licence allows redistribution, so this folder stays out of git.
+
+elvis_patterns.avi: from el-vis/EL-VIS9_DRUGDRIVE (sha256 a8f0d78c44c33cf1d04ef752af25e3365a90faab1b7162f0ce4b0c7ed3ce7c25), indeo3 320x240, 320 frames (40 distinct), 1 WebP page (quality 92)

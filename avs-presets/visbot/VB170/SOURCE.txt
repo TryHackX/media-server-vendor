@@ -1,0 +1,10 @@
+Pack: VB170
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB170.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB170.exe.zip, 90432 bytes, sha256 1fdd04d0283c328f027bff8f8963aa7d4adafe9acade0a966281d011f2660a04
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB170.exe: NSIS 2.x / solid NSIS-bzip2 (1 block)
+Presets in the pack: 2; kept here: 2; byte-identical to a preset already in vendor/avs-presets (left out): 0
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

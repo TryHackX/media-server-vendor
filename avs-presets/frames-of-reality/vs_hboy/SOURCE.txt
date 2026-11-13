@@ -1,0 +1,13 @@
+Pack: vs_hboy
+Author / group folder in the archive: frames-of-reality
+Source: https://files.visbot.net/archive/frames-of-reality/vs_hboy.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: vs_hboy.7z, 85245 bytes, sha256 c8cff9c6dca06c926ba103f52fec3b5270c6051cf599811acbf168438df79828
+Retrieved: 2026-11-09
+Installer: vs_hboy___reminit_by_framesofreality.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 11 (11 different)
+Added here: 11
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

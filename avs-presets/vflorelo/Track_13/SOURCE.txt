@@ -1,0 +1,13 @@
+Pack: Track_13
+Author / group folder in the archive: vflorelo
+Source: https://files.visbot.net/archive/vflorelo/Track_13.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Track_13.7z, 142215 bytes, sha256 66927be310c1df3922d50f1699918fcbed489a879dd9bdbd5f09db0feb548f80
+Retrieved: 2026-11-09
+Installer: Track_13.exe: NSIS 2.x / non-solid LZMA
+Presets in the pack: 16 (16 different)
+Added here: 16
+Images kept (named by a preset): 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

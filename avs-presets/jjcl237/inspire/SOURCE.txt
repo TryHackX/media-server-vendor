@@ -1,0 +1,13 @@
+Pack: inspire
+Author / group folder in the archive: jjcl237
+Source: https://files.visbot.net/archive/jjcl237/inspire.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: inspire.7z, 284650 bytes, sha256 8c534f885a73bc2831ced88a957306bffb71d552ca2c5f8ef5014dbb697f75c6
+Retrieved: 2026-11-09
+Installer: JjcL237_presents_Inspire_.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 51 (51 different)
+Added here: 51
+Images kept (named by a preset): 11
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,12 @@
+Pack: Unexpected_Sushi
+Author / group folder in the archive: fragmer
+Source: https://files.visbot.net/archive/fragmer/Unexpected_Sushi.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Unexpected_Sushi.7z, 70812 bytes, sha256 ded93ad0c50986b545f87334cca90dca9c99da392fc7598a90c1e01fd455743c
+Retrieved: 2026-11-09
+Installer: fragmer__s_Unexpected_Sushi_Minipak.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 4 (4 different)
+Added here: 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

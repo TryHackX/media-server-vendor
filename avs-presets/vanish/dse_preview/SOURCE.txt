@@ -1,0 +1,13 @@
+Pack: dse_preview
+Author / group folder in the archive: vanish
+Source: https://files.visbot.net/archive/vanish/dse_preview.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: dse_preview.7z, 331738 bytes, sha256 64cf036355d893238d6d468e602314d8b76edc2ccd89f3482a5f0f67f9f050f4
+Retrieved: 2026-11-09
+Installer: ii_-_dse_prewiew_voume_one.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 12 (12 different)
+Added here: 12
+Images kept (named by a preset): 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

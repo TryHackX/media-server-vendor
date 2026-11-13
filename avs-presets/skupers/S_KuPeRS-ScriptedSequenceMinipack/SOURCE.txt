@@ -1,0 +1,12 @@
+Pack: S_KuPeRS-ScriptedSequenceMinipack
+Author / group folder in the archive: skupers
+Source: https://files.visbot.net/archive/skupers/S_KuPeRS-ScriptedSequenceMinipack.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: S_KuPeRS-ScriptedSequenceMinipack.7z, 21052 bytes, sha256 ec26fb4a20dd589a4244a24afb56535d84f7e8d213fb3ba12a35ee61c8310f56
+Retrieved: 2026-11-09
+Installer: S_KuPeRS-ScriptedSequenceMinipack1-0.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 4 (4 different)
+Added here: 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

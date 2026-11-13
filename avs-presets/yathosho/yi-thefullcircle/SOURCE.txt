@@ -1,0 +1,13 @@
+Pack: yi-thefullcircle
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-thefullcircle.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-thefullcircle.7z, 589174 bytes, sha256 46dfad085e281668efb2ddd24cdf74e620183127394db1a7e2b23b1a2ac79753
+Retrieved: 2026-11-09
+Installer: thefullcircle1-0.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 112 (112 different)
+Added here: 75
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 37 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: O N E
+Author / group folder in the archive: danjoe
+Source: https://files.visbot.net/archive/danjoe/O N E.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: O N E.7z, 800475 bytes, sha256 550d79c2d291be0f75186561e90109a9ce5b79242162cc9a92da9f03ffc9a5eb
+Retrieved: 2026-11-09
+Installer: O_N_E_-_Final_Release.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 31 (31 different)
+Added here: 31
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

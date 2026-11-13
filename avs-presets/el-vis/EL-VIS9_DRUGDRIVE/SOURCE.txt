@@ -1,0 +1,12 @@
+Pack: EL-VIS9_DRUGDRIVE
+Author / group folder in the archive: el-vis
+Source: https://files.visbot.net/archive/el-vis/EL-VIS9_DRUGDRIVE.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: EL-VIS9_DRUGDRIVE.7z, 555463 bytes, sha256 6bf0ff346cf460496dea38b8686c8e8a1df19f1fd8be259da53c1a1c653c87e6
+Retrieved: 2026-11-09
+Installer: EL-VIS9_DRUGDRIVE.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 34 (34 different)
+Added here: 34
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

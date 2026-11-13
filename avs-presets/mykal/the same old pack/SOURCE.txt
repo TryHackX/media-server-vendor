@@ -1,0 +1,13 @@
+Pack: the same old pack
+Author / group folder in the archive: mykal
+Source: https://files.visbot.net/archive/mykal/the same old pack.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: the same old pack.7z, 423430 bytes, sha256 9f1c2b47c51d97b5fe39acac77d2ba29fe771e0e04838b01b6d24f20de3c0572
+Retrieved: 2026-11-09
+Installer: mykaL__the_same_old_pack.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 17 (17 different)
+Added here: 17
+Images kept (named by a preset): 74
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

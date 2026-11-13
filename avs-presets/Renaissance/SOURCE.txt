@@ -1,0 +1,12 @@
+Pack: Renaissance (AVSociety)
+Author / group folder in the archive: avsociety
+Source: https://files.visbot.net/archive/avsociety/Renaissance.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Renaissance.7z, 265639 bytes, sha256 d19b820bb60b56d994ec207905a6666949cde635326e5e6f081ce8c21f030ba5
+Retrieved: 2026-11-09
+Installer: Renaissance.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 30 (30 different)
+This folder held 30 of them before the VISBOT import; they are byte-identical to the archive's.
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

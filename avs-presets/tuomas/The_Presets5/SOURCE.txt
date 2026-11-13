@@ -1,0 +1,12 @@
+Pack: The_Presets5
+Author / group folder in the archive: tuomas
+Source: https://files.visbot.net/archive/tuomas/The_Presets5.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: The_Presets5.7z, 25699 bytes, sha256 aba3abc9988c1382c1f7178f5a6bbfd56c60e621d48de3a0f8560b446abea248
+Retrieved: 2026-11-09
+Installer: The_Presets_v5.exe: NSIS 1.1x (entry_size 24, extract_opcode 2, setoutpath (0, 1))
+Presets in the pack: 19 (19 different)
+Added here: 19
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

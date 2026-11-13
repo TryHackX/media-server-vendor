@@ -1,0 +1,13 @@
+Pack: yi-GodJulIKEA
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-GodJulIKEA.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-GodJulIKEA.7z, 43265 bytes, sha256 304dfcc710298a6027fb474ed0a881dddaec99979cea1ed50a08d18d8e240cb9
+Retrieved: 2026-11-09
+Installer: GodJulIKEA1-0.exe: NSIS 2.0b0 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 10 (10 different)
+Added here: 8
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

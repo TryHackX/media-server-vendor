@@ -1,0 +1,13 @@
+Pack: un
+Author / group folder in the archive: guitwo
+Source: https://files.visbot.net/archive/guitwo/un.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: un.zip, 274170 bytes, sha256 182f51e29ff4429bb22d1c49daca3556611f1ecd3d29d4694895180d771303e5
+Retrieved: 2026-11-09
+Installer: un.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 3 (3 different)
+Added here: 3
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

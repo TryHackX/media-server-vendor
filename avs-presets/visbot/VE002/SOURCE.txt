@@ -1,0 +1,12 @@
+Pack: VE002
+Author / group folder in the archive: visbot
+Source: https://files.visbot.net/archive/visbot/VE002.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: VE002.zip, 62143 bytes, sha256 53783e8927f13e373cb5b98a2051a5c3c0d1243fb23775ad86de4e31159a9c93
+Retrieved: 2026-11-09
+Installer: VE002.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 10 (10 different)
+Added here: 10
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

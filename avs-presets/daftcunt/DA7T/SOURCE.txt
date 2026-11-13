@@ -1,0 +1,12 @@
+Pack: DA7T
+Author / group folder in the archive: daftcunt
+Source: https://files.visbot.net/archive/daftcunt/DA7T.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: DA7T.7z, 1211 bytes, sha256 722984ceb2d3bfe787e65184ff9b9cd8df9466f39867814e34bcad1d33d4136c
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 4 (4 different)
+Added here: 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: sk_avsnake
+Author / group folder in the archive: skupers
+Source: https://files.visbot.net/archive/skupers/sk_avsnake.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: sk_avsnake.7z, 55102 bytes, sha256 1c6bc68c33d8daa238fc37cec675f05f8ffa59e384d2b3e56a40bb7bdaa990a6
+Retrieved: 2026-11-09
+Installer: sk_avsnake.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 1 (1 different)
+Added here: 1
+Images kept (named by a preset): 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

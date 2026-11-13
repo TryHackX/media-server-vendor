@@ -1,0 +1,12 @@
+Pack: pack1
+Author / group folder in the archive: grandchild
+Source: https://files.visbot.net/archive/grandchild/pack1.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: pack1.7z, 50041 bytes, sha256 66327411119349eef0ccf4fa12fcba6ceec54ba2894eb8571663c48bfbbdd032
+Retrieved: 2026-11-09
+Installer: ve_known_you_since_you_were_SO_little___.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 12 (12 different)
+Added here: 12
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

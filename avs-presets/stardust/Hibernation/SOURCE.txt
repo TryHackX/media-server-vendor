@@ -1,0 +1,12 @@
+Pack: Hibernation
+Author / group folder in the archive: stardust
+Source: https://files.visbot.net/archive/stardust/Hibernation.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hibernation.7z, 132116 bytes, sha256 92da743095b7fe4c37842fea200879b0b816e0697a93bfa6359e9a9143413ed1
+Retrieved: 2026-11-09
+Installer: Hibernation_by_Stardust.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 20 (20 different)
+Added here: 20
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

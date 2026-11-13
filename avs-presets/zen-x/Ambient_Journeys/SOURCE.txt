@@ -1,0 +1,12 @@
+Pack: Ambient_Journeys
+Author / group folder in the archive: zen-x
+Source: https://files.visbot.net/archive/zen-x/Ambient_Journeys.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Ambient_Journeys.7z, 28328 bytes, sha256 8185d17feff576b4ba34cb9762b7e5ac2cbcaf0cfce0d9a72a0909e1145db928
+Retrieved: 2026-11-09
+Installer: Zen-X_-Ambient_Journeys.exe: NSIS 1.2-1.4 (entry_size 28, extract_opcode 3, setoutpath (1, 1))
+Presets in the pack: 15 (15 different)
+Added here: 15
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

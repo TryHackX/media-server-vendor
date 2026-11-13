@@ -1,0 +1,12 @@
+Pack: 15_PACK
+Author / group folder in the archive: meaningless-existance
+Source: https://files.visbot.net/archive/meaningless-existance/15_PACK.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: 15_PACK.7z, 6444 bytes, sha256 e3dd9551d1efff2128c4a21598a8ceea8c27a0e435a93828b1b13e9498f27ae5
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 14 (14 different)
+Added here: 14
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

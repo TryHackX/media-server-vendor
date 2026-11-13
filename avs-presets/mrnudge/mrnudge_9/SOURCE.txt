@@ -1,0 +1,13 @@
+Pack: mrnudge_9
+Author / group folder in the archive: mrnudge
+Source: https://files.visbot.net/archive/mrnudge/mrnudge_9.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mrnudge_9.7z, 358212 bytes, sha256 4a96ccde0fefb666d0978c42824c98ba0433907d767dbd0c8c6fab76401b6882
+Retrieved: 2026-11-09
+Installer: Mr_Nudge_Volume_9.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 24 (24 different)
+Added here: 24
+Images kept (named by a preset): 8
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,12 @@
+Pack: Rocky_AVS_IV
+Author / group folder in the archive: ishan
+Source: https://files.visbot.net/archive/ishan/Rocky_AVS_IV.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Rocky_AVS_IV.7z, 108345 bytes, sha256 203da5dc56045652aff50b1f7b166b65ef2a142ddd01096aa24bcdce075880bc
+Retrieved: 2026-11-09
+Installer: Rocky_Avs_4.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / solid NSIS-bzip2 (1 block)
+Presets in the pack: 20 (20 different)
+Added here: 20
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

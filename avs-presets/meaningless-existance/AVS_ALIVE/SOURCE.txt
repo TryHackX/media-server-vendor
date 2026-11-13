@@ -1,0 +1,12 @@
+Pack: AVS_ALIVE
+Author / group folder in the archive: meaningless-existance
+Source: https://files.visbot.net/archive/meaningless-existance/AVS_ALIVE.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: AVS_ALIVE.7z, 52335 bytes, sha256 58897eb35ea3649127c9f3274211d7fc890c6dd8a5b773fc6dbde4b3cc4b9041
+Retrieved: 2026-11-09
+Installer: AVS_ALIVE_by_MEANINGLESSexistance.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 9 (9 different)
+Added here: 9
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

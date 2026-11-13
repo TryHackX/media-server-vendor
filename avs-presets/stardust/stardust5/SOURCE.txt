@@ -1,0 +1,12 @@
+Pack: stardust5
+Author / group folder in the archive: stardust
+Source: https://files.visbot.net/archive/stardust/stardust5.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: stardust5.7z, 21560 bytes, sha256 b6e5ff493ca79aea63f4dec8231d9213269da12cbade1e4922e5a9be35d4fe1b
+Retrieved: 2026-11-09
+Installer: Stardust_V.exe: NSIS 1.9x (entry_size 24, extract_opcode 5, setoutpath (3, 1))
+Presets in the pack: 12 (12 different)
+Added here: 12
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

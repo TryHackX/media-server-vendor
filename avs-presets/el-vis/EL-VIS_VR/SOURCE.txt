@@ -1,0 +1,12 @@
+Pack: EL-VIS_VR
+Author / group folder in the archive: el-vis
+Source: https://files.visbot.net/archive/el-vis/EL-VIS_VR.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: EL-VIS_VR.7z, 313051 bytes, sha256 af7f1b2f5c1472c710864d92491a416e114b3cd340d9ea1589fad2d39b240c6b
+Retrieved: 2026-11-09
+Installer: EL-vis_VR_update.exe: NSIS 2.0b4 / non-solid zlib
+Presets in the pack: 35 (35 different)
+Added here: 35
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

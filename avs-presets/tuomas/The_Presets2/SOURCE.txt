@@ -1,0 +1,12 @@
+Pack: The_Presets2
+Author / group folder in the archive: tuomas
+Source: https://files.visbot.net/archive/tuomas/The_Presets2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: The_Presets2.7z, 21693 bytes, sha256 8169415d820c92f505b82bd1d7a994bb0abc1ab18e6677888de6fd603b713067
+Retrieved: 2026-11-09
+Installer: thepresets_II_-_new_era.exe: PiMP (install_folder )
+Presets in the pack: 24 (24 different)
+Added here: 24
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

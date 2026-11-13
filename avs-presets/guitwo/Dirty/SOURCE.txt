@@ -1,0 +1,13 @@
+Pack: Dirty
+Author / group folder in the archive: guitwo
+Source: https://files.visbot.net/archive/guitwo/Dirty.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Dirty.zip, 298238 bytes, sha256 15cddd16283f756976821b00490c97008219fb00eff10dfc48a093d484b74539
+Retrieved: 2026-11-09
+Installer: Dirty.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 9 (9 different)
+Added here: 9
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

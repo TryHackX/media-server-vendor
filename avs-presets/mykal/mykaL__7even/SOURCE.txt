@@ -1,0 +1,13 @@
+Pack: mykaL__7even
+Author / group folder in the archive: mykal
+Source: https://files.visbot.net/archive/mykal/mykaL__7even.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mykaL__7even.zip, 13985 bytes, sha256 5ad61352899e570dc4e4ac699482390dd08a9e436e8f87f2188f86a987e14f81
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 8 (8 different)
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 8 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

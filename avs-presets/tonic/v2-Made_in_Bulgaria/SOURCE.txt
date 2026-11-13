@@ -1,0 +1,13 @@
+Pack: v2-Made_in_Bulgaria
+Author / group folder in the archive: tonic
+Source: https://files.visbot.net/archive/tonic/v2-Made_in_Bulgaria.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: v2-Made_in_Bulgaria.7z, 356758 bytes, sha256 f243f9dfa019137bb67d3c009ee46668f7ed51d8c81599b996e0f70ffcf8aa90
+Retrieved: 2026-11-09
+Installer: Tonic_v_02_-_Made_In_Bulgaria.exe: NSIS 1.2-1.4 (entry_size 28, extract_opcode 3, setoutpath (1, 1)); Tonic_v_02_-_Made_In_Bulgaria.exe -> AVSociety/Tonic AVS Albums/v.02 - Made In Bulgaria.exe: NSIS 1.2-1.4 (entry_size 28, extract_opcode 3, setoutpath (1, 1))
+Presets in the pack: 72 (36 different)
+Added here: 35
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

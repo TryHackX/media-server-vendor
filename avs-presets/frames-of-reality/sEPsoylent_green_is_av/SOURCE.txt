@@ -1,0 +1,12 @@
+Pack: sEPsoylent_green_is_av
+Author / group folder in the archive: frames-of-reality
+Source: https://files.visbot.net/archive/frames-of-reality/sEPsoylent_green_is_av.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: sEPsoylent_green_is_av.7z, 78483 bytes, sha256 aa417b2e8bea112394c11bcf518db73bb8b896f66faa3233b021bcdbe6486f43
+Retrieved: 2026-11-09
+Installer: sEP___soylent_green_is_avs.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 24 (24 different)
+Added here: 24
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

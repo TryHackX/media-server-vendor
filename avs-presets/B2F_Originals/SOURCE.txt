@@ -1,0 +1,13 @@
+Pack: B2F_Originals (AVSociety)
+Author / group folder in the archive: avsociety
+Source: https://files.visbot.net/archive/avsociety/B2F_Originals.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: B2F_Originals.7z, 52167 bytes, sha256 d0e7354e71fa44277c1fb16795bbce1f1303fe7962548c2e5a80ca437ddd6030
+Retrieved: 2026-11-09
+Installer: B2FEP2.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 4 (4 different)
+This folder held 2 of them before the VISBOT import; they are byte-identical to the archive's.
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

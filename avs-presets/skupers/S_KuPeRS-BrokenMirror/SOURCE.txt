@@ -1,0 +1,12 @@
+Pack: S_KuPeRS-BrokenMirror
+Author / group folder in the archive: skupers
+Source: https://files.visbot.net/archive/skupers/S_KuPeRS-BrokenMirror.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: S_KuPeRS-BrokenMirror.7z, 23114 bytes, sha256 d9f4e08d65113a1d64cf35e4985de9fc9b90f99def73e8d3f6606bbcd63011d8
+Retrieved: 2026-11-09
+Installer: S_KuPeRS-BrokenMirror1-0.exe: self-extracting zip
+Presets in the pack: 14 (14 different)
+Added here: 14
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

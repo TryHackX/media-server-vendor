@@ -1,0 +1,10 @@
+Pack: VB188
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB188.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB188.exe.zip, 379175 bytes, sha256 1cc39daf0386f805c0a6650d0b3e427a0054d11af6b96d441645c885922d2976
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB188.exe: NSIS 2.x / solid NSIS-bzip2 (2 blocks)
+Presets in the pack: 20; kept here: 10; byte-identical to a preset already in vendor/avs-presets (left out): 10
+Images kept (named by a preset of this pack): 2
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

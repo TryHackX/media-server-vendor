@@ -1,0 +1,13 @@
+Pack: i_cant_believe_its_not_lard
+Author / group folder in the archive: pottsy
+Source: https://files.visbot.net/archive/pottsy/i_cant_believe_its_not_lard.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: i_cant_believe_its_not_lard.7z, 68266 bytes, sha256 66703ce7a3f67102e5d2c2b8acf6d51a1668e1d2bcddc036a782094df90620f0
+Retrieved: 2026-11-09
+Installer: Lard.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 12 (12 different)
+Added here: 12
+Images kept (named by a preset): 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

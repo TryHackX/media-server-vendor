@@ -1,0 +1,12 @@
+Pack: two_and_a_half_avs
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/two_and_a_half_avs.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: two_and_a_half_avs.zip, 2017 bytes, sha256 fee9a5b8a2f6bd36ae7a921ac301a1584986936728e4325e7ef20f608717a0b8
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 3 (3 different)
+Added here: 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

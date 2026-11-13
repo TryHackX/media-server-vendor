@@ -1,0 +1,12 @@
+Pack: Prodigy
+Author / group folder in the archive: hboy
+Source: https://files.visbot.net/archive/hboy/Prodigy.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Prodigy.7z, 71475 bytes, sha256 222e99f1f4b3fd77c33e67a2371ec678e14c2b7fbacf346ae8324b371c67909c
+Retrieved: 2026-11-09
+Installer: Hboy___Prodigy.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 10 (10 different)
+Added here: 10
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

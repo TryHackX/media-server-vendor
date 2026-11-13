@@ -1,0 +1,14 @@
+Pack: VB200
+Author / group folder in the archive: visbot
+Source: https://files.visbot.net/archive/visbot/VB200.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: VB200.zip, 2152117 bytes, sha256 e176de5c80283dcaf36d9c8d9e53d87966d792ff53ea10f837e76004314dbfa3
+Retrieved: 2026-11-09
+Installer: VB200.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 2530 (2378 different)
+Added here: 2016
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 362 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 203
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

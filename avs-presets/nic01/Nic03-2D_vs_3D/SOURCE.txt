@@ -1,0 +1,16 @@
+Pack: Nic03-2D_vs_3D
+Author / group folder in the archive: nic01
+Source: https://files.visbot.net/archive/nic01/Nic03-2D_vs_3D-UNOFFICIAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Nic03-2D_vs_3D-UNOFFICIAL.7z, 90441 bytes, sha256 a8894c33c481ef73049a45b233579a8aa3538f5765fe91523b7008dbd679eb43
+Retrieved: 2026-11-10 (the import of 2026-11-09 could not open it)
+Installer: Nic03_-_2D_vs_3D.exe: an old Clickteam installer (InstItClass)
+Read as data: its block chain (file list 0x1243, files 0x7f7f) and Clickteam's deflate variant
+(4-bit block headers, code-length order 18,17,16,0..15, stored blocks without NLEN), written anew
+from the installer's code read statically; all 46 files match the list's sizes.
+Presets in the pack: 45 (45 different)
+Added here: 45
+Images kept (named by a preset): 0
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

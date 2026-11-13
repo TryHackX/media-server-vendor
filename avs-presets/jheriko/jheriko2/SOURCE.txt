@@ -1,0 +1,12 @@
+Pack: jheriko2
+Author / group folder in the archive: jheriko
+Source: https://files.visbot.net/archive/jheriko/jheriko2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: jheriko2.7z, 26732 bytes, sha256 0b8ec0d00ac8acf121892422da5a0e7ca0eafd949b9125a29b9931f5f654e826
+Retrieved: 2026-11-09
+Installer: Jheriko_AVS_Pack_2.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 30 (15 different)
+Added here: 15
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

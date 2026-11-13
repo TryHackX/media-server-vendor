@@ -1,0 +1,12 @@
+Pack: You_better_like_it
+Author / group folder in the archive: vflorelo
+Source: https://files.visbot.net/archive/vflorelo/You_better_like_it.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: You_better_like_it.7z, 17387 bytes, sha256 2093f37f2361470099a7cc6abcd87b56e7a06efc50b028d5f885958a46108223
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 24 (24 different)
+Added here: 24
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: Rocky_AVS_VII
+Author / group folder in the archive: ishan
+Source: https://files.visbot.net/archive/ishan/Rocky_AVS_VII.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Rocky_AVS_VII.7z, 215579 bytes, sha256 7f9b99ad674c9ed8338ce95b7d1fda2df417d1985ff3dccf66d24f1d254da073
+Retrieved: 2026-11-09
+Installer: Rocky AVS 7 - Walking on the clouds.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib
+Presets in the pack: 26 (26 different)
+Added here: 26
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

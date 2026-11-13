@@ -1,0 +1,12 @@
+Pack: horsefly4
+Author / group folder in the archive: horse-fly
+Source: https://files.visbot.net/archive/horse-fly/horsefly4.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: horsefly4.7z, 24091 bytes, sha256 7512a4022ab0786eaea18054d0c39cd5a77e7301d62c052676cfbf8f66c9d723
+Retrieved: 2026-11-09
+Installer: HF_Compilation_4th_Dimension.exe: PiMP (install_folder )
+Presets in the pack: 25 (25 different)
+Added here: 25
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

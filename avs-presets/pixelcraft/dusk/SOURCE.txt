@@ -1,0 +1,12 @@
+Pack: dusk
+Author / group folder in the archive: pixelcraft
+Source: https://files.visbot.net/archive/pixelcraft/dusk.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: dusk.7z, 59227 bytes, sha256 0f9dfa64b42b5bc133ec29cb7bd7d5abd40c233bca391f5bc1fe1cab99eb0a26
+Retrieved: 2026-11-09
+Installer: Pixelcraft_-_Dusk.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / solid NSIS-bzip2 (1 block)
+Presets in the pack: 8 (8 different)
+Added here: 8
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

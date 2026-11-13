@@ -1,0 +1,13 @@
+Pack: incipience
+Author / group folder in the archive: amphirion
+Source: https://files.visbot.net/archive/amphirion/incipience.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: incipience.7z, 17211 bytes, sha256 4d72fa386dd2de979208faa8140065689468643492198d79f26df5eecd69997e
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 45 (45 different)
+Added here: 45
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: AMIGAN fx
+Author / group folder in the archive: danjoe
+Source: https://files.visbot.net/archive/danjoe/AMIGAN fx.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: AMIGAN fx.7z, 330826 bytes, sha256 19d09df8c2bb1bc667d5fada9417ed4041e22ead022ca2367b382711c2459644
+Retrieved: 2026-11-09
+Installer: AMIGAN_fx.exe: self-extracting zip
+Presets in the pack: 47 (47 different)
+Added here: 47
+Images kept (named by a preset): 12
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

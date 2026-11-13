@@ -1,0 +1,27 @@
+Cthugha98 0.6a (alpha, October 1998) for Windows 95/98, 2D and 3Dfx builds
+Kevin "Zaph" Burfitt, Torps Productions. http://www.torps.com, cthugha@torps.com
+
+Ported for "Klasyka retro" by static analysis of the owner's copy of the program
+(cthugha98b06.zip, SHA-256 1a2d7edd773066831006efa63b652e6736aee2646f291a513249c33127d55f3a:
+Cthugha98.exe and Cthugha98-3dfx.exe). Nothing of it was run; see SOURCE.md.
+
+The program states its terms in its own messages (copied unchanged from the executable):
+
+  "Cthugha98 will be released as a free (postcardware/CDware) version and a registered
+  version.  If you want more info on the registered version, check the help menu."
+
+  "Registering Cthugha98.
+  If you really like Cthugha, you can register it and receive a CD-Rom with thelatest
+  registered version (with extra features).
+  If you just want to show support for Cthugha without registering, then send a postcard or
+  CD to:
+  Kevin Burfitt, P.O. Box 331, Richmond 3121, Victoria, Australia"
+
+Cthugha's published source (COPYING-cthugha-53.txt) may be used in other programs only
+non-commercially and with credit to Cthugha and Torps Productions. This port follows the same
+terms: personal, non-commercial use only, with credit; never part of the player's repository.
+
+The data it reads came from the Cthugha 97 data archives (cthugha97map.zip, cthugha97pcx.zip,
+cthugha97tab.zip): palettes (*.map) by their authors as named in the files, the pictures ILL,
+LEAF, ZAPH-91 and ZAPH-93, and the translation tables HURR, ROTATE and SPIR-OUT (Ofer Faigon and
+Zaph; the same files as in Cthugha 5.3's distribution).

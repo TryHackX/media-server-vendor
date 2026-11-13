@@ -1,0 +1,12 @@
+Pack: ProjectVortex
+Author / group folder in the archive: maxpudding
+Source: https://files.visbot.net/archive/maxpudding/ProjectVortex.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: ProjectVortex.7z, 21019 bytes, sha256 52ec07914e8b9da06cfcc8745ba5c28832015ece118e797700fd7ae32fbc6b6b
+Retrieved: 2026-11-09
+Installer: ProjectVortex.exe: PiMP (install_folder $$PROGRAMFILES\Winamp\Plugins\avs\ProjectVortex)
+Presets in the pack: 9 (9 different)
+Added here: 9
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

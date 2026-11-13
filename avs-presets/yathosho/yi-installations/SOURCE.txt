@@ -1,0 +1,12 @@
+Pack: yi-installations
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-installations.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-installations.7z, 22691 bytes, sha256 fb58a579453c89237df14bf16fbdb48fa2f95ceea26138eb4337dee12629c210
+Retrieved: 2026-11-09
+Installer: installations1-0.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 11 (11 different)
+Added here: 11
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

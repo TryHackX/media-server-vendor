@@ -1,0 +1,12 @@
+Pack: WannabeElvis
+Author / group folder in the archive: unripe-lemon
+Source: https://files.visbot.net/archive/unripe-lemon/WannabeElvis.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: WannabeElvis.7z, 249971 bytes, sha256 d6652a431548af4d70b2c77e85db9b828763f9f617dc42fb09c48d2c803f3428
+Retrieved: 2026-11-09
+Installer: UL_Wannabe_El_Vis.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 9 (9 different)
+Added here: 9
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

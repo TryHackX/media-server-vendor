@@ -1,0 +1,13 @@
+Pack: JanzkuAVSPack6
+Author / group folder in the archive: jdm
+Source: https://files.visbot.net/archive/jdm/JanzkuAVSPack6.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: JanzkuAVSPack6.7z, 40592 bytes, sha256 c97b31967b629433a75418eaf45f8178f1274710cd309ce43c63f88a9da86e3f
+Retrieved: 2026-11-09
+Installer: JanzkuAVSPack_V6.exe: PiMP (install_folder )
+Presets in the pack: 15 (15 different)
+Added here: 15
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

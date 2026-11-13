@@ -1,0 +1,10 @@
+Pack: VB079-2
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB079-2.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB079-2.exe.zip, 195067 bytes, sha256 e4996bebeffc7c79c6393ebc0bbf524ef2269340c8b6b77771f2b552e09a237f
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB079-2.exe: NSIS 2.x / solid NSIS-bzip2 (1 block)
+Presets in the pack: 42; kept here: 20; byte-identical to a preset already in vendor/avs-presets (left out): 22
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,12 @@
+Pack: S_KuPeRS-Static
+Author / group folder in the archive: skupers
+Source: https://files.visbot.net/archive/skupers/S_KuPeRS-Static.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: S_KuPeRS-Static.7z, 28680 bytes, sha256 6452e5b94700fa779fc335e1932f95b41d0a3f34786e4feb16253020a10402a2
+Retrieved: 2026-11-09
+Installer: S_KuPeRS-Static1-0.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 20 (20 different)
+Added here: 20
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

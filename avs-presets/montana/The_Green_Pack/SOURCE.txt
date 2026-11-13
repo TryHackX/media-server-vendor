@@ -1,0 +1,12 @@
+Pack: The_Green_Pack
+Author / group folder in the archive: montana
+Source: https://files.visbot.net/archive/montana/The_Green_Pack.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: The_Green_Pack.7z, 699215 bytes, sha256 f9d3692206f286bbf1d0f70b93072761049bf6fb9dc82d8d04717ef11f6ce7b9
+Retrieved: 2026-11-09
+Installer: Montana_-_The_Green_Pack.exe: PiMP (install_folder )
+Presets in the pack: 16 (16 different)
+Added here: 16
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

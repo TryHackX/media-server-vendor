@@ -1,0 +1,12 @@
+Pack: Whacko_AVS_V
+Author / group folder in the archive: unconed
+Source: https://files.visbot.net/archive/unconed/Whacko_AVS_V.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Whacko_AVS_V.7z, 136491 bytes, sha256 e5c46b63ef66fe725df8b411c9619767850443af02c1267167a27504e4cc7e91
+Retrieved: 2026-11-09
+Installer: Whacko_AVS_V_for_v2.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 15 (15 different)
+Added here: 15
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: Response
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/Response.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Response.7z, 65407 bytes, sha256 d14cf4ba2b5972caa1c5f139e7b1d6fa7a38c5aa3aa282584ab28ac387c3bc4a
+Retrieved: 2026-11-09
+Installer: Tuggummi_-_Response.exe: NSIS 1.2-1.4 (entry_size 28, extract_opcode 3, setoutpath (1, 1))
+Presets in the pack: 33 (33 different)
+Added here: 33
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

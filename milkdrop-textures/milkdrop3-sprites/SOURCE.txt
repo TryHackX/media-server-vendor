@@ -1,0 +1,24 @@
+MilkDrop 3's sprite images: the ones the presets' sprite blocks name (SpriteName=sprites\x.png).
+
+Source:   the official MilkDrop 3 installer, MilkDrop3.exe (MilkDrop 3.37), release asset of
+          https://github.com/milkdrop2077/MilkDrop3/releases (tag MilkDrop3), 92 005 440 bytes,
+          SHA-256 e155ca7e600acbb59e91c6ca55a3bcf2c8c7358cead808429ecb8d158bd888d5 (as GitHub
+          lists it). Downloaded again 09.11.2026 with the owner's approval for static analysis and
+          never run: its payload is a ZIP archive inside the program's resources, read with
+          Python's zipfile (python -I), Milkdrop3/sprites/. The installer was deleted afterwards.
+Files:    39 of its 82 sprite images, 17 MB — every one a preset of the packs names. Each is
+          named sprite_<its name> (sprite_Jello1.png): the converter calls a sprite's image so
+          (milkdrop-convert.mjs parseSprite), apart from the textures of the same name.
+          sprites\jello2.png, which two MDropDX12 presets name, is not in the installer, nor in
+          shanevbg/MDropDX12 (main, its only branch: no sprite images at all) or IkeC/Milkwave
+          (main: Visualizer/resources/sprites and Resources/sprites have Jello1.png only),
+          searched 09.11.2026; those two presets draw no sprite.
+          Five presets take their sprite from textures\ (MilkDrop3_023,
+          MilkDrop3_024, MilkDrop3_026, Pattern_008, Pattern_032), found among the textures.
+          sprite_dmt.gif is animated (50 frames): drawn frame by frame, as MilkDrop 3 draws it.
+Licence:  the installer's LICENSE.txt: "MilkDrop 3 is free for personal use, commercial and
+          professional usage is NOT allowed." No licence of their own is stated for the images.
+          Kept in the git-ignored vendor/ only; do not commit or redistribute.
+
+random-pool: no
+  (milkdrop-textures.mjs) Asked for by name only, never drawn by a random slot.

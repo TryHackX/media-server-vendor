@@ -1,0 +1,12 @@
+Pack: stardust3
+Author / group folder in the archive: stardust
+Source: https://files.visbot.net/archive/stardust/stardust3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: stardust3.7z, 22151 bytes, sha256 2e74157d1c1d2565bded4f10c4522ae10d197a82756f9a1d9a58f76d2dedf869
+Retrieved: 2026-11-09
+Installer: Stardust_III.exe: self-extracting zip
+Presets in the pack: 25 (25 different)
+Added here: 25
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

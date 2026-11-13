@@ -1,0 +1,13 @@
+Pack: S_KuPeRS-LP6
+Author / group folder in the archive: skupers
+Source: https://files.visbot.net/archive/skupers/S_KuPeRS-LP6.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: S_KuPeRS-LP6.7z, 419189 bytes, sha256 5c507a81511bf47859676018d941bf8d10c78dfdd48a47a5e8a6a0c7597bde42
+Retrieved: 2026-11-09
+Installer: S_KuPeRS_-_LP6.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 40 (40 different)
+Added here: 40
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,12 @@
+Pack: RipOff
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/RipOff.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: RipOff.7z, 55806 bytes, sha256 53c8ebf0ec7f4dfba4f9e95c0e4589f2468e782190391b2f95d5478375ca78db
+Retrieved: 2026-11-09
+Installer: tuggummi_ripoff_repub.exe: NSIS 1.2-1.4 (entry_size 28, extract_opcode 3, setoutpath (1, 1))
+Presets in the pack: 78 (78 different)
+Added here: 78
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

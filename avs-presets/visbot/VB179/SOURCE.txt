@@ -1,0 +1,10 @@
+Pack: VB179
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB179.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB179.exe.zip, 137830 bytes, sha256 de43a77dafc1407aec287e421e08c18dd9098817948a1cebd2256a211bd23c2f
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB179.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 3; kept here: 3; byte-identical to a preset already in vendor/avs-presets (left out): 0
+Images kept (named by a preset of this pack): 1
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

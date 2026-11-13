@@ -1,0 +1,13 @@
+Pack: Total_Domination
+Author / group folder in the archive: avs-ike
+Source: https://files.visbot.net/archive/avs-ike/Total_Domination-UNOFFICIAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Total_Domination-UNOFFICIAL.7z, 37564 bytes, sha256 befd8a9b2669bb48e6aa2e345d7676f9bd844851b5c06780b316b956f20b3e64
+Retrieved: 2026-11-09
+Installer: none (a plain archive, marked UNOFFICIAL in the archive: the original installer is lost)
+Presets in the pack: 18 (18 different)
+Added here: 18
+Images kept (named by a preset): 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

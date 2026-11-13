@@ -1,0 +1,14 @@
+Pack: raz3
+Author / group folder in the archive: raz
+Source: https://files.visbot.net/archive/raz/raz3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: raz3.7z, 622146 bytes, sha256 317ccabaec7b4a688863d05bef8f8015d2b33463d0bd8df9f11d43916fc03cc3
+Retrieved: 2026-11-09
+Installer: Three.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 16 (16 different)
+Added here: 14
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 61
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

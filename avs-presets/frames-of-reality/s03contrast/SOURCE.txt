@@ -1,0 +1,13 @@
+Pack: s03contrast
+Author / group folder in the archive: frames-of-reality
+Source: https://files.visbot.net/archive/frames-of-reality/s03contrast.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: s03contrast.7z, 253890 bytes, sha256 c85a1ba4e4437b819bdf2b6518a484733200166be9a9d2d711434867eaa31664
+Retrieved: 2026-11-09
+Installer: s03_contrast.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 27 (27 different)
+Added here: 26
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

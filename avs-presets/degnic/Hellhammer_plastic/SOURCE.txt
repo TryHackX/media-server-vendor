@@ -1,0 +1,12 @@
+Pack: Hellhammer_plastic
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Hellhammer_plastic.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hellhammer_plastic.7z, 31695 bytes, sha256 426f58666af2f24c5b9b86cb2765ac164cc24e94f4220325b0f72bc9df112ff6
+Retrieved: 2026-11-09
+Installer: Hell_hammer_plastic.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 25 (25 different)
+Added here: 25
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

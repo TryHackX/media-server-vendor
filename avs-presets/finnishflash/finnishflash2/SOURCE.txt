@@ -1,0 +1,13 @@
+Pack: finnishflash2
+Author / group folder in the archive: finnishflash
+Source: https://files.visbot.net/archive/finnishflash/finnishflash2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: finnishflash2.7z, 39675 bytes, sha256 4ac6474f1d24557a92c3449bb46d0929f52a4eec764ae32b19e5fcc5ce604311
+Retrieved: 2026-11-09
+Installer: Finnish_Flash_2.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 37 (37 different)
+Added here: 34
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 3 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,21 @@
+BeatDrop's textures that presets of the BeatDrop pack (vendor/milkdrop-presets/beatdrop) name
+directly: MilkDrop3_*, Pattern_*, Disco_Seq*, clipboard03, chloemall, sprites and the like.
+
+Source:   https://github.com/OfficialIncubo/BeatDrop-Music-Visualizer
+          resources/Milkdrop2/textures/ (branch master), fetched 08.11.2026 from
+          https://raw.githubusercontent.com/OfficialIncubo/BeatDrop-Music-Visualizer/master/resources/Milkdrop2/textures/<name>
+Files:    72 images, 26 MB. Each file's size was checked against the repository's tree and its
+          header against its format. ben10back.png is a JPEG in the repository and is kept as
+          ben10back.jpg (MilkDrop looks textures up by name, without the extension);
+          chloemall.dds is left out, as chloemall.png is the same texture.
+Licence:  none stated for the textures. BeatDrop's code is BSD-3; its PRESET LICENSE.md covers
+          the presets (Shadertoy ports mostly CC BY-NC-SA 3.0). Several images are third-party
+          artwork. Kept in the git-ignored vendor/ only; do not commit or redistribute.
+
+The random-slot sets the same presets draw from (rand00_rubygillman…, 404 images, 703 MB) are in
+vendor/milkdrop-textures-optional/beatdrop-random-sets/ — see the SOURCE.txt there.
+
+random-pool: prefixed
+  (milkdrop-textures.mjs) Presets ask for these by name; a random slot draws them only when it
+  names their prefix. Unprefixed slots (rand00…rand15) keep drawing from the classic textures, so
+  the projectM and MilkDrop 2 presets look as they did before these were added.

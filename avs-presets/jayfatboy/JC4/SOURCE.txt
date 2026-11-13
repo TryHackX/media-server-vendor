@@ -1,0 +1,13 @@
+Pack: JC4
+Author / group folder in the archive: jayfatboy
+Source: https://files.visbot.net/archive/jayfatboy/JC4.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: JC4.7z, 113081 bytes, sha256 f075d4b6297dde5bee0f73625e0007d049767ff89db16826ff9287dc1dab5709
+Retrieved: 2026-11-09
+Installer: JC4TheCarbonFiberMelonWeed.exe: self-extracting zip
+Presets in the pack: 100 (100 different)
+Added here: 76
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 24 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

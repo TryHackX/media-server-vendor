@@ -1,0 +1,12 @@
+Pack: live_from_the_castle
+Author / group folder in the archive: runar
+Source: https://files.visbot.net/archive/runar/live_from_the_castle.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: live_from_the_castle.7z, 98140 bytes, sha256 2058ca00b26d545279043339d7b380f89de7136a98bf52d50c6e447082f784b6
+Retrieved: 2026-11-09
+Installer: Runarpack__07___Live_From_the_Castle.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 16 (16 different)
+Added here: 16
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

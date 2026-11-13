@@ -1,0 +1,12 @@
+Pack: PowerMove
+Author / group folder in the archive: stardust
+Source: https://files.visbot.net/archive/stardust/PowerMove.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: PowerMove.7z, 21472 bytes, sha256 48232010f01c389dea10b4fc0d9f13bc7987f337335c989b2294dbc249852d9e
+Retrieved: 2026-11-09
+Installer: PoweMove.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 12 (12 different)
+Added here: 12
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

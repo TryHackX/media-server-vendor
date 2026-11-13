@@ -1,0 +1,13 @@
+Pack: Insomnia
+Author / group folder in the archive: hboy
+Source: https://files.visbot.net/archive/hboy/Insomnia.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Insomnia.7z, 157810 bytes, sha256 ed6534771c3496e115ac7159097ae807ff960469799b4882c3c3ef596a61f588
+Retrieved: 2026-11-09
+Installer: Hboy___Insomnia.exe: NSIS 2.0b4 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 9 (9 different)
+Added here: 9
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

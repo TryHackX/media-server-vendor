@@ -1,0 +1,14 @@
+Pack: VE009
+Author / group folder in the archive: visbot
+Source: https://files.visbot.net/archive/visbot/VE009.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: VE009.zip, 244721 bytes, sha256 2fff45395ad23bcf7daadbd124ee4ab9df4d7715d500ef807b873b9550421c7d
+Retrieved: 2026-11-09
+Installer: VE009.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 32 (32 different)
+Added here: 31
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 7
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,22 @@
+Shader content for the "Shadery" visualizer (frontend/scripts/shader-visualizers.mjs).
+Not part of the repository (frontend/vendor/ is git-ignored); served on the owner's own,
+non-commercial site only.
+
+volts-laboratory/  — https://github.com/MV10/volts-laboratory, commit 10cb28c4b6113bcccc659713c5af3ba1f27acd94
+                     (Jon McGuire's content for Monkey Hi Hat; no licence file; most shaders are
+                     adaptations of Shadertoy / VertexShaderArt originals, credited in each .conf
+                     and in notes.txt; Shadertoy's default licence is CC BY-NC-SA 3.0).
+                     Folders taken as they are: shaders/ fx/ crossfades/ libraries/, README.md, notes*.txt.
+                     textures/: the 57 files the .conf files name (added 2026-11-08, same commit):
+                     Shadertoy's standard textures (photographs and noise), the cube maps
+                     ("Humus …" — Emil Persson, CC BY 3.0, see Humus_CC-BY-3.txt; "oc2k1 NASA
+                     Earth"), the starship pictures and masks (starship FX; MV10's own, their
+                     PSD sources are in the repository's misc/) and the costume videos (ghostly
+                     FX, H.264, played muted). Checked: each file's type by its first bytes and its
+                     size against the repository tree. The build serves only these, beside the
+                     presets; any of them missing falls back to a generated stand-in (videos and
+                     the starship pictures have none: those effects are then left out).
+music_visualizer/  — https://github.com/bradleybauer/music_visualizer, commit 3226d3885aea0c87e8286e6703c4cf293f339741
+                     (Bradley Bauer; GPL-3.0, docs/LICENSE.md). src/shaders/ as it is.
+
+Downloaded 2026-11-08 (text files only), checked: no binaries, no control characters.

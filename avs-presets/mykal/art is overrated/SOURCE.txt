@@ -1,0 +1,12 @@
+Pack: art is overrated
+Author / group folder in the archive: mykal
+Source: https://files.visbot.net/archive/mykal/art is overrated.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: art is overrated.7z, 271046 bytes, sha256 6d5be948cf6cc529e53eca41719a5cdc6328268a04f3eb4ee29d26732068b7e5
+Retrieved: 2026-11-09
+Installer: mykaL__art_is_overrated.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 17 (17 different)
+Added here: 17
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

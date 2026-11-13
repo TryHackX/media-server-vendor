@@ -1,0 +1,12 @@
+Pack: Indyrods_VeryBest_Presets
+Author / group folder in the archive: indyrod
+Source: https://files.visbot.net/archive/indyrod/Indyrods_VeryBest_Presets.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Indyrods_VeryBest_Presets.7z, 28006 bytes, sha256 3d9cac13ee4d482a96008953f24109fa11e0bf3b3edef94d33dfe2a24a622a1a
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 35 (35 different)
+Added here: 35
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

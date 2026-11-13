@@ -1,0 +1,13 @@
+Pack: AVSPrimer
+Author / group folder in the archive: atero
+Source: https://files.visbot.net/archive/atero/AVSPrimer.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: AVSPrimer.7z, 47414 bytes, sha256 2d0c17919bc2e1900e932bdde133437c015287279b1aa4125b1fb32185c0dd9b
+Retrieved: 2026-11-09
+Installer: AVS_Primer_by_Atero.exe: PiMP (install_folder $$PROGRAMFILES\Winamp\Plugins\avs\)
+Presets in the pack: 55 (55 different)
+Added here: 55
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.
+Left out: "Trans - Unique Tone.avs", damaged in the archive (every NUL byte of it turned into a space; AVS cannot read it either).

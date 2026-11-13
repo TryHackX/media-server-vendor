@@ -1,0 +1,10 @@
+Pack: VB120-2
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB120-2.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB120-2.exe.zip, 254516 bytes, sha256 a4a2597399ca16146cd427b8495504b8ca9baa18cf994db94e42029a6ba221b6
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB120-2.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 15; kept here: 1; byte-identical to a preset already in vendor/avs-presets (left out): 14
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

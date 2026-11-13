@@ -1,0 +1,12 @@
+Pack: rad ON preview
+Author / group folder in the archive: micro-d
+Source: https://files.visbot.net/archive/micro-d/rad ON preview.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: rad ON preview.7z, 23469 bytes, sha256 94c4d3ea8584b7811540709d6e32e47a062fc9c7956f5b60c7f00705a2c861c0
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 3 (3 different)
+Added here: 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

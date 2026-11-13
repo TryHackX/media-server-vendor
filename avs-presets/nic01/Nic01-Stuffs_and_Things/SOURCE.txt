@@ -1,0 +1,12 @@
+Pack: Nic01-Stuffs_and_Things
+Author / group folder in the archive: nic01
+Source: https://files.visbot.net/archive/nic01/Nic01-Stuffs_and_Things-UNOFFICIAl.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Nic01-Stuffs_and_Things-UNOFFICIAl.7z, 14961 bytes, sha256 01e9daf692278f5e4dfc710aa7951925a4edeb12234fabfb95a4df989cd9e892
+Retrieved: 2026-11-09
+Installer: none (a plain archive, marked UNOFFICIAL in the archive: the original installer is lost)
+Presets in the pack: 49 (49 different)
+Added here: 49
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

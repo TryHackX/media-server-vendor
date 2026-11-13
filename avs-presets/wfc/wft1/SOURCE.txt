@@ -1,0 +1,13 @@
+Pack: wft1
+Author / group folder in the archive: wfc
+Source: https://files.visbot.net/archive/wfc/wft1.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: wft1.7z, 171792 bytes, sha256 2438ae4cf5af389de90baec790d807666357962640a4fecebdee312d53724524
+Retrieved: 2026-11-09
+Installer: wft1.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 24 (24 different)
+Added here: 24
+Images kept (named by a preset): 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

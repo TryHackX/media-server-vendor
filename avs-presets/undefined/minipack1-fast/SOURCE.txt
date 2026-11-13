@@ -1,0 +1,12 @@
+Pack: minipack1-fast
+Author / group folder in the archive: undefined
+Source: https://files.visbot.net/archive/undefined/minipack1-fast.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: minipack1-fast.7z, 25491 bytes, sha256 f74344e34bae98a990d11d2f33505f7ab634875cedb0d27e2838e36bd6f4ecb6
+Retrieved: 2026-11-09
+Installer: MiniPak_1___Fast.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 22 (11 different)
+Added here: 11
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

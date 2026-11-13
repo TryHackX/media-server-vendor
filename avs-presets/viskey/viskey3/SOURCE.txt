@@ -1,0 +1,13 @@
+Pack: viskey3
+Author / group folder in the archive: viskey
+Source: https://files.visbot.net/archive/viskey/viskey3-UNOFFICIAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: viskey3-UNOFFICIAL.7z, 25384 bytes, sha256 40084cb28cc883fa19cc9663e7c34965d1d47d719450100867db6ae044abeef4
+Retrieved: 2026-11-09
+Installer: none (a plain archive, marked UNOFFICIAL in the archive: the original installer is lost)
+Presets in the pack: 29 (29 different)
+Added here: 29
+Images kept (named by a preset): 7
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

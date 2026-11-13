@@ -1,0 +1,36 @@
+Ports of Winamp AVS plug-ins without published source, for this site's AVS visualizer.
+
+What: TypeScript ports of APE plug-ins (and of the Sonique visualization plug-ins AVS ran through
+its SVP Loader) that presets in vendor/avs-presets use, written by static reading of the plug-in
+binaries as they came in the preset packs of the VISBOT archive (https://visbot.net/archive,
+files.visbot.net/archive/<author>/<pack>), retrieved 2026-11-09.
+
+How: the owner approved extracting the plug-in files from the packs' installers as data and
+reading them statically (MSVC dumpbin, Python with -I). Nothing was run, loaded or emulated. The
+binaries were deleted afterwards; the analysis notes are in scratch/avs-reference/apes/*.md.
+
+Licence: the plug-ins' authors published no source and no licence for these binaries, so the
+ports stay out of git (frontend/vendor/ is git-ignored). Credit for the effects belongs to them:
+
+  ape id / library                  file                  author (as far as known)
+  Misc: Buffer blend                buffer.ape            TomyLobo
+  Shreyas:uberCLSv2.00              CLS_dynamic.ape       Shreyas Potnis (Dynamic Clear Screen v2)
+  Nullsoft TV v1                    tv.ape                Nullsoft / Aarni Koskela (attributed)
+  Virtual Effect: Screen Reverse    ScreenReverse.ape     goebish (VFX)
+  Virtual Effect: Negative Strobe   NegativeStrobe.ape    goebish (VFX; port 2026-11-10, from goebish.free.fr/vfx, see header)
+  Trans: Normalise                  normalise.ape         unknown (grandchild/vis_avs re-implemented it)
+  Winamp 3DAPE v1                   3d.ape                unknown (Lone's site, 1999)
+  Flock Off                         flock.ape             Joshua Gerrish (Alife pack)
+  Amoeba                            amoeba.ape            Steven Wittens (UnConeD)
+  Tentacles 3D                      amoeba3d.ape          Steven Wittens (UnConeD)
+  Metaballs 3D                      metaballs3d.ape       Steven Wittens (UnConeD)
+  Camillo Plasma: BOX               plasma.ape            Camillo Ferraris (SimplePlasma)
+  VisFrac v1.0 by PP                vf.ape                Peter Pawlowski
+  GeissFluid                        fluid.ape             Ryan Geiss
+  FunkyFX FyrewurX v1               fyrewurx.ape          FunkyFX (port 2026-11-10, from ishan/Rocky_AVS_II)
+  voronoi.svp, ball.svp, miffo.svp, xoo.svp, smear.svp, starwave.svp, liquid.svp,
+  blaze.uvs, beatpipe.uvs           Sonique visualization plug-ins (authors per notes)
+
+Each port's header names the binary's sha256, the config layout, the behaviour and what could
+not be recovered. files/ holds the 3D Studio meshes 3DAPE presets name (sphere.asc, ant.asc,
+cube.asc), taken as data from the same packs (tonic, fabry, l0tus).

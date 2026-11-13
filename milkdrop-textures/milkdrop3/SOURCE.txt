@@ -1,0 +1,22 @@
+MilkDrop 3's textures that presets name directly and no other source here has.
+
+Source:   the official MilkDrop 3 installer, MilkDrop3.exe (MilkDrop 3.37), release asset of
+          https://github.com/milkdrop2077/MilkDrop3/releases (tag MilkDrop3), 92 005 440 bytes,
+          SHA-256 e155ca7e600acbb59e91c6ca55a3bcf2c8c7358cead808429ecb8d158bd888d5 (as GitHub
+          lists it). Downloaded 09.11.2026 with the owner's approval and never run: its payload
+          is a ZIP archive inside the program's resources, read with Python's zipfile (python -I),
+          Milkdrop3/textures/. The installer was deleted afterwards.
+Files:    7 images, 1.5 MB — the ones presets of the packs ask for that were missing:
+            Pattern_005.jpg, Pattern_007.png, Pattern_032.jpg, Pattern_047.jfif, MilkDrop3_024.jpg
+          (Pattern_047 is what "MilkDrop2077 - AVS swirling3" of BeatDrop's pack asks for), and
+          MilkDrop3_023.jpg, MilkDrop3_026.jpg, which presets name as their sprite's image
+          (SpriteName=textures\...; added 09.11.2026 from the same installer, read again).
+          The other 122 textures of the installer are already here (beatdrop/, projectm/) or
+          not named by any preset; they are not copied. The sprite images: milkdrop3-sprites/.
+Licence:  the installer's LICENSE.txt: "MilkDrop 3 is free for personal use, commercial and
+          professional usage is NOT allowed." No licence of their own is stated for the images.
+          Kept in the git-ignored vendor/ only; do not commit or redistribute.
+
+random-pool: prefixed
+  (milkdrop-textures.mjs) As BeatDrop's textures: asked for by name, and drawn by a random slot
+  only when it names their prefix.

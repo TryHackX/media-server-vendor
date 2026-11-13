@@ -1,0 +1,14 @@
+Pack: Archives-Finale
+Author / group folder in the archive: horse-fly
+Source: https://files.visbot.net/archive/horse-fly/Archives-Finale.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Archives-Finale.7z, 148274 bytes, sha256 8cb44213c0c629dad4666b277eccba4e24622d4f6214a2c5004eb3ef89f7303d
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 628 (626 different)
+Added here: 436
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 190 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

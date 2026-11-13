@@ -1,0 +1,12 @@
+Pack: yi-fullcircleremixes
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-fullcircleremixes.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-fullcircleremixes.7z, 802136 bytes, sha256 29b49efbb7021ae24d5ea505fcfb5be3badfde24231454bdc0bca626819121d4
+Retrieved: 2026-11-09
+Installer: fullcircleremixes1-0.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / solid NSIS-bzip2 (2 blocks, with the 2.0 beta randomised bit)
+Presets in the pack: 40 (40 different)
+Added here: 40
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

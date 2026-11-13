@@ -1,0 +1,12 @@
+Pack: yi-themissingsuitcase
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-themissingsuitcase.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-themissingsuitcase.7z, 30254 bytes, sha256 309a9bcf62338b9089985c366a1a5d82c217c098f6922a11b903587289322988
+Retrieved: 2026-11-09
+Installer: themissingsuitcase1-1.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / solid NSIS-bzip2 (1 block, with the 2.0 beta randomised bit)
+Presets in the pack: 13 (13 different)
+Added here: 13
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

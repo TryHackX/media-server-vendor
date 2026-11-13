@@ -1,0 +1,12 @@
+Pack: Anotherversion_Re-volution
+Author / group folder in the archive: anotherversion
+Source: https://files.visbot.net/archive/anotherversion/Anotherversion_Re-volution.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Anotherversion_Re-volution.7z, 139738 bytes, sha256 5bc3800ffdad4e70ef6ecc6d7768056fc69c1482e16bad9ddb6c9a9a3d3c6503
+Retrieved: 2026-11-09
+Installer: Anotherversion - Re-volution.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 39 (39 different)
+Added here: 39
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

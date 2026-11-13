@@ -1,0 +1,8 @@
+AVI clips that presets of this pack play with AVS's Render / AVI effect, from the pack's own
+installer in the VISBOT archive (https://visbot.net/archive), retrieved 2026-11-09, read as
+data. Decoded with this project's FFmpeg (runtime/) into WebP frame atlases: <name>.json
+maps each frame of the stream's index (AVIStreamGetFrame) to a tile. The clips belong to
+their authors; no licence allows redistribution, so this folder stays out of git.
+
+dance6.avi: from danjoe/Mx (sha256 2f898a2527d7e7b2625562148ffbb3f09b9e4b99663c1115db0d59311a8dbf7f), indeo5 64x64, 32 frames (30 distinct), 1 WebP page (quality 92)
+Fireworks.avi: from danjoe/Mx, danjoe/O N E (sha256 8daa681aa3b7636ca24fa3f9911d807462ab9be09a617b23d150465fc7a43535), indeo5 160x108, 135 frames (135 distinct), 1 WebP page (quality 92)

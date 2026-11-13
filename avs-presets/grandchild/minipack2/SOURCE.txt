@@ -1,0 +1,12 @@
+Pack: minipack2
+Author / group folder in the archive: grandchild
+Source: https://files.visbot.net/archive/grandchild/minipack2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: minipack2.7z, 243603 bytes, sha256 c96326eb864b88c599aa47696e8a89fd36d480e5fac69fef6de677ffd7185878
+Retrieved: 2026-11-09
+Installer: MP02___Cambodia_.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 7 (7 different)
+Added here: 7
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

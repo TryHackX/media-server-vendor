@@ -1,0 +1,12 @@
+Pack: pishiru2
+Author / group folder in the archive: pishiru
+Source: https://files.visbot.net/archive/pishiru/pishiru2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: pishiru2.7z, 23208 bytes, sha256 323fe2556d115f83bbb3a5ee762269d662ae6561475cd6e531ed23312888f72b
+Retrieved: 2026-11-09
+Installer: Pishiru_AVS_2.exe: PiMP (install_folder )
+Presets in the pack: 26 (26 different)
+Added here: 26
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

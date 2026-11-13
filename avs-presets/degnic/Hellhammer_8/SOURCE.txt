@@ -1,0 +1,12 @@
+Pack: Hellhammer_8
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Hellhammer_8.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hellhammer_8.7z, 185123 bytes, sha256 a1688d97c9537fc4dec2fcb0b279bda2c28db675b3f1ae7ab746aa7a6c68829f
+Retrieved: 2026-11-09
+Installer: Hellhammer_8.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 30 (30 different)
+Added here: 30
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

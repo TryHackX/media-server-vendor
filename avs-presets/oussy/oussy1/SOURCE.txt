@@ -1,0 +1,12 @@
+Pack: oussy1
+Author / group folder in the archive: oussy
+Source: https://files.visbot.net/archive/oussy/oussy1.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: oussy1.7z, 467050 bytes, sha256 bba50226c59f0eb5d4ac0816dda2e1e2a864b6a866cfe36d8aaa027603ac4644
+Retrieved: 2026-11-09
+Installer: OussyVol.1.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib (1 damaged block left out: block 19815 (424547 bytes): Error -3 while decompressing data: invalid stored block lengths)
+Presets in the pack: 36 (18 different)
+Added here: 18
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

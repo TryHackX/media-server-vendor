@@ -1,0 +1,12 @@
+Pack: extreme_dammage_avs_pak
+Author / group folder in the archive: dAsn00b
+Source: https://files.visbot.net/archive/dAsn00b/extreme_dammage_avs_pak.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: extreme_dammage_avs_pak.7z, 5494 bytes, sha256 f7f8af8adb8e5629a4db84bfb5bea475dede3d400f4751a8bcab6be406bb9be6
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 5 (5 different)
+Added here: 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

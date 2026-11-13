@@ -1,0 +1,13 @@
+Pack: PAK-9_AVS_3
+Author / group folder in the archive: pak-9
+Source: https://files.visbot.net/archive/pak-9/PAK-9_AVS_3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: PAK-9_AVS_3.7z, 263482 bytes, sha256 e586d8061bc8aef88c7bd71dc62c1647d8e5990aeea62f39380d08889783071d
+Retrieved: 2026-11-09
+Installer: P9_AVS_3.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib
+Presets in the pack: 52 (26 different)
+Added here: 26
+Images kept (named by a preset): 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

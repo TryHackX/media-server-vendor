@@ -1,0 +1,12 @@
+Pack: zen-x3
+Author / group folder in the archive: zen-x
+Source: https://files.visbot.net/archive/zen-x/zen-x3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: zen-x3.7z, 37368 bytes, sha256 1cb4821e9ca66b113f7e142cd03792af4188d9e14d87d2c1cc27880caae28b69
+Retrieved: 2026-11-09
+Installer: Zen-X_Volume_III.exe: NSIS 1.1x (entry_size 24, extract_opcode 2, setoutpath (0, 1))
+Presets in the pack: 35 (35 different)
+Added here: 35
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

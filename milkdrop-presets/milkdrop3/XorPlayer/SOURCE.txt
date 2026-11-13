@@ -1,0 +1,11 @@
+XorPlayer's presets: XorDev's shaders ported to the audio-reactive .milk format by MilkDrop2077.
+
+Source:   https://github.com/milkdrop2077/XorPlayer — "XorPlayer Source/vis_milk2/Release/XorFiles/
+          presets/" (branch main, tree 266b4d4b72da), fetched 09.11.2026 from
+          raw.githubusercontent.com; sizes checked against the tree. XorPlayer is MilkDrop 3.0's
+          code (README), so these play in this pack.
+Files:    2 .milk — "XorDev - MilkDrop2077 - Black hole" and "XorDev - MilkDrop2077 - SAMPLE";
+          the third, "XorDev - MilkDrop2077 - Grok2", is already in BeatDrop's pack (same content).
+Licence:  the repository is BSD-3-Clause (Copyright (c) 2025, milkdrop2077); the shaders are
+          XorDev's, under XorDev's own terms, which the repository does not state. Kept in the
+          git-ignored vendor/ only; do not commit or redistribute.

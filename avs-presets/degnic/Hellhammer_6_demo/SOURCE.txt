@@ -1,0 +1,12 @@
+Pack: Hellhammer_6_demo
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Hellhammer_6_demo.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hellhammer_6_demo.7z, 17899 bytes, sha256 e077c8a85d72e3eb92f8784c03f3cbb378d5decc1d2f5b4632efb9eb61af3050
+Retrieved: 2026-11-09
+Installer: Hell_hammer_6_demo.exe: PiMP (install_folder )
+Presets in the pack: 21 (21 different)
+Added here: 21
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

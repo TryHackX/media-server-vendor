@@ -1,0 +1,12 @@
+Pack: S_KuPeRS-EP5-Dream
+Author / group folder in the archive: skupers
+Source: https://files.visbot.net/archive/skupers/S_KuPeRS-EP5-Dream.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: S_KuPeRS-EP5-Dream.7z, 68347 bytes, sha256 83367e23c77279d1725b93eb344fbcf95fc3342a8740c7f2c845f4efebb66fc3
+Retrieved: 2026-11-09
+Installer: EP5-Dream1-0.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 6 (6 different)
+Added here: 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

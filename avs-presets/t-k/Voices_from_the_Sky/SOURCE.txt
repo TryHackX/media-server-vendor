@@ -1,0 +1,12 @@
+Pack: Voices_from_the_Sky
+Author / group folder in the archive: t-k
+Source: https://files.visbot.net/archive/t-k/Voices_from_the_Sky.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Voices_from_the_Sky.7z, 22243 bytes, sha256 c2a7b35ac801f51a03820a57b78f8f581847d159e1a355d94c85e47b858c64ab
+Retrieved: 2026-11-09
+Installer: Voices_from_the_Sky.exe: PiMP (install_folder )
+Presets in the pack: 22 (22 different)
+Added here: 22
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

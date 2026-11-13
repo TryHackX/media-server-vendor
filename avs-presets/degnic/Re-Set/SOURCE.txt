@@ -1,0 +1,13 @@
+Pack: Re-Set
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Re-Set.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Re-Set.7z, 58585 bytes, sha256 62eeb55f1736a6e7f4e20490601d99e47cb5f0a7ef375408ecb66e8795d7f40a
+Retrieved: 2026-11-09
+Installer: Re-set.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 14 (14 different)
+Added here: 14
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

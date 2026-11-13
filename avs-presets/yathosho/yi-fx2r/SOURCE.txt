@@ -1,0 +1,12 @@
+Pack: yi-fx2r
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-fx2r.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-fx2r.7z, 85616 bytes, sha256 ed7158239ce83cafad3ff95931b6581f71db4212bce1faee4d567c166a4e7d3f
+Retrieved: 2026-11-09
+Installer: fx2r1-0.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / solid NSIS-bzip2 (1 block, with the 2.0 beta randomised bit)
+Presets in the pack: 3 (3 different)
+Added here: 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

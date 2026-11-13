@@ -1,0 +1,13 @@
+Pack: yi-sincethen2
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-sincethen2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-sincethen2.7z, 23455 bytes, sha256 364f626b1abd184b81ebeb73d63260099d07e12cfe43ff56bd6351470660075b
+Retrieved: 2026-11-09
+Installer: sincethen21-0.exe: NSIS 1.2-1.4 (entry_size 28, extract_opcode 3, setoutpath (1, 1))
+Presets in the pack: 11 (11 different)
+Added here: 10
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

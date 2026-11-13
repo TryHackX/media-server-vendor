@@ -1,0 +1,13 @@
+Pack: undefined2
+Author / group folder in the archive: undefined
+Source: https://files.visbot.net/archive/undefined/undefined2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: undefined2.7z, 108480 bytes, sha256 e6bf2aecdd657edc23977ea63d1a716d631b49d0119cbd4fba01df1c0564342f
+Retrieved: 2026-11-09
+Installer: uNDefineD_2_-_Advantage.exe: PiMP (install_folder )
+Presets in the pack: 31 (31 different)
+Added here: 31
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

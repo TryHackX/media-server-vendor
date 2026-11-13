@@ -1,0 +1,12 @@
+Pack: MarcoAVS
+Author / group folder in the archive: catminddo
+Source: https://files.visbot.net/archive/catminddo/MarcoAVS-UNOFFICIAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: MarcoAVS-UNOFFICIAL.7z, 8401 bytes, sha256 acef0b9c899e57c429fca73c0b0610b6684786eb3ccd60b0b70d220a74191db8
+Retrieved: 2026-11-09
+Installer: none (a plain archive, marked UNOFFICIAL in the archive: the original installer is lost)
+Presets in the pack: 60 (60 different)
+Added here: 60
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

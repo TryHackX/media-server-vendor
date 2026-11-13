@@ -1,0 +1,10 @@
+Pack: VB037
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB037.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB037.exe.zip, 126854 bytes, sha256 0d9c09d6f150299c044a0f5b14f922e702405ed6d7f21b1c0277a9543068f495
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB037.exe: NSIS 2.x / solid NSIS-bzip2 (1 block)
+Presets in the pack: 6; kept here: 2; byte-identical to a preset already in vendor/avs-presets (left out): 4
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

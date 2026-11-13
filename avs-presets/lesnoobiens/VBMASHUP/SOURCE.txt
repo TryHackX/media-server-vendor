@@ -1,0 +1,12 @@
+Pack: VBMASHUP
+Author / group folder in the archive: lesnoobiens
+Source: https://files.visbot.net/archive/lesnoobiens/VBMASHUP.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: VBMASHUP.zip, 4082 bytes, sha256 cb0a184a664da1854e13ac299213c1fd90d2335391d1269ac3da086a65525a18
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 2 (2 different)
+Added here: 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

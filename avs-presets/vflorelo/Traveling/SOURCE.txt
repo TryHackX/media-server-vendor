@@ -1,0 +1,12 @@
+Pack: Traveling
+Author / group folder in the archive: vflorelo
+Source: https://files.visbot.net/archive/vflorelo/Traveling.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Traveling.7z, 83658 bytes, sha256 21fb24d94d74c14c6b646dedb9be2dbea5ccc074ae0dce007863966b54a1c440
+Retrieved: 2026-11-09
+Installer: Traveling.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 16 (16 different)
+Added here: 16
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

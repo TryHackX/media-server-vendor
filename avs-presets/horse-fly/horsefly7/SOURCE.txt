@@ -1,0 +1,13 @@
+Pack: horsefly7
+Author / group folder in the archive: horse-fly
+Source: https://files.visbot.net/archive/horse-fly/horsefly7.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: horsefly7.7z, 161571 bytes, sha256 8d82f3d0f4702f1db69f756ae25b75f945aaa6f93ffc1cc507392873ef64f271
+Retrieved: 2026-11-09
+Installer: HF_-_VII_-_Weekend_Bliss.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 25 (25 different)
+Added here: 23
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,10 @@
+Pack: VB125
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB125.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB125.exe.zip, 169913 bytes, sha256 8ae06c951e32c88378cd523258a86da28a58fe9b68764fbe2f9673fde65ba546
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB125.exe: NSIS 2.x / solid NSIS-bzip2 (1 block)
+Presets in the pack: 18; kept here: 5; byte-identical to a preset already in vendor/avs-presets (left out): 13
+Images kept (named by a preset of this pack): 2
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

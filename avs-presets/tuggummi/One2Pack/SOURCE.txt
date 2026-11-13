@@ -1,0 +1,12 @@
+Pack: One2Pack
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/One2Pack.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: One2Pack.7z, 41105 bytes, sha256 81fffb7f9ff6cf02429d76f85f2c8ead7469f5c7fa8e149a04f4f725c755c058
+Retrieved: 2026-11-09
+Installer: Tuggummi_-_One_2_Pack.exe: NSIS 1.2-1.4 (entry_size 28, extract_opcode 3, setoutpath (1, 1))
+Presets in the pack: 37 (37 different)
+Added here: 37
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

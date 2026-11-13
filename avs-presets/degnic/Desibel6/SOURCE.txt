@@ -1,0 +1,14 @@
+Pack: Desibel6
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Desibel6.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Desibel6.7z, 214360 bytes, sha256 abddac7388da3c06eeb0147405e10ac5f44b05bbc580c66fb75c240eeed4dbec
+Retrieved: 2026-11-09
+Installer: Desibel_v6.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 102 (102 different)
+Added here: 101
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

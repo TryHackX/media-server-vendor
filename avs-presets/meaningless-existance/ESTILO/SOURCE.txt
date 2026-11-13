@@ -1,0 +1,12 @@
+Pack: ESTILO
+Author / group folder in the archive: meaningless-existance
+Source: https://files.visbot.net/archive/meaningless-existance/ESTILO.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: ESTILO.7z, 128582 bytes, sha256 2ebf3dc14d4dc704c0b6b82d8899bb9e03512280bc464c924c2ba047a93f2093
+Retrieved: 2026-11-09
+Installer: ESTILO.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 29 (29 different)
+Added here: 29
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

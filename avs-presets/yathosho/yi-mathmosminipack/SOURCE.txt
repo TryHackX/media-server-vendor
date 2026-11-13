@@ -1,0 +1,12 @@
+Pack: yi-mathmosminipack
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-mathmosminipack.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-mathmosminipack.7z, 20108 bytes, sha256 07f1431784265360187fdc1dec13505d6edf2cb15493ffe7536e48de078f8c26
+Retrieved: 2026-11-09
+Installer: mathmosminipack1-0.exe: NSIS 1.2-1.4 (entry_size 28, extract_opcode 3, setoutpath (1, 1))
+Presets in the pack: 6 (6 different)
+Added here: 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

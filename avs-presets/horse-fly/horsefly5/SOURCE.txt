@@ -1,0 +1,13 @@
+Pack: horsefly5
+Author / group folder in the archive: horse-fly
+Source: https://files.visbot.net/archive/horse-fly/horsefly5.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: horsefly5.7z, 43468 bytes, sha256 5ad27412b62fa1fcdf66f544958c8afc497edfe9f04e4dec8cdec5e7e6496e2b
+Retrieved: 2026-11-09
+Installer: HF_Compilation_4th_Dimension.exe: PiMP (install_folder ); HF_Compilation_5_Alarm_Fire.exe: PiMP (install_folder )
+Presets in the pack: 50 (50 different)
+Added here: 25
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 25 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: S_KuPeRS-Remixes_Release_2
+Author / group folder in the archive: skupers
+Source: https://files.visbot.net/archive/skupers/S_KuPeRS-Remixes_Release_2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: S_KuPeRS-Remixes_Release_2.7z, 35555 bytes, sha256 7de68d149ef467c62c71cef694bd191f78e58f410c277f3c7710915b5f689c5c
+Retrieved: 2026-11-09
+Installer: Remixes_-_Release_2.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 19 (19 different)
+Added here: 17
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

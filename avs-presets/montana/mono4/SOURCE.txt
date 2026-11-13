@@ -1,0 +1,12 @@
+Pack: mono4
+Author / group folder in the archive: montana
+Source: https://files.visbot.net/archive/montana/mono4.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mono4.7z, 29947 bytes, sha256 db0ee1ca153c4c7163b096341e0a0f02c199eea30e3dc43793ef6953729fdabe
+Retrieved: 2026-11-09
+Installer: mono4.exe: PiMP (install_folder )
+Presets in the pack: 18 (18 different)
+Added here: 18
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

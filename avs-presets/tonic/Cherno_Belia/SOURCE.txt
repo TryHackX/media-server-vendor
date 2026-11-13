@@ -1,0 +1,12 @@
+Pack: Cherno_Belia
+Author / group folder in the archive: tonic
+Source: https://files.visbot.net/archive/tonic/Cherno_Belia.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Cherno_Belia.7z, 276101 bytes, sha256 9fec0cc25afa0dbf0aed3d58f9b42f91970ca0369a076b5b927ad4783a8e1acd
+Retrieved: 2026-11-09
+Installer: Cherno_Belia_Album.exe: NSIS 1.9x (entry_size 24, extract_opcode 5, setoutpath (3, 1)); Cherno_Belia_Album.exe -> AVSociety/Tonic AVS Albums/v.03 - Cherno i Bialo (Black & White).exe: NSIS 1.9x (entry_size 24, extract_opcode 5, setoutpath (3, 1))
+Presets in the pack: 74 (38 different)
+Added here: 38
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

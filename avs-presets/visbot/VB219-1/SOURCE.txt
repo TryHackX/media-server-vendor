@@ -1,0 +1,10 @@
+Pack: VB219-1
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB219-1.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB219-1.exe.zip, 244118 bytes, sha256 37f26bc3e2318c8c0491e2120210d93c0db2876a0a6675b68f92a0a6efff015a
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB219-1.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 6; kept here: 6; byte-identical to a preset already in vendor/avs-presets (left out): 0
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

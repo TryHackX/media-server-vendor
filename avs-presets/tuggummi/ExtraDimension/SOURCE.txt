@@ -1,0 +1,14 @@
+Pack: ExtraDimension
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/ExtraDimension.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: ExtraDimension.7z, 548526 bytes, sha256 b2fa52ba93a151faa0722c29c044f4f877f054e313e94872b0faf1b4637ccbbf
+Retrieved: 2026-11-09
+Installer: Tuggummi_-_Extra_Dimension.exe: NSIS 2.0b4 / non-solid zlib
+Presets in the pack: 91 (91 different)
+Added here: 90
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 34
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

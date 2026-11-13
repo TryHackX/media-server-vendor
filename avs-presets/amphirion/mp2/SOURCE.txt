@@ -1,0 +1,12 @@
+Pack: mp2
+Author / group folder in the archive: amphirion
+Source: https://files.visbot.net/archive/amphirion/mp2.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mp2.zip, 37503 bytes, sha256 6c39d908f05dc0cda73c81be4f24da057778cbd1b1decc3f43ea41f7da16b42d
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 4 (4 different)
+Added here: 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

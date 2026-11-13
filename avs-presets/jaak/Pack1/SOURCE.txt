@@ -1,0 +1,13 @@
+Pack: Pack1
+Author / group folder in the archive: jaak
+Source: https://files.visbot.net/archive/jaak/Pack1.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Pack1.7z, 197865 bytes, sha256 a4a4161b3bfca08feb5d7d1478dd2a6ad79e79ad2460eaf54c56451fc9e11412
+Retrieved: 2026-11-09
+Installer: Jaak_-_Pack_1.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib
+Presets in the pack: 24 (24 different)
+Added here: 24
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

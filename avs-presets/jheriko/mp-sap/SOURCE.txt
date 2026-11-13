@@ -1,0 +1,12 @@
+Pack: mp-sap
+Author / group folder in the archive: jheriko
+Source: https://files.visbot.net/archive/jheriko/mp-sap.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mp-sap.7z, 38643 bytes, sha256 aadbfc358f532eb0f40987cef0c93dab1883d182f46c0f2586e0081c7d76d29c
+Retrieved: 2026-11-09
+Installer: Jheriko - SAP.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib
+Presets in the pack: 2 (2 different)
+Added here: 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

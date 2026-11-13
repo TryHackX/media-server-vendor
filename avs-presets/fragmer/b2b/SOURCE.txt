@@ -1,0 +1,13 @@
+Pack: b2b
+Author / group folder in the archive: fragmer
+Source: https://files.visbot.net/archive/fragmer/b2b.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: b2b.7z, 6474 bytes, sha256 df0b920e9ad36b0dc1c4c86fccfac09eeabda186c1bc6d14f430cbcca416eca2
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 12 (12 different)
+Added here: 12
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,12 @@
+Pack: Stripes
+Author / group folder in the archive: micro-d
+Source: https://files.visbot.net/archive/micro-d/Stripes.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Stripes.7z, 32533 bytes, sha256 cc1712e86eee0c2ce250f6185e5f7c77dd901a800d4d5d79a836c3839982e061
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 5 (5 different)
+Added here: 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

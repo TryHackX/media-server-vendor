@@ -1,0 +1,12 @@
+Pack: Platinum
+Author / group folder in the archive: avs-ike
+Source: https://files.visbot.net/archive/avs-ike/Platinum-UNOFFICIAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Platinum-UNOFFICIAL.7z, 3486 bytes, sha256 5e6f6f5f8d25dbede8da9b49a3a01e0e6c15e98b26f3458e899336b258ca16f8
+Retrieved: 2026-11-09
+Installer: none (a plain archive, marked UNOFFICIAL in the archive: the original installer is lost)
+Presets in the pack: 13 (13 different)
+Added here: 13
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

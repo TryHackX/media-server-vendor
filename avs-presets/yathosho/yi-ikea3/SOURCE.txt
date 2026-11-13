@@ -1,0 +1,12 @@
+Pack: yi-ikea3
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-ikea3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-ikea3.7z, 81301 bytes, sha256 135b4fcd5fac7252f14eeae429ff414d15aa4a47fe0e595346b85882523a4475
+Retrieved: 2026-11-09
+Installer: IKEA31-0.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 8 (8 different)
+Added here: 8
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: sk-inversions_ep
+Author / group folder in the archive: skupers
+Source: https://files.visbot.net/archive/skupers/sk-inversions_ep.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: sk-inversions_ep.zip, 6663 bytes, sha256 968a73ed611e3c66b5807b630475ac8cf2aa29764e0fa5b485bd658581d0df48
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 6 (6 different)
+Added here: 6
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

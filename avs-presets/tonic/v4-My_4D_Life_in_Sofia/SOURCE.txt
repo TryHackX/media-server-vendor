@@ -1,0 +1,12 @@
+Pack: v4-My_4D_Life_in_Sofia
+Author / group folder in the archive: tonic
+Source: https://files.visbot.net/archive/tonic/v4-My_4D_Life_in_Sofia.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: v4-My_4D_Life_in_Sofia.7z, 536234 bytes, sha256 d5c93a1d00ca11f0f78f551529df91df6682ed6e384f7b0742ee6d9cc73c93f6
+Retrieved: 2026-11-09
+Installer: Tonic_v4_-_My_4D_Life_in_Sofia.exe: NSIS 1.9x (entry_size 24, extract_opcode 5, setoutpath (3, 1)); Tonic_v4_-_My_4D_Life_in_Sofia.exe -> AVSociety/Tonic AVS Albums/v.04 - My 4D Life in Sofia.exe: NSIS 1.9x (entry_size 24, extract_opcode 5, setoutpath (3, 1))
+Presets in the pack: 44 (22 different)
+Added here: 22
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

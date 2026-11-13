@@ -1,0 +1,16 @@
+AVI clips that presets of this pack play with AVS's Render / AVI effect, from the pack's own
+installer in the VISBOT archive (https://visbot.net/archive), retrieved 2026-11-09, read as
+data. Decoded with this project's FFmpeg (runtime/) into WebP frame atlases: <name>.json
+maps each frame of the stream's index (AVIStreamGetFrame) to a tile. The clips belong to
+their authors; no licence allows redistribution, so this folder stays out of git.
+
+Sloxplode.avi: from danjoe/O N E (sha256 683ccfcbc17f2835df455348aaba6f687667a59090f3429faef27a93e6c8c91c), indeo5 160x108, 75 frames (75 distinct), 1 WebP page (quality 92)
+Bubble.avi: from danjoe/O N E (sha256 7681ed19c0f2c2d947e317365be76ed094c39bbc6b23f2c6e3682a723a151b3b), indeo5 160x88, 144 frames (143 distinct), 1 WebP page (quality 92)
+Nova.avi: from danjoe/O N E (sha256 7ca69b1e28a081e318c80df57991286a881ad36d107c2923420d901afd8820ab), indeo5 160x108, 55 frames (55 distinct), 1 WebP page (quality 92)
+Skeleton.avi: from danjoe/O N E, el-vis/EL-VIS_X_Cyberpunx (sha256 865b43bcfdbbf03303ad8a8f34adb7d65bb79965cf3055165fc6501adb1c413a), indeo5 148x180, 25 frames (24 distinct), 1 WebP page (quality 92)
+Explode.avi: from danjoe/O N E (sha256 8b9a5fb919ba15ac9e5ee0fa977f782d4a55af8ccab47edb4b6a02bd19251e5f), indeo5 160x108, 90 frames (90 distinct), 1 WebP page (quality 92)
+Fireworks.avi: from danjoe/Mx, danjoe/O N E (sha256 8daa681aa3b7636ca24fa3f9911d807462ab9be09a617b23d150465fc7a43535), indeo5 160x108, 135 frames (135 distinct), 1 WebP page (quality 92)
+elvis_germanTV.avi: from danjoe/O N E, el-vis/EL-VIS8_PLASMA (sha256 957170dd60fc2e020547be05009f9be7c9fb6bae7a607a22c8fbe5cfcb80623d), indeo5 160x108, 54 frames (54 distinct), 1 WebP page (quality 92)
+Comet.avi: from danjoe/O N E (sha256 a962b1961665296dfdda7c616999a643760e2cdb7532b1b285ddd3a034a9c3df), indeo5 160x108, 45 frames (45 distinct), 1 WebP page (quality 92)
+Countdown.avi: from danjoe/O N E (sha256 b42a8811d4214495d6a68b89d0eebf6a487573e650a223d83f673c1cc71e9705), indeo5 160x108, 134 frames (103 distinct), 1 WebP page (quality 92)
+Firebottom.avi: from danjoe/O N E (sha256 e836e1561ebf984de49c40c8a4152a2d24081aa3246982b46e3313976d80fbfe), indeo5 160x108, 56 frames (56 distinct), 1 WebP page (quality 92)

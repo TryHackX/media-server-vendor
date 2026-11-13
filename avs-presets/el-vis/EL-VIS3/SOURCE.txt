@@ -1,0 +1,12 @@
+Pack: EL-VIS3
+Author / group folder in the archive: el-vis
+Source: https://files.visbot.net/archive/el-vis/EL-VIS3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: EL-VIS3.7z, 14847 bytes, sha256 345332b04ccc909227f24465d09abf4a15e95fbf51c08bb6738fd3ed4158ba33
+Retrieved: 2026-11-09
+Installer: EL-VIS3.exe: PiMP (install_folder )
+Presets in the pack: 9 (9 different)
+Added here: 9
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

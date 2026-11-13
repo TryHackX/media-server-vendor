@@ -1,0 +1,10 @@
+Pack: VB183
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB183.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB183.exe.zip, 166367 bytes, sha256 c9f2e96e9aa1912967111d468a3fea7ef681272ef7060262c9ad839026d4061b
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB183.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 21; kept here: 21; byte-identical to a preset already in vendor/avs-presets (left out): 0
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

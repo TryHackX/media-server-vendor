@@ -1,0 +1,12 @@
+Pack: The_Tributes
+Author / group folder in the archive: avs-king
+Source: https://files.visbot.net/archive/avs-king/The_Tributes.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: The_Tributes.7z, 4870 bytes, sha256 4a60541f394d80bd1b7f116daf2018f5ca2297168212b80e999e4e731e77607d
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 15 (15 different)
+Added here: 15
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

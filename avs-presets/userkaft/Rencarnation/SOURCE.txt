@@ -1,0 +1,12 @@
+Pack: Rencarnation
+Author / group folder in the archive: userkaft
+Source: https://files.visbot.net/archive/userkaft/Rencarnation.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Rencarnation.7z, 566019 bytes, sha256 59046c30d8d455ecf0f4a01973e00aeb02c4d649e06f679233d619418e203ee8
+Retrieved: 2026-11-09
+Installer: Rencarnation.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 27 (27 different)
+Added here: 27
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

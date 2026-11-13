@@ -1,0 +1,12 @@
+Pack: yi-versus-05
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-versus-05.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-versus-05.zip, 1967 bytes, sha256 51473141945f5247c646447522086aca76897b164666a49aef0f2b72a6f0434c
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 3 (3 different)
+Added here: 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

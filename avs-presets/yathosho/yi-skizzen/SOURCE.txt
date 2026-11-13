@@ -1,0 +1,12 @@
+Pack: yi-skizzen
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-skizzen.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-skizzen.zip, 77398 bytes, sha256 a77c48db860ee8305feca413ef4038890568963d95410fbddff988a38a17e2d3
+Retrieved: 2026-11-09
+Installer: yi-skizzen.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 4 (4 different)
+Added here: 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

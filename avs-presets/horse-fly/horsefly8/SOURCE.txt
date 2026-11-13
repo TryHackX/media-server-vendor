@@ -1,0 +1,12 @@
+Pack: horsefly8
+Author / group folder in the archive: horse-fly
+Source: https://files.visbot.net/archive/horse-fly/horsefly8.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: horsefly8.7z, 135528 bytes, sha256 a84ef78610a27ec0dd73306e6be9d197e87791f1de27fd923aba2ae4003cc95f
+Retrieved: 2026-11-09
+Installer: HF_-_VIII_-_Democratic_Evolution.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / solid NSIS-bzip2 (1 block, with the 2.0 beta randomised bit)
+Presets in the pack: 25 (25 different)
+Added here: 25
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

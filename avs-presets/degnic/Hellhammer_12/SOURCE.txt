@@ -1,0 +1,12 @@
+Pack: Hellhammer_12
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Hellhammer_12.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hellhammer_12.7z, 27131 bytes, sha256 4cdc2d4a5bc625d8d65a1a120c3143c5e5532ded67cfea35ea578e6ed3ccb971
+Retrieved: 2026-11-09
+Installer: Hell_hammer_12.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 14 (14 different)
+Added here: 14
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

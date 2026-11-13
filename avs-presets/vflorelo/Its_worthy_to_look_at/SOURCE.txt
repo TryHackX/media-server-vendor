@@ -1,0 +1,14 @@
+Pack: Its_worthy_to_look_at
+Author / group folder in the archive: vflorelo
+Source: https://files.visbot.net/archive/vflorelo/Its_worthy_to_look_at-UNOFFICIAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Its_worthy_to_look_at-UNOFFICIAL.7z, 137977 bytes, sha256 7829b8bec75df8f5144e3522f8da6d0dd4ea132a5202b02a75522e1200f4aa09
+Retrieved: 2026-11-09
+Installer: none (a plain archive, marked UNOFFICIAL in the archive: the original installer is lost)
+Presets in the pack: 32 (32 different)
+Added here: 27
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 5 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 15
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

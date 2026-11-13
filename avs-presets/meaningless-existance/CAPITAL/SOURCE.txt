@@ -1,0 +1,13 @@
+Pack: CAPITAL
+Author / group folder in the archive: meaningless-existance
+Source: https://files.visbot.net/archive/meaningless-existance/CAPITAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: CAPITAL.7z, 61309 bytes, sha256 c56c9a6be3c46a2e6798f8bd4190e38f64e93288066b0052691b35e20135660d
+Retrieved: 2026-11-09
+Installer: M_E___CAPITAL.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 7 (7 different)
+Added here: 7
+Images kept (named by a preset): 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

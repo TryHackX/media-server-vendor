@@ -1,0 +1,12 @@
+Pack: ul_pack3
+Author / group folder in the archive: unripe-lemon
+Source: https://files.visbot.net/archive/unripe-lemon/ul_pack3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: ul_pack3.7z, 5543 bytes, sha256 21e5e5e404a3e615177609b70248cac8b15698a04ca56be4b59615abf118d8a9
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 14 (14 different)
+Added here: 14
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

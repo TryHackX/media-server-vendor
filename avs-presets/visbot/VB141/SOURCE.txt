@@ -1,0 +1,10 @@
+Pack: VB141
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB141.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB141.exe.zip, 115275 bytes, sha256 2ae5e830ce47c99f9555c14e4b140a39a61853d41bdd0ec82e53a042eddf80c9
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB141.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 16; kept here: 7; byte-identical to a preset already in vendor/avs-presets (left out): 9
+Images kept (named by a preset of this pack): 1
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: TheForwardFlow3
+Author / group folder in the archive: atero
+Source: https://files.visbot.net/archive/atero/TheForwardFlow3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: TheForwardFlow3.7z, 207387 bytes, sha256 a76f820d36c0b3946ddddbd5bc583ab89220dffc6d5bb6a5e8dc27b6aa39e0f4
+Retrieved: 2026-11-09
+Installer: Atero_TFF_3_0.exe: NSIS 2.0b0 / non-solid zlib
+Presets in the pack: 66 (33 different)
+Added here: 33
+Images kept (named by a preset): 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

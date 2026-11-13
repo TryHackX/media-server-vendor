@@ -1,0 +1,13 @@
+Pack: wfc7
+Author / group folder in the archive: wfc
+Source: https://files.visbot.net/archive/wfc/wfc7.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: wfc7.7z, 279825 bytes, sha256 64f0beebf0af5f43d284e0bcf6565237002f63c7a04b2ed71e93c11957644d52
+Retrieved: 2026-11-09
+Installer: Winamp_Forums_Compilation_7_by_Winamp_Forums.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 18 (18 different)
+Added here: 18
+Images kept (named by a preset): 8
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

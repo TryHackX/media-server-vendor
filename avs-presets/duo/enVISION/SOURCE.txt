@@ -1,0 +1,12 @@
+Pack: enVISION
+Author / group folder in the archive: duo
+Source: https://files.visbot.net/archive/duo/enVISION.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: enVISION.7z, 26484 bytes, sha256 b444d3c18fc70b72b76d00f85296d3c52570c8ff5206e515005d1bf8f9e05b4e
+Retrieved: 2026-11-09
+Installer: envision_by_duo.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / solid NSIS-bzip2 (1 block, with the 2.0 beta randomised bit)
+Presets in the pack: 32 (32 different)
+Added here: 32
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

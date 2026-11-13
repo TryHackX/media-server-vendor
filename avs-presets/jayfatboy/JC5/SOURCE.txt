@@ -1,0 +1,12 @@
+Pack: JC5
+Author / group folder in the archive: jayfatboy
+Source: https://files.visbot.net/archive/jayfatboy/JC5.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: JC5.7z, 71755 bytes, sha256 cb21b69e467c2a7950ffc71b01f459a011cfca1410f471034704ae335a8b1951
+Retrieved: 2026-11-09
+Installer: JC5_BustasFeudalDoggyTreats_ReP.exe: self-extracting zip
+Presets in the pack: 100 (99 different)
+Added here: 99
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

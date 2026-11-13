@@ -1,0 +1,13 @@
+Pack: Focus4
+Author / group folder in the archive: avs-king
+Source: https://files.visbot.net/archive/avs-king/Focus4.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Focus4.7z, 40519 bytes, sha256 50f15578bed483505e30b0215576f89494ab100de4d843b98b14a15d500d9511
+Retrieved: 2026-11-09
+Installer: Focus_IV.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 28 (27 different)
+Added here: 26
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

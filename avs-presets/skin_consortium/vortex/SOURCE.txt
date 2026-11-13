@@ -1,0 +1,13 @@
+Pack: vortex
+Author / group folder in the archive: skin_consortium
+Source: https://files.visbot.net/archive/skin_consortium/vortex.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: vortex.7z, 252085 bytes, sha256 e880985bc9ac52db3b109613426c56e76d09eec5b30ccd6df29e7cea9c5d500d
+Retrieved: 2026-11-09
+Installer: Vortex-AVS.exe: NSIS 2.x / non-solid LZMA
+Presets in the pack: 1 (1 different)
+Added here: 1
+Images kept (named by a preset): 1
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

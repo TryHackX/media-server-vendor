@@ -1,0 +1,13 @@
+Pack: Whacko_Revisited
+Author / group folder in the archive: unconed
+Source: https://files.visbot.net/archive/unconed/Whacko_Revisited.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Whacko_Revisited.7z, 230521 bytes, sha256 5d25c4a1950f109df2ef59824ec2cde9e1c0879b2a47aa388d4d108325024778
+Retrieved: 2026-11-09
+Installer: Whacko_Revisited.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 32 (32 different)
+Added here: 32
+Images kept (named by a preset): 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

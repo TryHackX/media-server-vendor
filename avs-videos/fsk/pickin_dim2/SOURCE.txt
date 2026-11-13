@@ -1,0 +1,7 @@
+AVI clips that presets of this pack play with AVS's Render / AVI effect, from the pack's own
+installer in the VISBOT archive (https://visbot.net/archive), retrieved 2026-11-09, read as
+data. Decoded with this project's FFmpeg (runtime/) into WebP frame atlases: <name>.json
+maps each frame of the stream's index (AVIStreamGetFrame) to a tile. The clips belong to
+their authors; no licence allows redistribution, so this folder stays out of git.
+
+elvis_germanTV.avi: from fsk/pickin_dim2 (sha256 695a0db44fe9ab3174a147c0d68f8f1247b4d083aff56f9885054251f282c46a), indeo3 200x148, 68 frames (68 distinct), 1 WebP page (quality 92)

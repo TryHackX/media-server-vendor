@@ -1,0 +1,12 @@
+Pack: Anotherversion_v1
+Author / group folder in the archive: anotherversion
+Source: https://files.visbot.net/archive/anotherversion/Anotherversion_v1.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Anotherversion_v1.7z, 51699 bytes, sha256 c469c97852523ba35a7071cecf59d855175141ca49f40a2dc962e0afbd4db50b
+Retrieved: 2026-11-09
+Installer: Anotherversion.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 7 (7 different)
+Added here: 7
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

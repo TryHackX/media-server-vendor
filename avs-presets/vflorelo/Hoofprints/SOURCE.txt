@@ -1,0 +1,14 @@
+Pack: Hoofprints
+Author / group folder in the archive: vflorelo
+Source: https://files.visbot.net/archive/vflorelo/Hoofprints.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hoofprints.7z, 328343 bytes, sha256 210ba4648440e23aea6f3ea724faa850ed981006cb199abd1a45c601890b8f34
+Retrieved: 2026-11-09
+Installer: Hoofprints.exe: NSIS 2.x / non-solid LZMA
+Presets in the pack: 17 (17 different)
+Added here: 15
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 8
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

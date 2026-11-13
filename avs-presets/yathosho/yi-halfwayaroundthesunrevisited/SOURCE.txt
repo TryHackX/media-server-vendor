@@ -1,0 +1,12 @@
+Pack: yi-halfwayaroundthesunrevisited
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-halfwayaroundthesunrevisited.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-halfwayaroundthesunrevisited.7z, 24502 bytes, sha256 19c1f545043baa7fa5c37d5160c016b85e4067eb99170c01839267a753b857bc
+Retrieved: 2026-11-09
+Installer: halfwayaroundthesunrevisited1-0.exe: NSIS 1.9x (entry_size 24, extract_opcode 4, setoutpath (3, 1))
+Presets in the pack: 9 (9 different)
+Added here: 9
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

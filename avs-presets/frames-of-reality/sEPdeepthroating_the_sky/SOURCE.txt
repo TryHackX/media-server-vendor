@@ -1,0 +1,12 @@
+Pack: sEPdeepthroating_the_sky
+Author / group folder in the archive: frames-of-reality
+Source: https://files.visbot.net/archive/frames-of-reality/sEPdeepthroating_the_sky.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: sEPdeepthroating_the_sky.7z, 39349 bytes, sha256 d730be4e522492988c908b9cc4d506cf7bafa2598020486ef8e617c7cd8bca0e
+Retrieved: 2026-11-09
+Installer: sEP___deepthroating_the_sky.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 6 (6 different)
+Added here: 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

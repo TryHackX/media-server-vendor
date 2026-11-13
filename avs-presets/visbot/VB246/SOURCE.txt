@@ -1,0 +1,10 @@
+Pack: VB246
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB246.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB246.exe.zip, 87389 bytes, sha256 6aa26c900302c0f87dfaab0033988f62b10db09dac93864f26a149161a97ffef
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB246.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 4; kept here: 4; byte-identical to a preset already in vendor/avs-presets (left out): 0
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

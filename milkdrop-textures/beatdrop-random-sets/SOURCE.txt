@@ -1,0 +1,24 @@
+BeatDrop's random-slot texture sets — NOT read by the build where they are now.
+
+Presets of the BeatDrop pack ask for a random texture whose name starts with a word:
+`sampler_rand00_rubygillman` draws one of the RubyGillman* images each time the preset loads,
+`rand00_chelsea` one of Chelsea1…19, and so on (19 such slots in 39 presets). Without the set
+the slot shows butterchurn's clouds2 instead of the character picture.
+
+Source:   https://github.com/OfficialIncubo/BeatDrop-Music-Visualizer
+          resources/Milkdrop2/textures/ (branch master), fetched 08.11.2026 from raw.githubusercontent.com
+Files:    404 images, 703 MB (mostly 2–9 MB PNGs; the five window_uv_5x5_*.tga were converted
+          to PNG, which the build reads and TGA it does not). Sizes checked against the
+          repository's tree, headers against their formats.
+Licence:  none stated. The sets are character art (Ruby Gillman, Agatha, Chelsea, Nerissa, Sam
+          Gillman, Uncle Brill are characters of DreamWorks' "Ruby Gillman, Teenage Kraken";
+          Octobella, Orticia, Lys, Nubs, Maari, Violetta, ColdSnap, Stu are similar fan or studio
+          art) — third-party copyright, nothing grants a right to redistribute them.
+
+To use them: move this folder to vendor/milkdrop-textures/beatdrop-random-sets/ and rebuild. The
+build then serves them (each fetched only when a preset draws it), but the build grows by about
+700 MB — public/assets/build, the Debian release, backups. Left here, the build is as it was.
+
+random-pool: prefixed
+  (milkdrop-textures.mjs, once the folder is moved under vendor/milkdrop-textures/) Drawn only by
+  a slot that names their prefix, never by a plain rand00, so classic presets are not given them.

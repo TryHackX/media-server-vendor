@@ -1,0 +1,13 @@
+Pack: TechnicallyIncorrect
+Author / group folder in the archive: tuggummi
+Source: https://files.visbot.net/archive/tuggummi/TechnicallyIncorrect.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: TechnicallyIncorrect.7z, 293665 bytes, sha256 88d5f6cb4d9de8a751e1a4577290d3d8588bc8f84b30615143982ae4f795b70f
+Retrieved: 2026-11-09
+Installer: tuggummi_technically_incorrect_final.exe: NSIS 2.0b0 / non-solid zlib
+Presets in the pack: 64 (32 different)
+Added here: 32
+Images kept (named by a preset): 9
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

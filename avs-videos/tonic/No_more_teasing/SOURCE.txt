@@ -1,0 +1,7 @@
+AVI clips that presets of this pack play with AVS's Render / AVI effect, from the pack's own
+installer in the VISBOT archive (https://visbot.net/archive), retrieved 2026-11-09, read as
+data. Decoded with this project's FFmpeg (runtime/) into WebP frame atlases: <name>.json
+maps each frame of the stream's index (AVIStreamGetFrame) to a tile. The clips belong to
+their authors; no licence allows redistribution, so this folder stays out of git.
+
+anina.AVI: from tonic/No_more_teasing (sha256 58592abaffad43cdf58f5b87aec98b22f30f02086a1cfc584ebfce920bd70827), rawvideo 140x100, 7 frames (4 distinct), 1 WebP page (quality 92)

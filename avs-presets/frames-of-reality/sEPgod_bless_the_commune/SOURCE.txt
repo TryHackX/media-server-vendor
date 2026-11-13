@@ -1,0 +1,12 @@
+Pack: sEPgod_bless_the_commune
+Author / group folder in the archive: frames-of-reality
+Source: https://files.visbot.net/archive/frames-of-reality/sEPgod_bless_the_commune.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: sEPgod_bless_the_commune.7z, 117806 bytes, sha256 772905c1fde2d452b3ccdca2bff1123f6f80024b9765a444e69f07cd0723ac6e
+Retrieved: 2026-11-09
+Installer: sEP___god_bless_the_commune.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 5 (5 different)
+Added here: 5
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

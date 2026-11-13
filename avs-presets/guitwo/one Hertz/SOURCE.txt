@@ -1,0 +1,13 @@
+Pack: one Hertz
+Author / group folder in the archive: guitwo
+Source: https://files.visbot.net/archive/guitwo/one Hertz.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: one Hertz.zip, 332674 bytes, sha256 decc3a14a51b584b206ee1d7b8588c9dfaf4c628e298f24fda27b46e466f0a8d
+Retrieved: 2026-11-09
+Installer: One Hertz.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 16 (16 different)
+Added here: 16
+Images kept (named by a preset): 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

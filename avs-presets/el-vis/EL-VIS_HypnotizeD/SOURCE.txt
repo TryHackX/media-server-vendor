@@ -1,0 +1,12 @@
+Pack: EL-VIS_HypnotizeD
+Author / group folder in the archive: el-vis
+Source: https://files.visbot.net/archive/el-vis/EL-VIS_HypnotizeD.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: EL-VIS_HypnotizeD.7z, 76606 bytes, sha256 1cd1b9bd874d2777a55bc90b904a6e054d558284fd808970f31a021d026c9389
+Retrieved: 2026-11-09
+Installer: EL-vis_HypnotizeD.exe: NSIS 2.0b4 / non-solid zlib
+Presets in the pack: 26 (26 different)
+Added here: 26
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

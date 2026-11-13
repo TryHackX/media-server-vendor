@@ -1,0 +1,13 @@
+Pack: SomnerIlicidad
+Author / group folder in the archive: nemo
+Source: https://files.visbot.net/archive/nemo/SomnerIlicidad.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: SomnerIlicidad.7z, 26616 bytes, sha256 8a9c95b4c733196a231fa2f5750d68508997a62f685ffbd87b3d7714080bcc9c
+Retrieved: 2026-11-09
+Installer: Somner_Ilicidad.exe: PiMP (install_folder $$PROGRAMFILES\Winamp\)
+Presets in the pack: 19 (19 different)
+Added here: 18
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

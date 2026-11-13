@@ -1,0 +1,41 @@
+Cthugha-4-Winamp 1.50 (1998), a visualization plug-in for Winamp
+Krunoslav Pisacic, kpisacic@diana.zesoi.fer.hr, http://islands.zesoi.fer.hr/~kpisacic/cthugha
+
+Ported for "Klasyka retro" by static analysis of the owner's copy of the plug-in
+(vis_sh15.zip, SHA-256 69b9af912cf3f4abf9605fb1acfd0d2f88db184edaf28d7bb9b414f361a85afe:
+Plugins/Vis_sh.dll and its maps, objs, pics; the tab generators' sources from tabgens_src.zip),
+and of the three generators in its tabs folder that came without C source: Wintabs.exe (with
+wintabs.bas), Wintab.exe and TABMAKE.EXE (Wintabs.zip, Wintab.zip, tabmake.zip). Nothing of
+it was run; see SOURCE.md.
+
+From Plugins/vis_sh.txt, unchanged:
+
+--------------------------------------------------------------
+License:
+
+You can use this program freely for personal use. However, if 
+you use it in performances, commercially, or you just want to 
+support development of a plugin you can send $10 (or any 
+amount you feel appropriate) to:
+
+	Krunoslav Pisacic
+	Raciceva 14
+	10000 - Zagreb
+	Croatia - Europe
+
+--------------------------------------------------------------
+Credit:
+
+Based on Cthugha for DOS & Linux - you can find a real thing 
+on http://www.afn.org/~cthugha Initial DOS version made by 
+Kevin Burfitt - Zaph, and a lot of others.
+--------------------------------------------------------------
+
+Also named in vis_sh.txt: beat detection by Justin Frankel (Nullsoft); tab generators by Simon
+Werner and Kasuha. The generators name their authors on screen: Wintabs.exe "written by Tom
+Willaert", Wintab.exe "written by Simon Werner ... uses ideas from Tom Willaert", TABMAKE.EXE
+"SMOKE.TAB creator by Kasuha". They carry no
+licence of their own and came with the plug-in, so they are taken under its terms above.
+Cthugha (c) Kevin "Zaph" Burfitt, Torps Productions; Cthugha-L (c) Harald
+Deischinger (COPYING-cthugha-53.txt, COPYING-cthugha-L.txt). This port: personal,
+non-commercial use only, with credit; never part of the player's repository.

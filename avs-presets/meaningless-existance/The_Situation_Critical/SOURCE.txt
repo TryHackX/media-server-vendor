@@ -1,0 +1,12 @@
+Pack: The_Situation_Critical
+Author / group folder in the archive: meaningless-existance
+Source: https://files.visbot.net/archive/meaningless-existance/The_Situation_Critical.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: The_Situation_Critical.7z, 91231 bytes, sha256 cea54adbec4e09995415326abd5c57d239cafd1a7a2038df3600482b2d0e21fb
+Retrieved: 2026-11-09
+Installer: The Situation Critcal (remix ME).exe: NSIS 2.x / solid LZMA
+Presets in the pack: 6 (6 different)
+Added here: 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

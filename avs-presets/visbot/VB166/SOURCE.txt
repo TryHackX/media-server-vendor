@@ -1,0 +1,10 @@
+Pack: VB166
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB166.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB166.exe.zip, 104785 bytes, sha256 9e37e8cce53c2243d763b0080d361784b29827195cd414df99663d3fcc6d6dd9
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VB166.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 4; kept here: 4; byte-identical to a preset already in vendor/avs-presets (left out): 0
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

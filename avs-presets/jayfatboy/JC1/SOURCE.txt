@@ -1,0 +1,12 @@
+Pack: JC1
+Author / group folder in the archive: jayfatboy
+Source: https://files.visbot.net/archive/jayfatboy/JC1.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: JC1.7z, 20430 bytes, sha256 bac0fa5d87aa1e3570bd0fc50c834587878ee419068a81c1ce39452fcfcdbe8e
+Retrieved: 2026-11-09
+Installer: JC_AVS_collection_1.exe: self-extracting zip
+Presets in the pack: 21 (21 different)
+Added here: 21
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

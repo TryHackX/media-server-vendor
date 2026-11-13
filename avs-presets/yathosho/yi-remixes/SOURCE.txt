@@ -1,0 +1,12 @@
+Pack: yi-remixes
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-remixes.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-remixes.7z, 42245 bytes, sha256 b6c381354450359b8a3452edf44ef29f6d7f709df32e099634589cab6f488e1b
+Retrieved: 2026-11-09
+Installer: remixes1-0.exe: NSIS 2.0b0 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 12 (12 different)
+Added here: 12
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

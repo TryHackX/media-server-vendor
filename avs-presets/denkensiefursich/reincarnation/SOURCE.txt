@@ -1,0 +1,12 @@
+Pack: reincarnation
+Author / group folder in the archive: denkensiefursich
+Source: https://files.visbot.net/archive/denkensiefursich/reincarnation.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: reincarnation.7z, 100221 bytes, sha256 b7f3682e85496fea7830fade0bef34070c2c33f1d85af6800b6695d385d49676
+Retrieved: 2026-11-09
+Installer: denkensiefursich_reincarnation.exe: NSIS 2.x / non-solid LZMA
+Presets in the pack: 17 (17 different)
+Added here: 17
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

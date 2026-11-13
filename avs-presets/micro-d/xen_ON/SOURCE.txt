@@ -1,0 +1,13 @@
+Pack: xen_ON
+Author / group folder in the archive: micro-d
+Source: https://files.visbot.net/archive/micro-d/xen_ON.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: xen_ON.7z, 375575 bytes, sha256 6b70da9d5591e4c12b7996d8ddc1af0dd658e833b7e050bc9414c01c92ce595d
+Retrieved: 2026-11-09
+Installer: xen_ON.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 15 (15 different)
+Added here: 15
+Images kept (named by a preset): 10
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: digital_stereotype_experience
+Author / group folder in the archive: vanish
+Source: https://files.visbot.net/archive/vanish/digital_stereotype_experience.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: digital_stereotype_experience.7z, 215988 bytes, sha256 44eae5e57d6d3072716025b6ee91ab6b5f16f4251c920d8c22a7fe135b3f06dc
+Retrieved: 2026-11-09
+Installer: digital_stereotype_experience.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 23 (23 different)
+Added here: 23
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

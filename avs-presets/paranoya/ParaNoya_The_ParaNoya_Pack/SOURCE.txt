@@ -1,0 +1,12 @@
+Pack: ParaNoya_The_ParaNoya_Pack
+Author / group folder in the archive: paranoya
+Source: https://files.visbot.net/archive/paranoya/ParaNoya_The_ParaNoya_Pack.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: ParaNoya_The_ParaNoya_Pack.7z, 20615 bytes, sha256 ecf4f1045dfa9719ee5c776f8c7f2a03329543ad576ce3cdd6056793e72e58ba
+Retrieved: 2026-11-09
+Installer: The_ParaNoya_Pack.exe: self-extracting zip
+Presets in the pack: 7 (7 different)
+Added here: 7
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

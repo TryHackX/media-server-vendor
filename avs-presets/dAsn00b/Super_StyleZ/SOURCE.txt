@@ -1,0 +1,12 @@
+Pack: Super_StyleZ
+Author / group folder in the archive: dAsn00b
+Source: https://files.visbot.net/archive/dAsn00b/Super_StyleZ.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Super_StyleZ.7z, 3943 bytes, sha256 36f8816825c398a88b7027d03d761f3bba7f4b7b361829a28a397876f99ab8b3
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 18 (18 different)
+Added here: 18
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

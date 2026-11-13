@@ -1,0 +1,8 @@
+AVI clips that presets of this pack play with AVS's Render / AVI effect, from the pack's own
+installer in the VISBOT archive (https://visbot.net/archive), retrieved 2026-11-09, read as
+data. Decoded with this project's FFmpeg (runtime/) into WebP frame atlases: <name>.json
+maps each frame of the stream's index (AVIStreamGetFrame) to a tile. The clips belong to
+their authors; no licence allows redistribution, so this folder stays out of git.
+
+Mind Cages.avi: from fabry/FabryAVS (sha256 ac1867a4e1cba4cfc996e882ef71340240961963195b5725e377a183eca30bc4), indeo5 320x240, 200 frames (116 distinct), 1 WebP page (quality 92)
+World.avi: from fabry/FabryAVS (sha256 e4fa81c8547cb843587b8a44fd3e9c169b9a2319bc7a39f7546ccbb9f62c33b6), indeo5 320x240, 43 frames (42 distinct), 1 WebP page (quality 92)

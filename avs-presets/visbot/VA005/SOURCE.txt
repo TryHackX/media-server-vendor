@@ -1,0 +1,10 @@
+Pack: VA005
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VA005.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VA005.exe.zip, 127281 bytes, sha256 e2508f34d993ff4da88fb7483ec63b5fb6ad2b11b281fb267c6e80ff08391ac3
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: VA005.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 16; kept here: 5; byte-identical to a preset already in vendor/avs-presets (left out): 11
+Images kept (named by a preset of this pack): 4
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

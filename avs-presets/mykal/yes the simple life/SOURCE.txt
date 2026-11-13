@@ -1,0 +1,13 @@
+Pack: yes the simple life
+Author / group folder in the archive: mykal
+Source: https://files.visbot.net/archive/mykal/yes the simple life.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yes the simple life.zip, 485858 bytes, sha256 3142b6a3e60b28cc822e33b51c38f33fa8d665e0b41779076c25e45468114540
+Retrieved: 2026-11-09
+Installer: mykaL__yes_the_simple_life.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 19 (19 different)
+Added here: 19
+Images kept (named by a preset): 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

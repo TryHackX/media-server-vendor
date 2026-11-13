@@ -1,0 +1,12 @@
+Pack: dse_beta
+Author / group folder in the archive: vanish
+Source: https://files.visbot.net/archive/vanish/dse_beta-UNOFFICIAL.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: dse_beta-UNOFFICIAL.7z, 11363 bytes, sha256 ea5c3d3e5a504e0b3c3f88636d8837005e1c3baf1575039c95b82a91f9d97ba2
+Retrieved: 2026-11-09
+Installer: none (a plain archive, marked UNOFFICIAL in the archive: the original installer is lost)
+Presets in the pack: 17 (17 different)
+Added here: 17
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

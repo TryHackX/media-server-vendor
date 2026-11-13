@@ -1,0 +1,13 @@
+Pack: yi-thirteen
+Author / group folder in the archive: yathosho
+Source: https://files.visbot.net/archive/yathosho/yi-thirteen.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: yi-thirteen.7z, 44402 bytes, sha256 3ac47a997ab5610e942fd72beac7e20869fde4d2be82e26177956da3780ad800
+Retrieved: 2026-11-09
+Installer: thirteen1-0.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / solid NSIS-bzip2 (1 block, with the 2.0 beta randomised bit)
+Presets in the pack: 13 (13 different)
+Added here: 11
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 2 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

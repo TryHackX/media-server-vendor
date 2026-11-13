@@ -1,0 +1,12 @@
+Pack: Hellhammer_3
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Hellhammer_3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hellhammer_3.7z, 21797 bytes, sha256 2794253530904b266fac316a9be51349d35e013a7ec5aece6043e55a1e8b31da
+Retrieved: 2026-11-09
+Installer: Hell_hammer_3.exe: PiMP (install_folder )
+Presets in the pack: 33 (33 different)
+Added here: 33
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: After_Future
+Author / group folder in the archive: troubleshooter
+Source: https://files.visbot.net/archive/troubleshooter/After_Future.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: After_Future.7z, 37973 bytes, sha256 2fa70bac2a34be3872ec199c8e023e2e647342947c79d64f84a75268f89dd862
+Retrieved: 2026-11-09
+Installer: After_Future.exe: NSIS 1.0x (entry_size 24, extract_opcode 1, setoutpath (0, 1))
+Presets in the pack: 55 (55 different)
+Added here: 46
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 9 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

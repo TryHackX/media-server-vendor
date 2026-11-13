@@ -1,0 +1,12 @@
+Pack: RXexegesis
+Author / group folder in the archive: frames-of-reality
+Source: https://files.visbot.net/archive/frames-of-reality/RXexegesis.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: RXexegesis.7z, 183542 bytes, sha256 6f5f4f91e6b0323f2162cb21f533573c7add4fa18fb704ca0389cd062a0adc6e
+Retrieved: 2026-11-09
+Installer: RX___exegesis.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 40 (40 different)
+Added here: 40
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

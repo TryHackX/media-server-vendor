@@ -1,0 +1,12 @@
+Pack: 8_ronin (AVSociety)
+Author / group folder in the archive: avsociety
+Source: https://files.visbot.net/archive/avsociety/8_ronin.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: 8_ronin.7z, 210096 bytes, sha256 4bce649d2aac333176526f1f5732ca95a657a51cedea087c65c9af975a740690
+Retrieved: 2026-11-09
+Installer: 8_ronin.exe: NSIS 2.0b0 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 8 (8 different)
+This folder held 8 of them before the VISBOT import; they are byte-identical to the archive's.
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

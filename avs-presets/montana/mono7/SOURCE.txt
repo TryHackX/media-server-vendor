@@ -1,0 +1,13 @@
+Pack: mono7
+Author / group folder in the archive: montana
+Source: https://files.visbot.net/archive/montana/mono7.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: mono7.7z, 106288 bytes, sha256 7e223f623426b3b7ca3d18f33f799fc20faa286ae397842053c9eb8e6bd033a5
+Retrieved: 2026-11-09
+Installer: Mono_AVS_7_English.exe: NSIS 2.0b4 / solid LZMA
+Presets in the pack: 20 (20 different)
+Added here: 19
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 1 (a preset found in several packs stays in the smallest of them)
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

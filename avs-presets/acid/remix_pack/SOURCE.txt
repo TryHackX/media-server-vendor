@@ -1,0 +1,12 @@
+Pack: remix_pack
+Author / group folder in the archive: acid
+Source: https://files.visbot.net/archive/acid/remix_pack.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: remix_pack.7z, 74416 bytes, sha256 1528c1ba152a4e77b57eff0f7369b8937f72be4d7e934596d941a23ab1406a18
+Retrieved: 2026-11-09
+Installer: Acid_Remix_Pack.exe: NSIS 2.0b4 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 21 (21 different)
+Added here: 21
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

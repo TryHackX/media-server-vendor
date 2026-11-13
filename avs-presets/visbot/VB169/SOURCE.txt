@@ -1,0 +1,10 @@
+Pack: VB169
+Author / group folder: visbot (VISBOT's own release series)
+Source: Wayback Machine capture of https://visbot.net/files/packs/VB169.exe.zip (2023)
+From VISBOT (visbot.net), a collection of Winamp AVS packs released over the years.
+Archive file: VB169.exe.zip, 6608 bytes, sha256 cb7141ad39b87cf0774a51030d956d31f0484204d9c2a988c4b12e60b61bea47
+Retrieved: 2026-11-10 (downloaded with the owner's consent; read as data, nothing run)
+Installer: none
+Presets in the pack: 2; kept here: 2; byte-identical to a preset already in vendor/avs-presets (left out): 0
+Images kept (named by a preset of this pack): 0
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

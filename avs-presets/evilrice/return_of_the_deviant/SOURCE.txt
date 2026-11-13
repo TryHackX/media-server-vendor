@@ -1,0 +1,13 @@
+Pack: return_of_the_deviant
+Author / group folder in the archive: evilrice
+Source: https://files.visbot.net/archive/evilrice/return_of_the_deviant.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: return_of_the_deviant.7z, 131179 bytes, sha256 f3ddc42759a5c3df297a0f4d975b5adc7bcb2df8ac20317538d4022ced99adc6
+Retrieved: 2026-11-09
+Installer: returndeviant.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 25 (25 different)
+Added here: 25
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

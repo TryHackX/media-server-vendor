@@ -1,0 +1,13 @@
+Pack: JC3
+Author / group folder in the archive: jayfatboy
+Source: https://files.visbot.net/archive/jayfatboy/JC3.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: JC3.7z, 122715 bytes, sha256 9b179bd6f0d4e29650649db5abfa938fd6105712e2849034ac6481ebbea89f0a
+Retrieved: 2026-11-09
+Installer: JC_AVS_Collection_3.exe: self-extracting zip
+Presets in the pack: 35 (35 different)
+Added here: 35
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

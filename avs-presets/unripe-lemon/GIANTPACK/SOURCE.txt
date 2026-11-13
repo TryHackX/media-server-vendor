@@ -1,0 +1,13 @@
+Pack: GIANTPACK
+Author / group folder in the archive: unripe-lemon
+Source: https://files.visbot.net/archive/unripe-lemon/GIANTPACK.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: GIANTPACK.7z, 206672 bytes, sha256 b3397f09368d43efb42eac03215473e65d51196a2b81b9a340237efede6f1e4b
+Retrieved: 2026-11-09
+Installer: UL-GIANTPACK!.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 28) / non-solid zlib
+Presets in the pack: 56 (56 different)
+Added here: 56
+Images kept (named by a preset): 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

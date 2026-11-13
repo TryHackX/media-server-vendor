@@ -1,0 +1,12 @@
+Pack: erazemia_dream
+Author / group folder in the archive: runar
+Source: https://files.visbot.net/archive/runar/erazemia_dream.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: erazemia_dream.7z, 32607 bytes, sha256 807b2ba7764d2a9f564d6d13afd3fde17f0107a8c4311a8efbebf2a1d762b4dc
+Retrieved: 2026-11-09
+Installer: runar_-_erazemia_dream.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 22 (21 different)
+Added here: 21
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: CHNGS
+Author / group folder in the archive: guitwo
+Source: https://files.visbot.net/archive/guitwo/CHNGS.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: CHNGS.zip, 237134 bytes, sha256 eb008b8a5b8741e7fa75e87e3406aa7f7a49d14d36eb6c8df4f2d3874ea4a501
+Retrieved: 2026-11-09
+Installer: CHNGS.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 7 (7 different)
+Added here: 7
+Images kept (named by a preset): 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,13 @@
+Pack: Desibel7wreck
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Desibel7wreck.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Desibel7wreck.7z, 28533 bytes, sha256 6b461f860488a7cabce864092f573a2d3958889363729485a7ece3bd309e593b
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 30 (30 different)
+Added here: 30
+Images kept (named by a preset): 6
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

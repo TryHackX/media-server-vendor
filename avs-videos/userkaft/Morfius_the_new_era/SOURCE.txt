@@ -1,0 +1,7 @@
+AVI clips that presets of this pack play with AVS's Render / AVI effect, from the pack's own
+installer in the VISBOT archive (https://visbot.net/archive), retrieved 2026-11-09, read as
+data. Decoded with this project's FFmpeg (runtime/) into WebP frame atlases: <name>.json
+maps each frame of the stream's index (AVIStreamGetFrame) to a tile. The clips belong to
+their authors; no licence allows redistribution, so this folder stays out of git.
+
+dance11.avi: from userkaft/Morfius_the_new_era (sha256 bfc7ef4c6f6734378aa649ed92515bc52ae8492123e83a9c81ea14ec9f25115d), indeo5 192x144, 83 frames (83 distinct), 1 WebP page (quality 92)

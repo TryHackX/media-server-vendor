@@ -1,0 +1,14 @@
+Pack: Blazer_and_AvSM_Xmas_Special
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Blazer_and_AvSM_Xmas_Special.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Blazer_and_AvSM_Xmas_Special.7z, 159655 bytes, sha256 b596fa922984367c75b67374c3892a84f1f4b53c691f3fd2016302372ddcab6b
+Retrieved: 2026-11-09
+Installer: Blazer_and_AvSM_Xmas_Special_.exe: NSIS 2.0 alpha/beta (header found by its data, entry size 24) / non-solid zlib
+Presets in the pack: 80 (80 different)
+Added here: 72
+Left out as byte-identical to a preset kept elsewhere in vendor/avs-presets: 8 (a preset found in several packs stays in the smallest of them)
+Images kept (named by a preset): 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

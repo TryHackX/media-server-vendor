@@ -1,0 +1,12 @@
+Pack: Hellhammer_2
+Author / group folder in the archive: degnic
+Source: https://files.visbot.net/archive/degnic/Hellhammer_2.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: Hellhammer_2.7z, 16126 bytes, sha256 fbd840e20d74612052cac2bc049e06d1647b6faadad89a2aa916575baf773daa
+Retrieved: 2026-11-09
+Installer: Hell_hammer_2.exe: PiMP (install_folder $$PROGRAMFILES\winamp\plugins\avs\hellhammer2)
+Presets in the pack: 19 (19 different)
+Added here: 19
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

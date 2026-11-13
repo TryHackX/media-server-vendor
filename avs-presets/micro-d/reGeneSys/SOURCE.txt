@@ -1,0 +1,13 @@
+Pack: reGeneSys
+Author / group folder in the archive: micro-d
+Source: https://files.visbot.net/archive/micro-d/reGeneSys.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: reGeneSys.7z, 425787 bytes, sha256 cfae4e25346725ac5534267d75e1024c7a03e595fbc63ed5382c98f1ff4ab102
+Retrieved: 2026-11-09
+Installer: reGeneSys_by_micro_D.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 8 (8 different)
+Added here: 8
+Images kept (named by a preset): 13
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

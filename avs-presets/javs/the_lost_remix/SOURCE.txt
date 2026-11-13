@@ -1,0 +1,12 @@
+Pack: the_lost_remix
+Author / group folder in the archive: javs
+Source: https://files.visbot.net/archive/javs/the_lost_remix.zip
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: the_lost_remix.zip, 4839 bytes, sha256 c3b1a7ed0040bd0d365cd6c1e493b1dd992a04b68401a0db8b1bf7d7ea64ca2c
+Retrieved: 2026-11-09
+Installer: none (a plain archive)
+Presets in the pack: 2 (2 different)
+Added here: 2
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

@@ -1,0 +1,12 @@
+Pack: feebleattemps
+Author / group folder in the archive: onionring
+Source: https://files.visbot.net/archive/onionring/feebleattemps.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: feebleattemps.7z, 84815 bytes, sha256 fcbc0783a228cbbe7f92e622f94721289b1ada5502831de2c472df049723a2dd
+Retrieved: 2026-11-09
+Installer: Feeble_Attempts.exe: NSIS 2.0b4 / solid NSIS-bzip2 (1 block)
+Presets in the pack: 3 (3 different)
+Added here: 3
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.

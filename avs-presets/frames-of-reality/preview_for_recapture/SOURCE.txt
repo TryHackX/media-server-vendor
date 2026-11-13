@@ -1,0 +1,12 @@
+Pack: preview_for_recapture
+Author / group folder in the archive: frames-of-reality
+Source: https://files.visbot.net/archive/frames-of-reality/preview_for_recapture.7z
+From the VISBOT archive (https://visbot.net/archive), a collection of Winamp AVS packs released over the years.
+Archive file: preview_for_recapture.7z, 585101 bytes, sha256 88d53aac256e20c3f1428e1f6970625b37c7d0427f17ec1b47cd34d1e2872705
+Retrieved: 2026-11-09
+Installer: preview_for_recapture.exe: NSIS 2.x / solid LZMA
+Presets in the pack: 4 (4 different)
+Added here: 4
+Taken as data only: nothing from the archive was run. Installers were read as bytes; executables,
+plug-ins (APE/DLL/SVP) and every other file were left out.
+The presets are the work of their authors; no licence allows redistribution, so this folder stays out of git.
